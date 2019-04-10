@@ -1,0 +1,40 @@
+(define (main)
+  (setPort (open (getElement ScamArgs 1) 'read))
+   (n-loop (eval (readExpr) this) (readExpr))
+  ; (n-loop (lambda (x) (print x)) (0 1))  
+)
+
+
+(define (n-loop func @)
+	(define (getStart pair)
+		(car pair)
+	)
+
+	(define (getStop pair)
+		(car (cdr pair))
+	)
+	
+	(define (h lists anslist) 
+		(if (= (length lists) 1)
+			(if (< (getStart (car lists)) (getStop (car lists)))
+				(begin
+					(apply func (append anslist (list (getStart (car lists)))))
+					(h (list (list (+ (getStart (car lists)) 1) (getStop (car lists)))) anslist)
+				)
+				;else do nothing
+			)
+			
+			(if (< (getStart (car lists)) (getStop (car lists)))
+				(begin 
+					(h (cdr lists) (append anslist (list (getStart (car lists)))))
+					(h (append (list (list (+ (getStart (car lists)) 1) (getStop (car lists)))) (cdr lists)) anslist)
+				)
+				;else do nothing
+			)
+		)
+	)
+
+	(h (car @) '())
+)
+					
+					

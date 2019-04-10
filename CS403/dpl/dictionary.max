@@ -1,0 +1,16 @@
+include "library/Dictionary.max"
+
+function testDictionary() {
+	
+	object dic(dictionary())
+	array a(1 2 3 4 5 6 7 8 9 10)
+	array b("Jim" "Pam" "Dave" "Joe" "Sue" "Jill" "Kevin" "Greg" "Mary" "John")
+	variable i(0)
+	while(less(i sizeArray(a))) {
+		dic.insert(getArray(a i) getArray(b i))
+		i = inc(i)
+	}
+	dic.show()
+}
+
+testDictionary()

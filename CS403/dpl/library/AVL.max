@@ -1,0 +1,203 @@
+class node {
+
+	variable key()
+	variable value()
+	object parent()
+	object left()
+	object right()
+	object favorite()
+	
+	function create(k v) {
+		key = k
+		value = v
+	}
+	
+	function getSibling() {
+		if(isLeftChild()) {
+			parent.right
+		} else {
+			parent.left
+		}
+	}
+	
+	function isLeftChild() {
+		if(eq(parent null)) {
+			false
+		} else {
+			eq(parent.left this)
+		}
+	}
+	
+	function hasSibling() {
+		if(isLeftChild()) {
+			neq(parent.right null)
+		} else {
+			neq(parent.left null)
+		}
+	}	
+}
+	
+class avlTree {
+
+	object root()
+	
+	function insert(key val) {
+		object n(node(key val))
+		insertHelper(root n)
+		insertionFixup(n)
+	}
+	
+	function insertHelper(current new) {
+		if(eq(root null)) {
+			root = new
+		} else if(greater(new.key current.key)) {
+			if(neq(current.right null)) {
+				insertHelper(current.right new)
+			} else {
+				current.right = new
+				new.parent = current
+			} 
+		} else {
+			if(neq(current.left null)) {
+				insertHelper(current.left new)
+			}
+			else {
+				current.left = new
+				new.parent = current
+			}
+		}
+	}
+	
+	function insertionFixup(x) {
+		while(neq(x root)) {
+			if(and(x.hasSibling() eq(x.getSibling() x.parent.favorite))) {
+				x.parent.favorite = null
+				x = root
+			} else if(eq(x x.parent.favorite)) {
+				object c(x.favorite)
+				if(linear(c x)) {
+					if(and(neq(x.parent root) eq(x.parent x.parent.parent.favorite))) {
+						x.parent.parent.favorite = x
+					}
+					rotate(x)
+					x.favorite = null
+				} else {
+					if(c.hasSibling()) {
+						x.favorite = c.getSibling()
+					}
+					if(eq(x.parent x.parent.parent.favorite)) {
+						x.parent.parent.favorite = c
+					}
+					rotate(c)
+					rotate(c)
+					c.favorite = null
+				}
+				x = root
+			} else {
+				x.parent.favorite = x
+				x = x.parent
+			}
+		}
+	}
+	
+	function lookupKey(k) {
+		lookupKeyHelper(k root)
+	}
+	
+	function lookupKeyHelper(k current) {
+		if(eq(current null)) {
+			null
+		} else if(eq(k current.key)) {
+			current.value
+		} else if(greater(k current.key)) {
+			lookupKeyHelper(k current.right)
+		} else {
+			lookupKeyHelper(k current.left)
+		}
+	}
+	
+	function lookupValue(v) {
+		lookupValueHelper(v root)
+	}
+	
+	function lookupValueHelper(v current) {
+		if(eq(current null)) {
+			null
+		} else if(eq(v current.value)){
+			current.key
+		} else if(greater(v current.value)) {
+			lookupValueHelper(v current.right)
+		} else {
+			lookupValueHelper(v current.left)
+		}
+	}
+	
+	function show() {
+		if(neq(root null)) {
+			showHelper(root)
+		}
+	}
+	
+	function showHelper(current) {
+		if(neq(current.left null)) {
+			showHelper(current.left)
+		}
+		printLn(current.key ": " current.value)
+		if(neq(current.right null)) {
+			showHelper(current.right)
+		}
+	}
+	
+	
+	function rotate(x) {
+		if(x.isLeftChild()) {
+			rightRotate(x)
+		} else {
+			leftRotate(x)
+		}
+	}
+	
+	function rightRotate(x) {
+		object p(x.parent)
+		variable leftChild(p.isLeftChild())
+		x.parent.left = x.right
+		x.right = p
+		x.parent = p.parent
+		x.right.parent = x
+		if(eq(x.parent null)) {
+			root = x
+		} else {
+			if(leftChild) {
+				x.parent.left = x
+			} else {
+				x.parent.right = x
+			}
+		}
+	}
+	
+	function leftRotate(x) {
+		object p(x.parent)
+		variable leftChild(p.isLeftChild())
+		x.parent.right = x.left
+		x.left = p
+		x.parent = p.parent
+		x.left.parent = x
+		if(eq(x.parent null)) {
+			root = x
+		} else {
+			if(leftChild) {
+				x.parent.left = x
+			} else {
+				x.parent.right = x
+			}
+		}
+	}
+	
+	function linear(c x) {
+		if(x.isLeftChild()) {
+			eq(c x.left)
+		} else {
+			eq(c x.right)
+		}
+	}
+}					

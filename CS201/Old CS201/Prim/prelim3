@@ -1,0 +1,56 @@
+#!/bin/bash
+echo "#### EXERCISING THE MAKEFILE ####"
+echo "#### displaying modules..."
+ls *.c
+echo "#### cleaning up with make clean..."
+make clean
+echo "#### displaying object files and executable, should be none..."
+ls *.o prim
+echo "#### clean build with \"make\"..."
+make
+echo "#### rebuilding with \"make\", this command should do nothing..."
+make
+echo "#### touching scanner.h..."
+touch scanner.h
+echo "#### \"make\" should recompile two files..."
+make
+echo "#### running your tests with \"make test\"..."
+make test
+echo
+echo "#### EXERCISING THE EXECUTABLE ####"
+echo
+echo
+echo "0 1  10 ; 1 2 20 ; 2 3 15 ;" > pg0
+echo Testing an acyclic graph...
+echo
+echo cat pg0
+cat pg0
+echo
+echo "#### testing: prim pg0"
+echo
+echo "extecuting: prim pg0"
+prim pg0
+echo
+echo Testing a cyclic graph...
+echo
+echo "0 1 10 ; 1 2 20 ; 2 3 15 ; 3 0 25 ;" > pg1
+echo cat pg1
+cat pg1
+echo
+echo "#### testing: prim pg1"
+echo
+echo "extecuting: prim pg1"
+prim pg1
+echo
+echo Testing a disconnected graph...
+echo
+echo "1 2 10 ; 2 3 20 ; 3 4 15 ; 4 1 5 ; 5 6 18 ;" > pg2
+echo cat pg2
+cat pg2
+echo
+echo "#### testing: prim pg2"
+echo
+echo "extecuting: prim pg2"
+prim pg2
+echo
+echo "#### PRELIMINARY TESTING COMPLETED ####"

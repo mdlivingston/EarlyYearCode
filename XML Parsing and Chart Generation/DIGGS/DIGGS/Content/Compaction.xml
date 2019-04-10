@@ -1,0 +1,213 @@
+<Diggs xmlns="http://diggsml.org/schemas/2.0.b"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://diggsml.org/schemas/2.0.b http://diggsml.org/schemas/2.0.b/Complete.xsd"
+    xmlns:diggs_geo="http://diggsml.org/schemas/2.0.b/geotechnical"
+    xmlns:witsml="http://www.witsml.org/schemas/131" xmlns:glr="http://www.opengis.net/gml/3.3/lr"
+    xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:g3.3="http://www.opengis.net/gml/3.3/ce"
+    xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:diggs="http://diggsml.org/schemas/2.0.b"
+    xmlns:glrov="http://www.opengis.net/gml/3.3/lrov"
+    gml:id="NTM1YTEwMzUtYmRmZS00NTIxLTk1OWItZjk4NGEwOWRjZDcx">
+  <documentInformation>
+        <DocumentInformation gml:id="thiscouldbeautgenerated">
+            <creationDate>2018-08-29</creationDate>
+            <author>Rachel Robinson</author>
+            <disclaimer>No specified in AGS data</disclaimer>
+            <auditTrail>
+                <Remark>
+                    <content>created using lab data</content>
+                    <remarkDateTime>2018-06-19</remarkDateTime>
+                </Remark>
+            </auditTrail>
+        </DocumentInformation>
+    </documentInformation>
+<project>
+        <Project gml:id="DLR23099">
+            <gml:name>Dans greate DIGGS file</gml:name>
+            <role>
+                <Role>
+                    <rolePerformed>Client</rolePerformed>
+                    <businessAssociate>Clients name</businessAssociate>
+                </Role>
+            </role>
+        </Project>
+</project>
+   <samplingFeature>
+       <Borehole gml:id="BH1">
+            <gml:name>BH1</gml:name>
+            
+            <investigationTarget>Natural Ground</investigationTarget>
+            <projectRef xlink:href="#21"/>
+			<referencePoint>
+				<PointLocation gml:id="pl1">
+					<gml:pos></gml:pos>
+				</PointLocation>
+			</referencePoint>
+            <centerLine>
+				<LinearExtent gml:id="le1">
+					<gml:posList></gml:posList>
+				</LinearExtent>
+			</centerLine>
+			<linearReferencing>
+				<LinearSpatialReferenceSystem gml:id="lsrs1">
+					<gml:identifier codeSpace="something">urn:diggs:def:fi:ABC:identifier</gml:identifier>
+					<glr:linearElement></glr:linearElement>
+					<glr:lrm></glr:lrm>
+				</LinearSpatialReferenceSystem>
+			</linearReferencing>
+        </Borehole>
+    </samplingFeature>
+<measurement>
+        <Test gml:id="DGS765F-DA6-2E5C-4987-1FA95">
+            <gml:name>Compaction Test</gml:name>
+            <role>
+                <Role>
+                    <rolePerformed>Laboratory</rolePerformed>
+                    <businessAssociate>Keynetix</businessAssociate>
+                </Role>
+            </role>
+            <role>
+                <Role>
+                    <rolePerformed>Tested by</rolePerformed>
+                    <businessAssociate>Bill Gate</businessAssociate>
+                </Role>
+            </role>
+            <role>
+                <Role>
+                     <rolePerformed>Checked by</rolePerformed>
+                    <businessAssociate>Bob Bachus</businessAssociate>
+                </Role>
+            </role>
+            <role>
+                <Role>
+                     <rolePerformed>Approved by</rolePerformed>
+                    <businessAssociate>Roger Chandler</businessAssociate>
+                </Role>
+            </role>
+            <investigationTarget>Natural Ground</investigationTarget>
+            <samplingFeatureRef xlink:href="#BH-38"/>
+            <resultTime>
+                <TimeInterval gml:id="at3">
+                    <start>2015-12-18</start>
+                </TimeInterval>
+            </resultTime>
+            <outcome>
+                <TestResult gml:id="alty2">
+                    <location xlink:href="ssfg-skl-7"/>
+                    <results>
+                        <ResultSet>
+                            <parameters>
+                                <PropertyParameters gml:id="DGS82SA-5C-3JFB-CED6-4G591">
+                                    <properties>
+                                        <Property index="1" gml:id="DGS79S-A98-4U02-C8B4-272B0">
+                                            <propertyName>1</propertyName>
+                                            <typeData>integer</typeData>
+                                            <propertyClass codeSpace="urn:x-diggs:def:code-list:property">lab_compaction_test_trial_property</propertyClass>
+                                            <measurementTechnique>measured</measurementTechnique>
+ 				            </Property>
+					<Property index="2" gml:id="DGS74S-A99-4U02-C0B4-272B0">	
+					    <propertyName>2</propertyName>
+                                            <typeData>integer</typeData>
+                                            <propertyClass codeSpace="urn:x-diggs:def:code-list:property">lab_compaction_test_trial_property</propertyClass>
+                                            <measurementTechnique>measured</measurementTechnique>
+					    </Property>
+					<Property index="3" gml:id="DFY74S-A99-4U02-C0B4-272B0">	
+					    <propertyName>3</propertyName>
+                                            <typeData>integer</typeData>
+                                            <propertyClass codeSpace="urn:x-diggs:def:code-list:property">lab_compaction_test_trial_property</propertyClass>
+                                            <measurementTechnique>measured</measurementTechnique>
+				            </Property>
+					<Property index="4" gml:id="DFY74S-A99-4U12-C0B4-272B0">	
+					    <propertyName>4</propertyName>
+                                            <typeData>integer</typeData>
+                                            <propertyClass codeSpace="urn:x-diggs:def:code-list:property">lab_compaction_test_trial_property</propertyClass>
+                                            <measurementTechnique>measured</measurementTechnique>
+					    </Property>	
+					<Property index="5" gml:id="DFY74S-A99-4U02-A0B4-272B0">	
+					    <propertyName>5</propertyName>
+                                            <typeData>integer</typeData>
+                                            <propertyClass codeSpace="urn:x-diggs:def:code-list:property">lab_compaction_test_trial_property</propertyClass>
+                                            <measurementTechnique>measured</measurementTechnique>
+                                            </Property>
+					<Property index="6" gml:id="DFY74S-A99-4G02-C0B4-272B0">	
+					    <propertyName>6</propertyName>
+                                            <typeData>integer</typeData>
+                                            <propertyClass codeSpace="urn:x-diggs:def:code-list:property">lab_compaction_test_trial_property</propertyClass>
+                                            <measurementTechnique>measured</measurementTechnique>
+                                            </Property>	
+                                    </properties>
+                                </PropertyParameters>
+                            </parameters>
+                            <dataValues cs="," decimal="." ts=" ">1 2 3 4 5 6</dataValues>
+                        </ResultSet>
+                    </results>
+                </TestResult>
+            </outcome>
+            <procedure>
+              <diggs_geo:LabCompactionTest gml:id="DGS8B37-1519-2F21-FA65-5F857">
+                    <diggs_geo:mouldDiameter uom="cm">10.1</diggs_geo:mouldDiameter>
+                    <diggs_geo:mouldVolume uom="cm3">942.2</diggs_geo:mouldVolume>
+		    <diggs_geo:rammerDiameter uom="cm">5.1</diggs_geo:rammerDiameter>
+                    <diggs_geo:rammerMass uom="g">2494.76</diggs_geo:rammerMass>
+		    <diggs_geo:rammerDrop uom="cm">30.5</diggs_geo:rammerDrop>
+                    <diggs_geo:rammerIsManual>true</diggs_geo:rammerIsManual>
+                    <diggs_geo:numberOfLayers>3</diggs_geo:numberOfLayers>
+ 		    <diggs_geo:blowsPerLayer>25</diggs_geo:blowsPerLayer>
+		    <diggs_geo:trial>
+				<diggs_geo:LabCompactionTestTrial gml:id="S8B37-1519-2F21-FA65-5F855">
+                            		<diggs_geo:trialNo>1</diggs_geo:trialNo>
+                            		<diggs_geo:waterContent uom="%">6.4</diggs_geo:waterContent>
+                            		<diggs_geo:dryDensity uom="kg/m3">1416</diggs_geo:dryDensity>
+		            		<diggs_geo:moistureAdjustment uom="g">4.2</diggs_geo:moistureAdjustment>
+			   		<diggs_geo:tamperReading>0</diggs_geo:tamperReading>
+                        	</diggs_geo:LabCompactionTestTrial>
+		    </diggs_geo:trial>
+		    <diggs_geo:trial>
+				<diggs_geo:LabCompactionTestTrial gml:id="S8F35-1519-2F21-FA65-5TH55">
+ 			    		<diggs_geo:trialNo>2</diggs_geo:trialNo>
+                            		<diggs_geo:waterContent uom="%">9.6</diggs_geo:waterContent>
+                            		<diggs_geo:dryDensity uom="kg/m3">1578</diggs_geo:dryDensity>
+		            		<diggs_geo:moistureAdjustment uom="g">8.5</diggs_geo:moistureAdjustment>
+			    		<diggs_geo:tamperReading>0</diggs_geo:tamperReading>
+                        	</diggs_geo:LabCompactionTestTrial>
+		    </diggs_geo:trial>
+		    <diggs_geo:trial>
+				<diggs_geo:LabCompactionTestTrial gml:id="S8S35-1519-2F21-FA45-5FH55">
+                            		<diggs_geo:trialNo>3</diggs_geo:trialNo>
+                            		<diggs_geo:waterContent uom="%">12.7</diggs_geo:waterContent>
+                            		<diggs_geo:dryDensity uom="kg/m3">1634</diggs_geo:dryDensity>
+		            		<diggs_geo:moistureAdjustment uom="g">8.3</diggs_geo:moistureAdjustment>
+			    		<diggs_geo:tamperReading>0</diggs_geo:tamperReading>
+                               	</diggs_geo:LabCompactionTestTrial>
+		    </diggs_geo:trial>
+		    <diggs_geo:trial>
+				<diggs_geo:LabCompactionTestTrial gml:id="S8B35-1579-2F21-FA95-5FH55">
+                            		<diggs_geo:trialNo>4</diggs_geo:trialNo>
+                            		<diggs_geo:waterContent uom="%">15.0</diggs_geo:waterContent>
+                            		<diggs_geo:dryDensity uom="kg/m3">1694</diggs_geo:dryDensity>
+		            		<diggs_geo:moistureAdjustment uom="g">12.9</diggs_geo:moistureAdjustment>
+			    		<diggs_geo:tamperReading>0</diggs_geo:tamperReading>
+                        	</diggs_geo:LabCompactionTestTrial>
+		    </diggs_geo:trial>
+		    <diggs_geo:trial>
+				<diggs_geo:LabCompactionTestTrial gml:id="S8B85-1516-2F21-YA65-5FH55">
+                            		<diggs_geo:trialNo>5</diggs_geo:trialNo>
+                            		<diggs_geo:waterContent uom="%">19.0</diggs_geo:waterContent>
+                            		<diggs_geo:dryDensity uom="kg/m3">1641</diggs_geo:dryDensity>
+		            		<diggs_geo:moistureAdjustment uom="g">17.7</diggs_geo:moistureAdjustment>
+			    		<diggs_geo:tamperReading>0</diggs_geo:tamperReading>
+                        	</diggs_geo:LabCompactionTestTrial>
+		    </diggs_geo:trial>
+		    <diggs_geo:trial>
+				<diggs_geo:LabCompactionTestTrial gml:id="S8B35-1919-2F21-FA65-5HH59">
+                            		<diggs_geo:trialNo>6</diggs_geo:trialNo>
+                            		<diggs_geo:waterContent uom="%">22.8</diggs_geo:waterContent>
+                            		<diggs_geo:dryDensity uom="kg/m3">1534</diggs_geo:dryDensity>
+		            		<diggs_geo:moistureAdjustment uom="g">11.9</diggs_geo:moistureAdjustment>
+                            		<diggs_geo:tamperReading>0</diggs_geo:tamperReading>
+              			</diggs_geo:LabCompactionTestTrial>
+                    </diggs_geo:trial>
+              </diggs_geo:LabCompactionTest>
+            </procedure>
+         </Test>
+    </measurement>
+</Diggs>

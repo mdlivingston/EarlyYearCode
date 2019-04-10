@@ -1,0 +1,4 @@
+(define num1 (lambda (f) (lambda (x) (f (f (f (f (f (f x)))))))))
+(define num2 (lambda (f) (lambda (x) (f (f (f (f (f (f (f x))))))))))
+(define (inc x) (+ x 1))
+(define base 0)

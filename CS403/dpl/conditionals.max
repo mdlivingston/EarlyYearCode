@@ -1,0 +1,21 @@
+if(eq(1 2)) {
+	printLn("1 is equal to 2")
+} else {
+	printLn("1 is not equal to 2")
+}
+
+if(eq(3 4)) {
+	printLn("3 is equal to 4")
+} else if(eq(2 2)) {
+	printLn("2 is equal to 2")
+} else {
+	printLn("3 is not equal to 4 and 2 is not equal to 2")
+}
+
+if(and(eq(add(1 0) 1) eq(mult(2 1) 2))) {
+	printLn("both statements are true")
+}
+	
+if(or(eq(add(1 0) 2) eq(mult(2 1) 2))) {
+	printLn("at least one of the statements is true")
+}

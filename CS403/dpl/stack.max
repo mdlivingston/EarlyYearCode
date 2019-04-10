@@ -1,0 +1,32 @@
+include "library/Stack.max"
+
+object s(Stack())
+object st(Stack())
+
+s.push(1)
+s.push(2)
+s.push(3)
+s.push(4)
+
+printLn("Displaying s: ")
+s.display()
+
+st.push(4)
+st.push(3)
+st.push(2)
+st.push(1)
+
+printLn("Displaying st: " )
+st.display()
+
+printLn("Displaying s array: ")
+s.a.display()
+
+
+s.pop()
+
+printLn("Displaying s: ")
+s.display()
+
+printLn("Top of s stack: " s.peek())
+

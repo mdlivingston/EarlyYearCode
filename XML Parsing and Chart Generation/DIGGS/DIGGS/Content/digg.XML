@@ -1,0 +1,179 @@
+<Diggs xmlns="http://diggsml.org/schemas/2.0.b"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://diggsml.org/schemas/2.0.b http://diggsml.org/schemas/2.0.b/Complete.xsd"
+    xmlns:diggs_geo="http://diggsml.org/schemas/2.0.b/geotechnical"
+    xmlns:witsml="http://www.witsml.org/schemas/131" xmlns:glr="http://www.opengis.net/gml/3.3/lr"
+    xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:g3.3="http://www.opengis.net/gml/3.3/ce"
+    xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:diggs="http://diggsml.org/schemas/2.0.b"
+    xmlns:glrov="http://www.opengis.net/gml/3.3/lrov"
+    gml:id="NTM1YTEwMzUtYmRmZS00NTIxLTk1OWItZjk4NGEwOWRjZDcx">
+    <documentInformation>
+        <DocumentInformation gml:id="thiscouldbeautgenerated">
+            <creationDate>2017-05-18</creationDate>
+            <author>Roger Chandler</author>
+            <disclaimer>No specified in AGS data</disclaimer>
+            <auditTrail>
+                <Remark>
+                    <content>Created using the KeyLAB Atterberg Example Sheet</content>
+                    <remarkDateTime>2017-05-18</remarkDateTime>
+                </Remark>
+            </auditTrail>
+        </DocumentInformation>
+    </documentInformation>
+<project>
+        <Project gml:id="DLR23099">
+            <gml:name>Dans greate DIGGS file</gml:name>
+            <role>
+                <Role>
+                    <rolePerformed>Client</rolePerformed>
+                    <businessAssociate>Clients name</businessAssociate>
+                </Role>
+            </role>
+        </Project>
+</project>
+   <samplingFeature>
+        <Borehole gml:id="BH1">
+            <gml:name>BH1</gml:name>
+            
+            <investigationTarget>Natural Ground</investigationTarget>
+            <projectRef xlink:href="#21"/>
+            
+        </Borehole>
+    </samplingFeature>
+<measurement>
+        <Test gml:id="DGS765F-DA6-2E5C-4987-1FA95">
+            <gml:name>Atterberg Limits Test</gml:name>
+            <role>
+                <Role>
+                    <rolePerformed>Laboratory</rolePerformed>
+                    <businessAssociate>Keynetix</businessAssociate>
+                </Role>
+            </role>
+            <role>
+                <Role>
+                    <rolePerformed>Tested by</rolePerformed>
+                    <businessAssociate>Bill Gate</businessAssociate>
+                </Role>
+            </role>
+            <role>
+                <Role>
+                     <rolePerformed>Checked by</rolePerformed>
+                    <businessAssociate>Bob Bachus</businessAssociate>
+                </Role>
+            </role>
+            <role>
+                <Role>
+                     <rolePerformed>Approved by</rolePerformed>
+                    <businessAssociate>Roger Chandler</businessAssociate>
+                </Role>
+            </role>
+            <investigationTarget>Natural Ground</investigationTarget>
+            <samplingFeatureRef xlink:href="#BH-38"/>
+            <sampleRef xlink:href="#spt-6"/>
+            <resultTime>
+                <TimeInterval gml:id="at3">
+                    <start>2015-12-18</start>
+                </TimeInterval>
+            </resultTime>
+            <outcome>
+                <TestResult gml:id="altr1">
+                    <location xlink:href="ssal-spt-6"/>
+                    <results>
+                        <ResultSet>
+                            <parameters>
+                                <PropertyParameters gml:id="DGS81FA-5C-3CDB-CED2-4A590">
+                                    <properties>
+                                        <Property index="1" gml:id="DGS79C-A98-4502-C8B9-272B0">
+                                            <propertyName>Liquid Limit</propertyName>
+                                            <typeData>integer</typeData>
+                                            <propertyClass codeSpace="urn:x-diggs:def:code-list:property">liquid_limit</propertyClass>
+                                            <uom>%</uom>
+                                            <measurementTechnique>measured</measurementTechnique>
+                                        </Property>
+                                        <Property index="2" gml:id="DGSA163-164C-480-F11E-262B8">
+                                            <propertyName>Plastic Limit</propertyName>
+                                            <typeData>integer</typeData>
+                                            <propertyClass codeSpace="urn:x-diggs:def:code-list:property">plastic_limit</propertyClass>
+                                            <uom>%</uom>
+                                            <measurementTechnique>measured</measurementTechnique>
+                                        </Property>
+                                        <Property index="3" gml:id="DGS580F-13A1-448-9671-31258">
+                                            <propertyName>Plasticity Index</propertyName>
+                                            <typeData>integer</typeData>
+                                            <propertyClass codeSpace="urn:x-diggs:def:code-list:property">plasticity_index</propertyClass>
+                                            <measurementTechnique>calculated</measurementTechnique>
+                                        </Property>
+                                    </properties>
+                                </PropertyParameters>
+                            </parameters>
+                            <dataValues cs="," decimal="." ts=" ">65 21 44</dataValues>
+                        </ResultSet>
+                    </results>
+                </TestResult>
+            </outcome>
+            <procedure>
+                <diggs_geo:AtterbergLimitsTest gml:id="atterberg-procedure">
+                    <!-- No equipment specified for this test but if there was it would go below -->
+		    <!-- <equipmentRef xlink:href="#e13"/> -->
+                    <specification codeSpace="ASTM">ASTM D4318-10, Multipoint test</specification>
+                    
+		    <!-- <otherTestProperty>
+                        <Parameter gml:id="app1">
+                            <parameterName>Initial Moisture Adjustment</parameterName>
+                            <parameterValue>2015-12-17T15:30</parameterValue>
+                        </Parameter>
+                    </otherTestProperty>
+                    <otherTestProperty>
+                        <Parameter gml:id="app2">
+                            <parameterName>End of Curing (start of test)</parameterName>
+                            <parameterValue>2015-12-18T10:00</parameterValue>
+                        </Parameter>
+                    </otherTestProperty>  -->
+                    <diggs_geo:handRemoved>true</diggs_geo:handRemoved>
+                    <diggs_geo:percentRetainedNo40>20</diggs_geo:percentRetainedNo40>
+                    <!-- <diggs_geo:specimenInitialState></diggs_geo:specimenInitialState> xxx Need to work out the list of allowable items -->
+                    <diggs_geo:multiPointLLmethod>true</diggs_geo:multiPointLLmethod>
+                    <diggs_geo:casagrandeTrial>
+                        <diggs_geo:CasagrandeTrial gml:id="DGS3206-FEF-33D3-42FC-1D4A8">
+                            <diggs_geo:trialNo>1</diggs_geo:trialNo>
+                            <diggs_geo:isManual>true</diggs_geo:isManual>
+                            <diggs_geo:blowCount>30</diggs_geo:blowCount>
+                            <diggs_geo:waterContent uom="%">53</diggs_geo:waterContent>
+                        </diggs_geo:CasagrandeTrial>
+                    </diggs_geo:casagrandeTrial>
+                    <diggs_geo:casagrandeTrial>
+                        <diggs_geo:CasagrandeTrial gml:id="DGS8B37-1519-2F21-FA65-5F857">
+                            <diggs_geo:trialNo>2</diggs_geo:trialNo>
+                            <diggs_geo:isManual>true</diggs_geo:isManual>
+                            <diggs_geo:blowCount>27</diggs_geo:blowCount>
+                            <diggs_geo:waterContent uom="%">62</diggs_geo:waterContent>
+                        </diggs_geo:CasagrandeTrial>
+                    </diggs_geo:casagrandeTrial>
+                    <diggs_geo:casagrandeTrial>
+                        <diggs_geo:CasagrandeTrial gml:id="DGS2610-11C9-4E65-3DF1-37FB0">
+                            <diggs_geo:trialNo>3</diggs_geo:trialNo>
+                            <diggs_geo:isManual>true</diggs_geo:isManual>
+                            <diggs_geo:blowCount>20</diggs_geo:blowCount>
+                            <diggs_geo:waterContent uom="%">77.7</diggs_geo:waterContent>
+                        </diggs_geo:CasagrandeTrial>
+                    </diggs_geo:casagrandeTrial>
+                    
+                    <diggs_geo:plasticLimitTrial>
+                        <diggs_geo:PlasticLimitTrial gml:id="DGS11D8-1992-3617-3FD-3C4FF">
+                            <diggs_geo:trialNo>1</diggs_geo:trialNo>
+                            <diggs_geo:isManual>true</diggs_geo:isManual>
+                            <diggs_geo:waterContent uom="%">20</diggs_geo:waterContent>
+                        </diggs_geo:PlasticLimitTrial>
+                    </diggs_geo:plasticLimitTrial>
+                    <diggs_geo:plasticLimitTrial>
+                        <diggs_geo:PlasticLimitTrial gml:id="DGS10C9-2A3-3FE8-483D-4C96">
+                            <diggs_geo:trialNo>2</diggs_geo:trialNo>
+                            <diggs_geo:isManual>true</diggs_geo:isManual>
+                            <diggs_geo:waterContent uom="%">21</diggs_geo:waterContent>
+                        </diggs_geo:PlasticLimitTrial>
+                    </diggs_geo:plasticLimitTrial>
+                </diggs_geo:AtterbergLimitsTest>
+            </procedure>
+        </Test>
+    </measurement>
+</Diggs>

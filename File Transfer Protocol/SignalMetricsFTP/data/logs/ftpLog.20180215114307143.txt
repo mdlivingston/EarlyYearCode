@@ -1,0 +1,3092 @@
+Started FTP process at 2/15/2018 11:43:07 AM
+Skipping the FTP process.
+Started database inserts at 2/15/2018 11:43:07 AM
+Preparing to bulk copy 1461 rows for signal 63011012
+Bulk copy for 63011012 successful
+Done with SIEM_10.160.4.106_2018_02_14_0000.csv at 2/15/2018 11:43:59 AM
+Preparing to bulk copy 1029 rows for signal 63011012
+Bulk copy for 63011012 successful
+Done with SIEM_10.160.4.106_2018_02_14_0100.csv at 2/15/2018 11:43:59 AM
+Preparing to bulk copy 726 rows for signal 63011012
+Bulk copy for 63011012 successful
+Done with SIEM_10.160.4.106_2018_02_14_0200.csv at 2/15/2018 11:43:59 AM
+Preparing to bulk copy 920 rows for signal 63011012
+Bulk copy for 63011012 successful
+Done with SIEM_10.160.4.106_2018_02_14_0300.csv at 2/15/2018 11:43:59 AM
+Preparing to bulk copy 1082 rows for signal 63011012
+Bulk copy for 63011012 successful
+Done with SIEM_10.160.4.106_2018_02_14_0400.csv at 2/15/2018 11:43:59 AM
+Preparing to bulk copy 3113 rows for signal 63011012
+Bulk copy for 63011012 successful
+Done with SIEM_10.160.4.106_2018_02_14_0500.csv at 2/15/2018 11:43:59 AM
+Preparing to bulk copy 4664 rows for signal 63011012
+Bulk copy for 63011012 successful
+Done with SIEM_10.160.4.106_2018_02_14_0600.csv at 2/15/2018 11:43:59 AM
+Preparing to bulk copy 6578 rows for signal 63011012
+Bulk copy for 63011012 successful
+Done with SIEM_10.160.4.106_2018_02_14_0700.csv at 2/15/2018 11:43:59 AM
+Preparing to bulk copy 5753 rows for signal 63011012
+Bulk copy for 63011012 successful
+Done with SIEM_10.160.4.106_2018_02_14_0800.csv at 2/15/2018 11:43:59 AM
+Preparing to bulk copy 5399 rows for signal 63011012
+Bulk copy for 63011012 successful
+Done with SIEM_10.160.4.106_2018_02_14_0900.csv at 2/15/2018 11:43:59 AM
+Preparing to bulk copy 5655 rows for signal 63011012
+Bulk copy for 63011012 successful
+Done with SIEM_10.160.4.106_2018_02_14_1000.csv at 2/15/2018 11:44:00 AM
+Preparing to bulk copy 6233 rows for signal 63011012
+Bulk copy for 63011012 successful
+Done with SIEM_10.160.4.106_2018_02_14_1100.csv at 2/15/2018 11:44:00 AM
+Preparing to bulk copy 6993 rows for signal 63011012
+Bulk copy for 63011012 successful
+Done with SIEM_10.160.4.106_2018_02_14_1200.csv at 2/15/2018 11:44:00 AM
+Preparing to bulk copy 7008 rows for signal 63011012
+Bulk copy for 63011012 successful
+Done with SIEM_10.160.4.106_2018_02_14_1300.csv at 2/15/2018 11:44:00 AM
+Preparing to bulk copy 7363 rows for signal 63011012
+Bulk copy for 63011012 successful
+Done with SIEM_10.160.4.106_2018_02_14_1400.csv at 2/15/2018 11:44:00 AM
+Preparing to bulk copy 8329 rows for signal 63011012
+Bulk copy for 63011012 successful
+Done with SIEM_10.160.4.106_2018_02_14_1500.csv at 2/15/2018 11:44:00 AM
+Preparing to bulk copy 7969 rows for signal 63011012
+Bulk copy for 63011012 successful
+Done with SIEM_10.160.4.106_2018_02_14_1600.csv at 2/15/2018 11:44:00 AM
+Preparing to bulk copy 8305 rows for signal 63011012
+Bulk copy for 63011012 successful
+Done with SIEM_10.160.4.106_2018_02_14_1700.csv at 2/15/2018 11:44:00 AM
+Preparing to bulk copy 6490 rows for signal 63011012
+Bulk copy for 63011012 successful
+Done with SIEM_10.160.4.106_2018_02_14_1800.csv at 2/15/2018 11:44:01 AM
+Preparing to bulk copy 4602 rows for signal 63011012
+Bulk copy for 63011012 successful
+Done with SIEM_10.160.4.106_2018_02_14_1900.csv at 2/15/2018 11:44:01 AM
+Preparing to bulk copy 4252 rows for signal 63011012
+Bulk copy for 63011012 successful
+Done with SIEM_10.160.4.106_2018_02_14_2000.csv at 2/15/2018 11:44:01 AM
+Preparing to bulk copy 3566 rows for signal 63011012
+Bulk copy for 63011012 successful
+Done with SIEM_10.160.4.106_2018_02_14_2100.csv at 2/15/2018 11:44:01 AM
+Preparing to bulk copy 4331 rows for signal 63011012
+Bulk copy for 63011012 successful
+Done with SIEM_10.160.4.106_2018_02_14_2200.csv at 2/15/2018 11:44:01 AM
+Preparing to bulk copy 3073 rows for signal 63011012
+Bulk copy for 63011012 successful
+Done with SIEM_10.160.4.106_2018_02_14_2300.csv at 2/15/2018 11:44:01 AM
+Preparing to bulk copy 3644 rows for signal 63011013
+Bulk copy for 63011013 successful
+Done with SIEM_10.160.4.111_2018_02_14_0000.csv at 2/15/2018 11:44:01 AM
+Preparing to bulk copy 2078 rows for signal 63011013
+Bulk copy for 63011013 successful
+Done with SIEM_10.160.4.111_2018_02_14_0100.csv at 2/15/2018 11:44:01 AM
+Preparing to bulk copy 1717 rows for signal 63011013
+Bulk copy for 63011013 successful
+Done with SIEM_10.160.4.111_2018_02_14_0200.csv at 2/15/2018 11:44:01 AM
+Preparing to bulk copy 1936 rows for signal 63011013
+Bulk copy for 63011013 successful
+Done with SIEM_10.160.4.111_2018_02_14_0300.csv at 2/15/2018 11:44:01 AM
+Preparing to bulk copy 3811 rows for signal 63011013
+Bulk copy for 63011013 successful
+Done with SIEM_10.160.4.111_2018_02_14_0400.csv at 2/15/2018 11:44:01 AM
+Preparing to bulk copy 7847 rows for signal 63011013
+Bulk copy for 63011013 successful
+Done with SIEM_10.160.4.111_2018_02_14_0500.csv at 2/15/2018 11:44:01 AM
+Preparing to bulk copy 9011 rows for signal 63011013
+Bulk copy for 63011013 successful
+Done with SIEM_10.160.4.111_2018_02_14_0600.csv at 2/15/2018 11:44:01 AM
+Preparing to bulk copy 12017 rows for signal 63011013
+Bulk copy for 63011013 successful
+Done with SIEM_10.160.4.111_2018_02_14_0700.csv at 2/15/2018 11:44:02 AM
+Preparing to bulk copy 9937 rows for signal 63011013
+Bulk copy for 63011013 successful
+Done with SIEM_10.160.4.111_2018_02_14_0800.csv at 2/15/2018 11:44:02 AM
+Preparing to bulk copy 8615 rows for signal 63011013
+Bulk copy for 63011013 successful
+Done with SIEM_10.160.4.111_2018_02_14_0900.csv at 2/15/2018 11:44:02 AM
+Preparing to bulk copy 8913 rows for signal 63011013
+Bulk copy for 63011013 successful
+Done with SIEM_10.160.4.111_2018_02_14_1000.csv at 2/15/2018 11:44:02 AM
+Preparing to bulk copy 9935 rows for signal 63011013
+Bulk copy for 63011013 successful
+Done with SIEM_10.160.4.111_2018_02_14_1100.csv at 2/15/2018 11:44:02 AM
+Preparing to bulk copy 10767 rows for signal 63011013
+Bulk copy for 63011013 successful
+Done with SIEM_10.160.4.111_2018_02_14_1200.csv at 2/15/2018 11:44:02 AM
+Preparing to bulk copy 10867 rows for signal 63011013
+Bulk copy for 63011013 successful
+Done with SIEM_10.160.4.111_2018_02_14_1300.csv at 2/15/2018 11:44:03 AM
+Preparing to bulk copy 10331 rows for signal 63011013
+Bulk copy for 63011013 successful
+Done with SIEM_10.160.4.111_2018_02_14_1400.csv at 2/15/2018 11:44:03 AM
+Preparing to bulk copy 11678 rows for signal 63011013
+Bulk copy for 63011013 successful
+Done with SIEM_10.160.4.111_2018_02_14_1500.csv at 2/15/2018 11:44:03 AM
+Preparing to bulk copy 11953 rows for signal 63011013
+Bulk copy for 63011013 successful
+Done with SIEM_10.160.4.111_2018_02_14_1600.csv at 2/15/2018 11:44:03 AM
+Preparing to bulk copy 12922 rows for signal 63011013
+Bulk copy for 63011013 successful
+Done with SIEM_10.160.4.111_2018_02_14_1700.csv at 2/15/2018 11:44:03 AM
+Preparing to bulk copy 10642 rows for signal 63011013
+Bulk copy for 63011013 successful
+Done with SIEM_10.160.4.111_2018_02_14_1800.csv at 2/15/2018 11:44:03 AM
+Preparing to bulk copy 8137 rows for signal 63011013
+Bulk copy for 63011013 successful
+Done with SIEM_10.160.4.111_2018_02_14_1900.csv at 2/15/2018 11:44:04 AM
+Preparing to bulk copy 7280 rows for signal 63011013
+Bulk copy for 63011013 successful
+Done with SIEM_10.160.4.111_2018_02_14_2000.csv at 2/15/2018 11:44:04 AM
+Preparing to bulk copy 6777 rows for signal 63011013
+Bulk copy for 63011013 successful
+Done with SIEM_10.160.4.111_2018_02_14_2100.csv at 2/15/2018 11:44:04 AM
+Preparing to bulk copy 8160 rows for signal 63011013
+Bulk copy for 63011013 successful
+Done with SIEM_10.160.4.111_2018_02_14_2200.csv at 2/15/2018 11:44:04 AM
+Preparing to bulk copy 5779 rows for signal 63011013
+Bulk copy for 63011013 successful
+Done with SIEM_10.160.4.111_2018_02_14_2300.csv at 2/15/2018 11:44:04 AM
+Preparing to bulk copy 8072 rows for signal 63215009
+Bulk copy for 63215009 successful
+Done with SIEM_10.160.4.231_2018_02_08_1100.csv at 2/15/2018 11:44:04 AM
+Preparing to bulk copy 8837 rows for signal 63215009
+Bulk copy for 63215009 successful
+Done with SIEM_10.160.4.231_2018_02_08_1200.csv at 2/15/2018 11:44:04 AM
+Preparing to bulk copy 8815 rows for signal 63215009
+Bulk copy for 63215009 successful
+Done with SIEM_10.160.4.231_2018_02_08_1300.csv at 2/15/2018 11:44:04 AM
+Preparing to bulk copy 8948 rows for signal 63215009
+Bulk copy for 63215009 successful
+Done with SIEM_10.160.4.231_2018_02_08_1400.csv at 2/15/2018 11:44:05 AM
+Preparing to bulk copy 9382 rows for signal 63215009
+Bulk copy for 63215009 successful
+Done with SIEM_10.160.4.231_2018_02_08_1500.csv at 2/15/2018 11:44:05 AM
+Preparing to bulk copy 8834 rows for signal 63215009
+Bulk copy for 63215009 successful
+Done with SIEM_10.160.4.231_2018_02_08_1600.csv at 2/15/2018 11:44:05 AM
+Preparing to bulk copy 8803 rows for signal 63215009
+Bulk copy for 63215009 successful
+Done with SIEM_10.160.4.231_2018_02_08_1700.csv at 2/15/2018 11:44:05 AM
+Preparing to bulk copy 8067 rows for signal 63215009
+Bulk copy for 63215009 successful
+Done with SIEM_10.160.4.231_2018_02_08_1800.csv at 2/15/2018 11:44:05 AM
+Preparing to bulk copy 7425 rows for signal 63215009
+Bulk copy for 63215009 successful
+Done with SIEM_10.160.4.231_2018_02_08_1900.csv at 2/15/2018 11:44:05 AM
+Preparing to bulk copy 7121 rows for signal 63215009
+Bulk copy for 63215009 successful
+Done with SIEM_10.160.4.231_2018_02_08_2000.csv at 2/15/2018 11:44:05 AM
+Preparing to bulk copy 7039 rows for signal 63215009
+Bulk copy for 63215009 successful
+Done with SIEM_10.160.4.231_2018_02_08_2100.csv at 2/15/2018 11:44:06 AM
+Preparing to bulk copy 5904 rows for signal 63215009
+Bulk copy for 63215009 successful
+Done with SIEM_10.160.4.231_2018_02_08_2200.csv at 2/15/2018 11:44:06 AM
+Preparing to bulk copy 5849 rows for signal 63215009
+Bulk copy for 63215009 successful
+Done with SIEM_10.160.4.231_2018_02_08_2300.csv at 2/15/2018 11:44:06 AM
+Preparing to bulk copy 4686 rows for signal 63215009
+Bulk copy for 63215009 successful
+Done with SIEM_10.160.4.231_2018_02_09_0000.csv at 2/15/2018 11:44:06 AM
+Preparing to bulk copy 4011 rows for signal 63215009
+Bulk copy for 63215009 successful
+Done with SIEM_10.160.4.231_2018_02_09_0100.csv at 2/15/2018 11:44:06 AM
+Preparing to bulk copy 2691 rows for signal 63215009
+Bulk copy for 63215009 successful
+Done with SIEM_10.160.4.231_2018_02_09_0200.csv at 2/15/2018 11:44:06 AM
+Preparing to bulk copy 1166 rows for signal 63215009
+Bulk copy for 63215009 successful
+Done with SIEM_10.160.4.231_2018_02_09_0300.csv at 2/15/2018 11:44:06 AM
+Preparing to bulk copy 986 rows for signal 63215009
+Bulk copy for 63215009 successful
+Done with SIEM_10.160.4.231_2018_02_09_0400.csv at 2/15/2018 11:44:06 AM
+Preparing to bulk copy 2578 rows for signal 63215009
+Bulk copy for 63215009 successful
+Done with SIEM_10.160.4.231_2018_02_09_0500.csv at 2/15/2018 11:44:06 AM
+Preparing to bulk copy 3659 rows for signal 63215009
+Bulk copy for 63215009 successful
+Done with SIEM_10.160.4.231_2018_02_09_0600.csv at 2/15/2018 11:44:06 AM
+Preparing to bulk copy 7070 rows for signal 63215009
+Bulk copy for 63215009 successful
+Done with SIEM_10.160.4.231_2018_02_09_0700.csv at 2/15/2018 11:44:06 AM
+Preparing to bulk copy 8721 rows for signal 63215009
+Bulk copy for 63215009 successful
+Done with SIEM_10.160.4.231_2018_02_09_0800.csv at 2/15/2018 11:44:06 AM
+Preparing to bulk copy 8177 rows for signal 63215009
+Bulk copy for 63215009 successful
+Done with SIEM_10.160.4.231_2018_02_09_0900.csv at 2/15/2018 11:44:06 AM
+Preparing to bulk copy 8530 rows for signal 63215009
+Bulk copy for 63215009 successful
+Done with SIEM_10.160.4.231_2018_02_09_1000.csv at 2/15/2018 11:44:07 AM
+Preparing to bulk copy 8786 rows for signal 63215009
+Bulk copy for 63215009 successful
+Done with SIEM_10.160.4.231_2018_02_09_1100.csv at 2/15/2018 11:44:07 AM
+Preparing to bulk copy 9003 rows for signal 63215009
+Bulk copy for 63215009 successful
+Done with SIEM_10.160.4.231_2018_02_09_1200.csv at 2/15/2018 11:44:07 AM
+Preparing to bulk copy 9222 rows for signal 63215009
+Bulk copy for 63215009 successful
+Done with SIEM_10.160.4.231_2018_02_09_1300.csv at 2/15/2018 11:44:07 AM
+Preparing to bulk copy 8968 rows for signal 63215009
+Bulk copy for 63215009 successful
+Done with SIEM_10.160.4.231_2018_02_09_1400.csv at 2/15/2018 11:44:07 AM
+Preparing to bulk copy 8662 rows for signal 63215009
+Bulk copy for 63215009 successful
+Done with SIEM_10.160.4.231_2018_02_09_1500.csv at 2/15/2018 11:44:07 AM
+Preparing to bulk copy 7993 rows for signal 63215009
+Bulk copy for 63215009 successful
+Done with SIEM_10.160.4.231_2018_02_09_1600.csv at 2/15/2018 11:44:07 AM
+Preparing to bulk copy 7480 rows for signal 63215009
+Bulk copy for 63215009 successful
+Done with SIEM_10.160.4.231_2018_02_09_1700.csv at 2/15/2018 11:44:08 AM
+Preparing to bulk copy 6805 rows for signal 63215009
+Bulk copy for 63215009 successful
+Done with SIEM_10.160.4.231_2018_02_09_1800.csv at 2/15/2018 11:44:08 AM
+Preparing to bulk copy 6017 rows for signal 63215009
+Bulk copy for 63215009 successful
+Done with SIEM_10.160.4.231_2018_02_09_1900.csv at 2/15/2018 11:44:08 AM
+Preparing to bulk copy 6239 rows for signal 63215009
+Bulk copy for 63215009 successful
+Done with SIEM_10.160.4.231_2018_02_09_2000.csv at 2/15/2018 11:44:08 AM
+Preparing to bulk copy 6163 rows for signal 63215009
+Bulk copy for 63215009 successful
+Done with SIEM_10.160.4.231_2018_02_09_2100.csv at 2/15/2018 11:44:08 AM
+Preparing to bulk copy 5307 rows for signal 63215009
+Bulk copy for 63215009 successful
+Done with SIEM_10.160.4.231_2018_02_09_2200.csv at 2/15/2018 11:44:08 AM
+Preparing to bulk copy 5013 rows for signal 63215009
+Bulk copy for 63215009 successful
+Done with SIEM_10.160.4.231_2018_02_09_2300.csv at 2/15/2018 11:44:08 AM
+Preparing to bulk copy 4682 rows for signal 63215009
+Bulk copy for 63215009 successful
+Done with SIEM_10.160.4.231_2018_02_10_0000.csv at 2/15/2018 11:44:08 AM
+Preparing to bulk copy 3873 rows for signal 63215009
+Bulk copy for 63215009 successful
+Done with SIEM_10.160.4.231_2018_02_10_0100.csv at 2/15/2018 11:44:08 AM
+Preparing to bulk copy 3250 rows for signal 63215009
+Bulk copy for 63215009 successful
+Done with SIEM_10.160.4.231_2018_02_10_0200.csv at 2/15/2018 11:44:08 AM
+Preparing to bulk copy 1262 rows for signal 63215009
+Bulk copy for 63215009 successful
+Done with SIEM_10.160.4.231_2018_02_10_0300.csv at 2/15/2018 11:44:08 AM
+Preparing to bulk copy 746 rows for signal 63215009
+Bulk copy for 63215009 successful
+Done with SIEM_10.160.4.231_2018_02_10_0400.csv at 2/15/2018 11:44:08 AM
+Preparing to bulk copy 939 rows for signal 63215009
+Bulk copy for 63215009 successful
+Done with SIEM_10.160.4.231_2018_02_10_0500.csv at 2/15/2018 11:44:09 AM
+Preparing to bulk copy 1877 rows for signal 63215009
+Bulk copy for 63215009 successful
+Done with SIEM_10.160.4.231_2018_02_10_0600.csv at 2/15/2018 11:44:09 AM
+Preparing to bulk copy 2299 rows for signal 63215009
+Bulk copy for 63215009 successful
+Done with SIEM_10.160.4.231_2018_02_10_0700.csv at 2/15/2018 11:44:09 AM
+Preparing to bulk copy 3872 rows for signal 63215009
+Bulk copy for 63215009 successful
+Done with SIEM_10.160.4.231_2018_02_10_0800.csv at 2/15/2018 11:44:09 AM
+Preparing to bulk copy 4240 rows for signal 63215009
+Bulk copy for 63215009 successful
+Done with SIEM_10.160.4.231_2018_02_10_0900.csv at 2/15/2018 11:44:09 AM
+Preparing to bulk copy 5454 rows for signal 63215009
+Bulk copy for 63215009 successful
+Done with SIEM_10.160.4.231_2018_02_10_1000.csv at 2/15/2018 11:44:09 AM
+Preparing to bulk copy 7183 rows for signal 63215009
+Bulk copy for 63215009 successful
+Done with SIEM_10.160.4.231_2018_02_10_1100.csv at 2/15/2018 11:44:09 AM
+Preparing to bulk copy 7576 rows for signal 63215009
+Bulk copy for 63215009 successful
+Done with SIEM_10.160.4.231_2018_02_10_1200.csv at 2/15/2018 11:44:09 AM
+Preparing to bulk copy 7548 rows for signal 63215009
+Bulk copy for 63215009 successful
+Done with SIEM_10.160.4.231_2018_02_10_1300.csv at 2/15/2018 11:44:09 AM
+Preparing to bulk copy 7307 rows for signal 63215009
+Bulk copy for 63215009 successful
+Done with SIEM_10.160.4.231_2018_02_10_1400.csv at 2/15/2018 11:44:09 AM
+Preparing to bulk copy 7483 rows for signal 63215009
+Bulk copy for 63215009 successful
+Done with SIEM_10.160.4.231_2018_02_10_1500.csv at 2/15/2018 11:44:10 AM
+Preparing to bulk copy 7343 rows for signal 63215009
+Bulk copy for 63215009 successful
+Done with SIEM_10.160.4.231_2018_02_10_1600.csv at 2/15/2018 11:44:10 AM
+Preparing to bulk copy 6512 rows for signal 63215009
+Bulk copy for 63215009 successful
+Done with SIEM_10.160.4.231_2018_02_10_1700.csv at 2/15/2018 11:44:10 AM
+Preparing to bulk copy 6483 rows for signal 63215009
+Bulk copy for 63215009 successful
+Done with SIEM_10.160.4.231_2018_02_10_1800.csv at 2/15/2018 11:44:10 AM
+Preparing to bulk copy 6184 rows for signal 63215009
+Bulk copy for 63215009 successful
+Done with SIEM_10.160.4.231_2018_02_10_1900.csv at 2/15/2018 11:44:10 AM
+Preparing to bulk copy 6148 rows for signal 63215009
+Bulk copy for 63215009 successful
+Done with SIEM_10.160.4.231_2018_02_10_2000.csv at 2/15/2018 11:44:10 AM
+Preparing to bulk copy 5702 rows for signal 63215009
+Bulk copy for 63215009 successful
+Done with SIEM_10.160.4.231_2018_02_10_2100.csv at 2/15/2018 11:44:10 AM
+Preparing to bulk copy 5292 rows for signal 63215009
+Bulk copy for 63215009 successful
+Done with SIEM_10.160.4.231_2018_02_10_2200.csv at 2/15/2018 11:44:10 AM
+Preparing to bulk copy 4898 rows for signal 63215009
+Bulk copy for 63215009 successful
+Done with SIEM_10.160.4.231_2018_02_10_2300.csv at 2/15/2018 11:44:10 AM
+Preparing to bulk copy 3867 rows for signal 63215009
+Bulk copy for 63215009 successful
+Done with SIEM_10.160.4.231_2018_02_11_0000.csv at 2/15/2018 11:44:11 AM
+Preparing to bulk copy 3474 rows for signal 63215009
+Bulk copy for 63215009 successful
+Done with SIEM_10.160.4.231_2018_02_11_0100.csv at 2/15/2018 11:44:11 AM
+Preparing to bulk copy 2593 rows for signal 63215009
+Bulk copy for 63215009 successful
+Done with SIEM_10.160.4.231_2018_02_11_0200.csv at 2/15/2018 11:44:11 AM
+Preparing to bulk copy 1922 rows for signal 63215009
+Bulk copy for 63215009 successful
+Done with SIEM_10.160.4.231_2018_02_11_0300.csv at 2/15/2018 11:44:11 AM
+Preparing to bulk copy 752 rows for signal 63215009
+Bulk copy for 63215009 successful
+Done with SIEM_10.160.4.231_2018_02_11_0400.csv at 2/15/2018 11:44:11 AM
+Preparing to bulk copy 545 rows for signal 63215009
+Bulk copy for 63215009 successful
+Done with SIEM_10.160.4.231_2018_02_11_0500.csv at 2/15/2018 11:44:11 AM
+Preparing to bulk copy 598 rows for signal 63215009
+Bulk copy for 63215009 successful
+Done with SIEM_10.160.4.231_2018_02_11_0600.csv at 2/15/2018 11:44:11 AM
+Preparing to bulk copy 1513 rows for signal 63215009
+Bulk copy for 63215009 successful
+Done with SIEM_10.160.4.231_2018_02_11_0700.csv at 2/15/2018 11:44:11 AM
+Preparing to bulk copy 4858 rows for signal 63215009
+Bulk copy for 63215009 successful
+Done with SIEM_10.160.4.231_2018_02_11_0800.csv at 2/15/2018 11:44:11 AM
+Preparing to bulk copy 4570 rows for signal 63215009
+Bulk copy for 63215009 successful
+Done with SIEM_10.160.4.231_2018_02_11_0900.csv at 2/15/2018 11:44:11 AM
+Preparing to bulk copy 5670 rows for signal 63215009
+Bulk copy for 63215009 successful
+Done with SIEM_10.160.4.231_2018_02_11_1000.csv at 2/15/2018 11:44:11 AM
+Preparing to bulk copy 6452 rows for signal 63215009
+Bulk copy for 63215009 successful
+Done with SIEM_10.160.4.231_2018_02_11_1100.csv at 2/15/2018 11:44:11 AM
+Preparing to bulk copy 7452 rows for signal 63215009
+Bulk copy for 63215009 successful
+Done with SIEM_10.160.4.231_2018_02_11_1200.csv at 2/15/2018 11:44:11 AM
+Preparing to bulk copy 7115 rows for signal 63215009
+Bulk copy for 63215009 successful
+Done with SIEM_10.160.4.231_2018_02_11_1300.csv at 2/15/2018 11:44:11 AM
+Preparing to bulk copy 7290 rows for signal 63215009
+Bulk copy for 63215009 successful
+Done with SIEM_10.160.4.231_2018_02_11_1400.csv at 2/15/2018 11:44:12 AM
+Preparing to bulk copy 6428 rows for signal 63215009
+Bulk copy for 63215009 successful
+Done with SIEM_10.160.4.231_2018_02_11_1500.csv at 2/15/2018 11:44:12 AM
+Preparing to bulk copy 6943 rows for signal 63215009
+Bulk copy for 63215009 successful
+Done with SIEM_10.160.4.231_2018_02_11_1600.csv at 2/15/2018 11:44:12 AM
+Preparing to bulk copy 7200 rows for signal 63215009
+Bulk copy for 63215009 successful
+Done with SIEM_10.160.4.231_2018_02_11_1700.csv at 2/15/2018 11:44:12 AM
+Preparing to bulk copy 7282 rows for signal 63215009
+Bulk copy for 63215009 successful
+Done with SIEM_10.160.4.231_2018_02_11_1800.csv at 2/15/2018 11:44:12 AM
+Preparing to bulk copy 6994 rows for signal 63215009
+Bulk copy for 63215009 successful
+Done with SIEM_10.160.4.231_2018_02_11_1900.csv at 2/15/2018 11:44:12 AM
+Preparing to bulk copy 6642 rows for signal 63215009
+Bulk copy for 63215009 successful
+Done with SIEM_10.160.4.231_2018_02_11_2000.csv at 2/15/2018 11:44:12 AM
+Preparing to bulk copy 5830 rows for signal 63215009
+Bulk copy for 63215009 successful
+Done with SIEM_10.160.4.231_2018_02_11_2100.csv at 2/15/2018 11:44:12 AM
+Preparing to bulk copy 4575 rows for signal 63215009
+Bulk copy for 63215009 successful
+Done with SIEM_10.160.4.231_2018_02_11_2200.csv at 2/15/2018 11:44:13 AM
+Preparing to bulk copy 3435 rows for signal 63215009
+Bulk copy for 63215009 successful
+Done with SIEM_10.160.4.231_2018_02_11_2300.csv at 2/15/2018 11:44:13 AM
+Preparing to bulk copy 2385 rows for signal 63215009
+Bulk copy for 63215009 successful
+Done with SIEM_10.160.4.231_2018_02_12_0000.csv at 2/15/2018 11:44:13 AM
+Preparing to bulk copy 1362 rows for signal 63215009
+Bulk copy for 63215009 successful
+Done with SIEM_10.160.4.231_2018_02_12_0100.csv at 2/15/2018 11:44:13 AM
+Preparing to bulk copy 699 rows for signal 63215009
+Bulk copy for 63215009 successful
+Done with SIEM_10.160.4.231_2018_02_12_0200.csv at 2/15/2018 11:44:13 AM
+Preparing to bulk copy 668 rows for signal 63215009
+Bulk copy for 63215009 successful
+Done with SIEM_10.160.4.231_2018_02_12_0300.csv at 2/15/2018 11:44:13 AM
+Preparing to bulk copy 800 rows for signal 63215009
+Bulk copy for 63215009 successful
+Done with SIEM_10.160.4.231_2018_02_12_0400.csv at 2/15/2018 11:44:13 AM
+Preparing to bulk copy 2538 rows for signal 63215009
+Bulk copy for 63215009 successful
+Done with SIEM_10.160.4.231_2018_02_12_0500.csv at 2/15/2018 11:44:13 AM
+Preparing to bulk copy 3430 rows for signal 63215009
+Bulk copy for 63215009 successful
+Done with SIEM_10.160.4.231_2018_02_12_0600.csv at 2/15/2018 11:44:13 AM
+Preparing to bulk copy 7207 rows for signal 63215009
+Bulk copy for 63215009 successful
+Done with SIEM_10.160.4.231_2018_02_12_0700.csv at 2/15/2018 11:44:13 AM
+Preparing to bulk copy 8235 rows for signal 63215009
+Bulk copy for 63215009 successful
+Done with SIEM_10.160.4.231_2018_02_12_0800.csv at 2/15/2018 11:44:13 AM
+Preparing to bulk copy 7764 rows for signal 63215009
+Bulk copy for 63215009 successful
+Done with SIEM_10.160.4.231_2018_02_12_0900.csv at 2/15/2018 11:44:13 AM
+Preparing to bulk copy 7745 rows for signal 63215009
+Bulk copy for 63215009 successful
+Done with SIEM_10.160.4.231_2018_02_12_1000.csv at 2/15/2018 11:44:13 AM
+Preparing to bulk copy 8260 rows for signal 63215009
+Bulk copy for 63215009 successful
+Done with SIEM_10.160.4.231_2018_02_12_1100.csv at 2/15/2018 11:44:14 AM
+Preparing to bulk copy 8495 rows for signal 63215009
+Bulk copy for 63215009 successful
+Done with SIEM_10.160.4.231_2018_02_12_1200.csv at 2/15/2018 11:44:14 AM
+Preparing to bulk copy 7867 rows for signal 63215009
+Bulk copy for 63215009 successful
+Done with SIEM_10.160.4.231_2018_02_12_1300.csv at 2/15/2018 11:44:14 AM
+Preparing to bulk copy 7961 rows for signal 63215009
+Bulk copy for 63215009 successful
+Done with SIEM_10.160.4.231_2018_02_12_1400.csv at 2/15/2018 11:44:14 AM
+Preparing to bulk copy 7913 rows for signal 63215009
+Bulk copy for 63215009 successful
+Done with SIEM_10.160.4.231_2018_02_12_1500.csv at 2/15/2018 11:44:14 AM
+Preparing to bulk copy 8216 rows for signal 63215009
+Bulk copy for 63215009 successful
+Done with SIEM_10.160.4.231_2018_02_12_1600.csv at 2/15/2018 11:44:14 AM
+Preparing to bulk copy 8106 rows for signal 63215009
+Bulk copy for 63215009 successful
+Done with SIEM_10.160.4.231_2018_02_12_1700.csv at 2/15/2018 11:44:14 AM
+Preparing to bulk copy 8012 rows for signal 63215009
+Bulk copy for 63215009 successful
+Done with SIEM_10.160.4.231_2018_02_12_1800.csv at 2/15/2018 11:44:15 AM
+Preparing to bulk copy 7164 rows for signal 63215009
+Bulk copy for 63215009 successful
+Done with SIEM_10.160.4.231_2018_02_12_1900.csv at 2/15/2018 11:44:15 AM
+Preparing to bulk copy 7117 rows for signal 63215009
+Bulk copy for 63215009 successful
+Done with SIEM_10.160.4.231_2018_02_12_2000.csv at 2/15/2018 11:44:15 AM
+Preparing to bulk copy 6352 rows for signal 63215009
+Bulk copy for 63215009 successful
+Done with SIEM_10.160.4.231_2018_02_12_2100.csv at 2/15/2018 11:44:15 AM
+Preparing to bulk copy 5891 rows for signal 63215009
+Bulk copy for 63215009 successful
+Done with SIEM_10.160.4.231_2018_02_12_2200.csv at 2/15/2018 11:44:15 AM
+Preparing to bulk copy 4010 rows for signal 63215009
+Bulk copy for 63215009 successful
+Done with SIEM_10.160.4.231_2018_02_12_2300.csv at 2/15/2018 11:44:15 AM
+Preparing to bulk copy 8211 rows for signal 63215008
+Bulk copy for 63215008 successful
+Done with SIEM_10.160.4.236_2018_02_08_1100.csv at 2/15/2018 11:44:15 AM
+Preparing to bulk copy 8368 rows for signal 63215008
+Bulk copy for 63215008 successful
+Done with SIEM_10.160.4.236_2018_02_08_1200.csv at 2/15/2018 11:44:16 AM
+Preparing to bulk copy 8005 rows for signal 63215008
+Bulk copy for 63215008 successful
+Done with SIEM_10.160.4.236_2018_02_08_1300.csv at 2/15/2018 11:44:16 AM
+Preparing to bulk copy 7716 rows for signal 63215008
+Bulk copy for 63215008 successful
+Done with SIEM_10.160.4.236_2018_02_08_1400.csv at 2/15/2018 11:44:16 AM
+Preparing to bulk copy 8315 rows for signal 63215008
+Bulk copy for 63215008 successful
+Done with SIEM_10.160.4.236_2018_02_08_1500.csv at 2/15/2018 11:44:16 AM
+Preparing to bulk copy 7387 rows for signal 63215008
+Bulk copy for 63215008 successful
+Done with SIEM_10.160.4.236_2018_02_08_1600.csv at 2/15/2018 11:44:16 AM
+Preparing to bulk copy 6224 rows for signal 63215008
+Bulk copy for 63215008 successful
+Done with SIEM_10.160.4.236_2018_02_08_1700.csv at 2/15/2018 11:44:16 AM
+Preparing to bulk copy 7361 rows for signal 63215008
+Bulk copy for 63215008 successful
+Done with SIEM_10.160.4.236_2018_02_08_1800.csv at 2/15/2018 11:44:16 AM
+Preparing to bulk copy 7135 rows for signal 63215008
+Bulk copy for 63215008 successful
+Done with SIEM_10.160.4.236_2018_02_08_1900.csv at 2/15/2018 11:44:16 AM
+Preparing to bulk copy 6861 rows for signal 63215008
+Bulk copy for 63215008 successful
+Done with SIEM_10.160.4.236_2018_02_08_2000.csv at 2/15/2018 11:44:17 AM
+Preparing to bulk copy 6598 rows for signal 63215008
+Bulk copy for 63215008 successful
+Done with SIEM_10.160.4.236_2018_02_08_2100.csv at 2/15/2018 11:44:17 AM
+Preparing to bulk copy 6327 rows for signal 63215008
+Bulk copy for 63215008 successful
+Done with SIEM_10.160.4.236_2018_02_08_2200.csv at 2/15/2018 11:44:17 AM
+Preparing to bulk copy 6260 rows for signal 63215008
+Bulk copy for 63215008 successful
+Done with SIEM_10.160.4.236_2018_02_08_2300.csv at 2/15/2018 11:44:17 AM
+Preparing to bulk copy 5633 rows for signal 63215008
+Bulk copy for 63215008 successful
+Done with SIEM_10.160.4.236_2018_02_09_0000.csv at 2/15/2018 11:44:17 AM
+Preparing to bulk copy 4942 rows for signal 63215008
+Bulk copy for 63215008 successful
+Done with SIEM_10.160.4.236_2018_02_09_0100.csv at 2/15/2018 11:44:17 AM
+Preparing to bulk copy 3712 rows for signal 63215008
+Bulk copy for 63215008 successful
+Done with SIEM_10.160.4.236_2018_02_09_0200.csv at 2/15/2018 11:44:17 AM
+Preparing to bulk copy 2330 rows for signal 63215008
+Bulk copy for 63215008 successful
+Done with SIEM_10.160.4.236_2018_02_09_0300.csv at 2/15/2018 11:44:17 AM
+Preparing to bulk copy 2101 rows for signal 63215008
+Bulk copy for 63215008 successful
+Done with SIEM_10.160.4.236_2018_02_09_0400.csv at 2/15/2018 11:44:17 AM
+Preparing to bulk copy 2991 rows for signal 63215008
+Bulk copy for 63215008 successful
+Done with SIEM_10.160.4.236_2018_02_09_0500.csv at 2/15/2018 11:44:17 AM
+Preparing to bulk copy 4324 rows for signal 63215008
+Bulk copy for 63215008 successful
+Done with SIEM_10.160.4.236_2018_02_09_0600.csv at 2/15/2018 11:44:18 AM
+Preparing to bulk copy 6845 rows for signal 63215008
+Bulk copy for 63215008 successful
+Done with SIEM_10.160.4.236_2018_02_09_0700.csv at 2/15/2018 11:44:18 AM
+Preparing to bulk copy 7849 rows for signal 63215008
+Bulk copy for 63215008 successful
+Done with SIEM_10.160.4.236_2018_02_09_0800.csv at 2/15/2018 11:44:18 AM
+Preparing to bulk copy 8518 rows for signal 63215008
+Bulk copy for 63215008 successful
+Done with SIEM_10.160.4.236_2018_02_09_0900.csv at 2/15/2018 11:44:18 AM
+Preparing to bulk copy 8314 rows for signal 63215008
+Bulk copy for 63215008 successful
+Done with SIEM_10.160.4.236_2018_02_09_1000.csv at 2/15/2018 11:44:18 AM
+Preparing to bulk copy 8539 rows for signal 63215008
+Bulk copy for 63215008 successful
+Done with SIEM_10.160.4.236_2018_02_09_1100.csv at 2/15/2018 11:44:18 AM
+Preparing to bulk copy 8200 rows for signal 63215008
+Bulk copy for 63215008 successful
+Done with SIEM_10.160.4.236_2018_02_09_1200.csv at 2/15/2018 11:44:18 AM
+Preparing to bulk copy 8163 rows for signal 63215008
+Bulk copy for 63215008 successful
+Done with SIEM_10.160.4.236_2018_02_09_1300.csv at 2/15/2018 11:44:18 AM
+Preparing to bulk copy 7991 rows for signal 63215008
+Bulk copy for 63215008 successful
+Done with SIEM_10.160.4.236_2018_02_09_1400.csv at 2/15/2018 11:44:19 AM
+Preparing to bulk copy 7416 rows for signal 63215008
+Bulk copy for 63215008 successful
+Done with SIEM_10.160.4.236_2018_02_09_1500.csv at 2/15/2018 11:44:19 AM
+Preparing to bulk copy 7160 rows for signal 63215008
+Bulk copy for 63215008 successful
+Done with SIEM_10.160.4.236_2018_02_09_1600.csv at 2/15/2018 11:44:19 AM
+Preparing to bulk copy 6501 rows for signal 63215008
+Bulk copy for 63215008 successful
+Done with SIEM_10.160.4.236_2018_02_09_1700.csv at 2/15/2018 11:44:19 AM
+Preparing to bulk copy 6691 rows for signal 63215008
+Bulk copy for 63215008 successful
+Done with SIEM_10.160.4.236_2018_02_09_1800.csv at 2/15/2018 11:44:19 AM
+Preparing to bulk copy 6245 rows for signal 63215008
+Bulk copy for 63215008 successful
+Done with SIEM_10.160.4.236_2018_02_09_1900.csv at 2/15/2018 11:44:19 AM
+Preparing to bulk copy 6118 rows for signal 63215008
+Bulk copy for 63215008 successful
+Done with SIEM_10.160.4.236_2018_02_09_2000.csv at 2/15/2018 11:44:19 AM
+Preparing to bulk copy 6041 rows for signal 63215008
+Bulk copy for 63215008 successful
+Done with SIEM_10.160.4.236_2018_02_09_2100.csv at 2/15/2018 11:44:19 AM
+Preparing to bulk copy 6222 rows for signal 63215008
+Bulk copy for 63215008 successful
+Done with SIEM_10.160.4.236_2018_02_09_2200.csv at 2/15/2018 11:44:19 AM
+Preparing to bulk copy 6129 rows for signal 63215008
+Bulk copy for 63215008 successful
+Done with SIEM_10.160.4.236_2018_02_09_2300.csv at 2/15/2018 11:44:20 AM
+Preparing to bulk copy 5551 rows for signal 63215008
+Bulk copy for 63215008 successful
+Done with SIEM_10.160.4.236_2018_02_10_0000.csv at 2/15/2018 11:44:20 AM
+Preparing to bulk copy 5257 rows for signal 63215008
+Bulk copy for 63215008 successful
+Done with SIEM_10.160.4.236_2018_02_10_0100.csv at 2/15/2018 11:44:20 AM
+Preparing to bulk copy 4841 rows for signal 63215008
+Bulk copy for 63215008 successful
+Done with SIEM_10.160.4.236_2018_02_10_0200.csv at 2/15/2018 11:44:20 AM
+Preparing to bulk copy 2932 rows for signal 63215008
+Bulk copy for 63215008 successful
+Done with SIEM_10.160.4.236_2018_02_10_0300.csv at 2/15/2018 11:44:20 AM
+Preparing to bulk copy 1350 rows for signal 63215008
+Bulk copy for 63215008 successful
+Done with SIEM_10.160.4.236_2018_02_10_0400.csv at 2/15/2018 11:44:20 AM
+Preparing to bulk copy 972 rows for signal 63215008
+Bulk copy for 63215008 successful
+Done with SIEM_10.160.4.236_2018_02_10_0500.csv at 2/15/2018 11:44:20 AM
+Preparing to bulk copy 1600 rows for signal 63215008
+Bulk copy for 63215008 successful
+Done with SIEM_10.160.4.236_2018_02_10_0600.csv at 2/15/2018 11:44:20 AM
+Preparing to bulk copy 3103 rows for signal 63215008
+Bulk copy for 63215008 successful
+Done with SIEM_10.160.4.236_2018_02_10_0700.csv at 2/15/2018 11:44:20 AM
+Preparing to bulk copy 4732 rows for signal 63215008
+Bulk copy for 63215008 successful
+Done with SIEM_10.160.4.236_2018_02_10_0800.csv at 2/15/2018 11:44:20 AM
+Preparing to bulk copy 5086 rows for signal 63215008
+Bulk copy for 63215008 successful
+Done with SIEM_10.160.4.236_2018_02_10_0900.csv at 2/15/2018 11:44:20 AM
+Preparing to bulk copy 5614 rows for signal 63215008
+Bulk copy for 63215008 successful
+Done with SIEM_10.160.4.236_2018_02_10_1000.csv at 2/15/2018 11:44:20 AM
+Preparing to bulk copy 6144 rows for signal 63215008
+Bulk copy for 63215008 successful
+Done with SIEM_10.160.4.236_2018_02_10_1100.csv at 2/15/2018 11:44:20 AM
+Preparing to bulk copy 6420 rows for signal 63215008
+Bulk copy for 63215008 successful
+Done with SIEM_10.160.4.236_2018_02_10_1200.csv at 2/15/2018 11:44:20 AM
+Preparing to bulk copy 6145 rows for signal 63215008
+Bulk copy for 63215008 successful
+Done with SIEM_10.160.4.236_2018_02_10_1300.csv at 2/15/2018 11:44:21 AM
+Preparing to bulk copy 6306 rows for signal 63215008
+Bulk copy for 63215008 successful
+Done with SIEM_10.160.4.236_2018_02_10_1400.csv at 2/15/2018 11:44:21 AM
+Preparing to bulk copy 6138 rows for signal 63215008
+Bulk copy for 63215008 successful
+Done with SIEM_10.160.4.236_2018_02_10_1500.csv at 2/15/2018 11:44:21 AM
+Preparing to bulk copy 6136 rows for signal 63215008
+Bulk copy for 63215008 successful
+Done with SIEM_10.160.4.236_2018_02_10_1600.csv at 2/15/2018 11:44:21 AM
+Preparing to bulk copy 5961 rows for signal 63215008
+Bulk copy for 63215008 successful
+Done with SIEM_10.160.4.236_2018_02_10_1700.csv at 2/15/2018 11:44:21 AM
+Preparing to bulk copy 5857 rows for signal 63215008
+Bulk copy for 63215008 successful
+Done with SIEM_10.160.4.236_2018_02_10_1800.csv at 2/15/2018 11:44:21 AM
+Preparing to bulk copy 4979 rows for signal 63215008
+Bulk copy for 63215008 successful
+Done with SIEM_10.160.4.236_2018_02_10_1900.csv at 2/15/2018 11:44:21 AM
+Preparing to bulk copy 6008 rows for signal 63215008
+Bulk copy for 63215008 successful
+Done with SIEM_10.160.4.236_2018_02_10_2000.csv at 2/15/2018 11:44:21 AM
+Preparing to bulk copy 5952 rows for signal 63215008
+Bulk copy for 63215008 successful
+Done with SIEM_10.160.4.236_2018_02_10_2100.csv at 2/15/2018 11:44:21 AM
+Preparing to bulk copy 5892 rows for signal 63215008
+Bulk copy for 63215008 successful
+Done with SIEM_10.160.4.236_2018_02_10_2200.csv at 2/15/2018 11:44:21 AM
+Preparing to bulk copy 5578 rows for signal 63215008
+Bulk copy for 63215008 successful
+Done with SIEM_10.160.4.236_2018_02_10_2300.csv at 2/15/2018 11:44:22 AM
+Preparing to bulk copy 5247 rows for signal 63215008
+Bulk copy for 63215008 successful
+Done with SIEM_10.160.4.236_2018_02_11_0000.csv at 2/15/2018 11:44:22 AM
+Preparing to bulk copy 5440 rows for signal 63215008
+Bulk copy for 63215008 successful
+Done with SIEM_10.160.4.236_2018_02_11_0100.csv at 2/15/2018 11:44:22 AM
+Preparing to bulk copy 4779 rows for signal 63215008
+Bulk copy for 63215008 successful
+Done with SIEM_10.160.4.236_2018_02_11_0200.csv at 2/15/2018 11:44:22 AM
+Preparing to bulk copy 2685 rows for signal 63215008
+Bulk copy for 63215008 successful
+Done with SIEM_10.160.4.236_2018_02_11_0300.csv at 2/15/2018 11:44:22 AM
+Preparing to bulk copy 1393 rows for signal 63215008
+Bulk copy for 63215008 successful
+Done with SIEM_10.160.4.236_2018_02_11_0400.csv at 2/15/2018 11:44:22 AM
+Preparing to bulk copy 1307 rows for signal 63215008
+Bulk copy for 63215008 successful
+Done with SIEM_10.160.4.236_2018_02_11_0500.csv at 2/15/2018 11:44:22 AM
+Preparing to bulk copy 1621 rows for signal 63215008
+Bulk copy for 63215008 successful
+Done with SIEM_10.160.4.236_2018_02_11_0600.csv at 2/15/2018 11:44:22 AM
+Preparing to bulk copy 2270 rows for signal 63215008
+Bulk copy for 63215008 successful
+Done with SIEM_10.160.4.236_2018_02_11_0700.csv at 2/15/2018 11:44:22 AM
+Preparing to bulk copy 4594 rows for signal 63215008
+Bulk copy for 63215008 successful
+Done with SIEM_10.160.4.236_2018_02_11_0800.csv at 2/15/2018 11:44:22 AM
+Preparing to bulk copy 4978 rows for signal 63215008
+Bulk copy for 63215008 successful
+Done with SIEM_10.160.4.236_2018_02_11_0900.csv at 2/15/2018 11:44:22 AM
+Preparing to bulk copy 5908 rows for signal 63215008
+Bulk copy for 63215008 successful
+Done with SIEM_10.160.4.236_2018_02_11_1000.csv at 2/15/2018 11:44:22 AM
+Preparing to bulk copy 6264 rows for signal 63215008
+Bulk copy for 63215008 successful
+Done with SIEM_10.160.4.236_2018_02_11_1100.csv at 2/15/2018 11:44:22 AM
+Preparing to bulk copy 6131 rows for signal 63215008
+Bulk copy for 63215008 successful
+Done with SIEM_10.160.4.236_2018_02_11_1200.csv at 2/15/2018 11:44:22 AM
+Preparing to bulk copy 6633 rows for signal 63215008
+Bulk copy for 63215008 successful
+Done with SIEM_10.160.4.236_2018_02_11_1300.csv at 2/15/2018 11:44:23 AM
+Preparing to bulk copy 6152 rows for signal 63215008
+Bulk copy for 63215008 successful
+Done with SIEM_10.160.4.236_2018_02_11_1400.csv at 2/15/2018 11:44:23 AM
+Preparing to bulk copy 6624 rows for signal 63215008
+Bulk copy for 63215008 successful
+Done with SIEM_10.160.4.236_2018_02_11_1500.csv at 2/15/2018 11:44:23 AM
+Preparing to bulk copy 6514 rows for signal 63215008
+Bulk copy for 63215008 successful
+Done with SIEM_10.160.4.236_2018_02_11_1600.csv at 2/15/2018 11:44:23 AM
+Preparing to bulk copy 6336 rows for signal 63215008
+Bulk copy for 63215008 successful
+Done with SIEM_10.160.4.236_2018_02_11_1700.csv at 2/15/2018 11:44:23 AM
+Preparing to bulk copy 6269 rows for signal 63215008
+Bulk copy for 63215008 successful
+Done with SIEM_10.160.4.236_2018_02_11_1800.csv at 2/15/2018 11:44:23 AM
+Preparing to bulk copy 6493 rows for signal 63215008
+Bulk copy for 63215008 successful
+Done with SIEM_10.160.4.236_2018_02_11_1900.csv at 2/15/2018 11:44:23 AM
+Preparing to bulk copy 6234 rows for signal 63215008
+Bulk copy for 63215008 successful
+Done with SIEM_10.160.4.236_2018_02_11_2000.csv at 2/15/2018 11:44:23 AM
+Preparing to bulk copy 6414 rows for signal 63215008
+Bulk copy for 63215008 successful
+Done with SIEM_10.160.4.236_2018_02_11_2100.csv at 2/15/2018 11:44:23 AM
+Preparing to bulk copy 5951 rows for signal 63215008
+Bulk copy for 63215008 successful
+Done with SIEM_10.160.4.236_2018_02_11_2200.csv at 2/15/2018 11:44:24 AM
+Preparing to bulk copy 4766 rows for signal 63215008
+Bulk copy for 63215008 successful
+Done with SIEM_10.160.4.236_2018_02_11_2300.csv at 2/15/2018 11:44:24 AM
+Preparing to bulk copy 3989 rows for signal 63215008
+Bulk copy for 63215008 successful
+Done with SIEM_10.160.4.236_2018_02_12_0000.csv at 2/15/2018 11:44:24 AM
+Preparing to bulk copy 2652 rows for signal 63215008
+Bulk copy for 63215008 successful
+Done with SIEM_10.160.4.236_2018_02_12_0100.csv at 2/15/2018 11:44:24 AM
+Preparing to bulk copy 1447 rows for signal 63215008
+Bulk copy for 63215008 successful
+Done with SIEM_10.160.4.236_2018_02_12_0200.csv at 2/15/2018 11:44:24 AM
+Preparing to bulk copy 1558 rows for signal 63215008
+Bulk copy for 63215008 successful
+Done with SIEM_10.160.4.236_2018_02_12_0300.csv at 2/15/2018 11:44:24 AM
+Preparing to bulk copy 1361 rows for signal 63215008
+Bulk copy for 63215008 successful
+Done with SIEM_10.160.4.236_2018_02_12_0400.csv at 2/15/2018 11:44:24 AM
+Preparing to bulk copy 2910 rows for signal 63215008
+Bulk copy for 63215008 successful
+Done with SIEM_10.160.4.236_2018_02_12_0500.csv at 2/15/2018 11:44:24 AM
+Preparing to bulk copy 3913 rows for signal 63215008
+Bulk copy for 63215008 successful
+Done with SIEM_10.160.4.236_2018_02_12_0600.csv at 2/15/2018 11:44:24 AM
+Preparing to bulk copy 6370 rows for signal 63215008
+Bulk copy for 63215008 successful
+Done with SIEM_10.160.4.236_2018_02_12_0700.csv at 2/15/2018 11:44:24 AM
+Preparing to bulk copy 7311 rows for signal 63215008
+Bulk copy for 63215008 successful
+Done with SIEM_10.160.4.236_2018_02_12_0800.csv at 2/15/2018 11:44:24 AM
+Preparing to bulk copy 7304 rows for signal 63215008
+Bulk copy for 63215008 successful
+Done with SIEM_10.160.4.236_2018_02_12_0900.csv at 2/15/2018 11:44:24 AM
+Preparing to bulk copy 7629 rows for signal 63215008
+Bulk copy for 63215008 successful
+Done with SIEM_10.160.4.236_2018_02_12_1000.csv at 2/15/2018 11:44:24 AM
+Preparing to bulk copy 7684 rows for signal 63215008
+Bulk copy for 63215008 successful
+Done with SIEM_10.160.4.236_2018_02_12_1100.csv at 2/15/2018 11:44:25 AM
+Preparing to bulk copy 7532 rows for signal 63215008
+Bulk copy for 63215008 successful
+Done with SIEM_10.160.4.236_2018_02_12_1200.csv at 2/15/2018 11:44:25 AM
+Preparing to bulk copy 7367 rows for signal 63215008
+Bulk copy for 63215008 successful
+Done with SIEM_10.160.4.236_2018_02_12_1300.csv at 2/15/2018 11:44:25 AM
+Preparing to bulk copy 7104 rows for signal 63215008
+Bulk copy for 63215008 successful
+Done with SIEM_10.160.4.236_2018_02_12_1400.csv at 2/15/2018 11:44:25 AM
+Preparing to bulk copy 7068 rows for signal 63215008
+Bulk copy for 63215008 successful
+Done with SIEM_10.160.4.236_2018_02_12_1500.csv at 2/15/2018 11:44:25 AM
+Preparing to bulk copy 6869 rows for signal 63215008
+Bulk copy for 63215008 successful
+Done with SIEM_10.160.4.236_2018_02_12_1600.csv at 2/15/2018 11:44:25 AM
+Preparing to bulk copy 6206 rows for signal 63215008
+Bulk copy for 63215008 successful
+Done with SIEM_10.160.4.236_2018_02_12_1700.csv at 2/15/2018 11:44:25 AM
+Preparing to bulk copy 7401 rows for signal 63215008
+Bulk copy for 63215008 successful
+Done with SIEM_10.160.4.236_2018_02_12_1800.csv at 2/15/2018 11:44:25 AM
+Preparing to bulk copy 7401 rows for signal 63215008
+Bulk copy for 63215008 successful
+Done with SIEM_10.160.4.236_2018_02_12_1900.csv at 2/15/2018 11:44:25 AM
+Preparing to bulk copy 6828 rows for signal 63215008
+Bulk copy for 63215008 successful
+Done with SIEM_10.160.4.236_2018_02_12_2000.csv at 2/15/2018 11:44:26 AM
+Preparing to bulk copy 6750 rows for signal 63215008
+Bulk copy for 63215008 successful
+Done with SIEM_10.160.4.236_2018_02_12_2100.csv at 2/15/2018 11:44:26 AM
+Preparing to bulk copy 6086 rows for signal 63215008
+Bulk copy for 63215008 successful
+Done with SIEM_10.160.4.236_2018_02_12_2200.csv at 2/15/2018 11:44:26 AM
+Preparing to bulk copy 5267 rows for signal 63215008
+Bulk copy for 63215008 successful
+Done with SIEM_10.160.4.236_2018_02_12_2300.csv at 2/15/2018 11:44:26 AM
+Preparing to bulk copy 5725 rows for signal 63215007
+Bulk copy for 63215007 successful
+Done with SIEM_10.160.4.241_2018_02_08_1100.csv at 2/15/2018 11:44:26 AM
+Preparing to bulk copy 5877 rows for signal 63215007
+Bulk copy for 63215007 successful
+Done with SIEM_10.160.4.241_2018_02_08_1200.csv at 2/15/2018 11:44:26 AM
+Preparing to bulk copy 5948 rows for signal 63215007
+Bulk copy for 63215007 successful
+Done with SIEM_10.160.4.241_2018_02_08_1300.csv at 2/15/2018 11:44:26 AM
+Preparing to bulk copy 5702 rows for signal 63215007
+Bulk copy for 63215007 successful
+Done with SIEM_10.160.4.241_2018_02_08_1400.csv at 2/15/2018 11:44:26 AM
+Preparing to bulk copy 6575 rows for signal 63215007
+Bulk copy for 63215007 successful
+Done with SIEM_10.160.4.241_2018_02_08_1500.csv at 2/15/2018 11:44:26 AM
+Preparing to bulk copy 5638 rows for signal 63215007
+Bulk copy for 63215007 successful
+Done with SIEM_10.160.4.241_2018_02_08_1600.csv at 2/15/2018 11:44:26 AM
+Preparing to bulk copy 5197 rows for signal 63215007
+Bulk copy for 63215007 successful
+Done with SIEM_10.160.4.241_2018_02_08_1700.csv at 2/15/2018 11:44:27 AM
+Preparing to bulk copy 5362 rows for signal 63215007
+Bulk copy for 63215007 successful
+Done with SIEM_10.160.4.241_2018_02_08_1800.csv at 2/15/2018 11:44:27 AM
+Preparing to bulk copy 4937 rows for signal 63215007
+Bulk copy for 63215007 successful
+Done with SIEM_10.160.4.241_2018_02_08_1900.csv at 2/15/2018 11:44:27 AM
+Preparing to bulk copy 4874 rows for signal 63215007
+Bulk copy for 63215007 successful
+Done with SIEM_10.160.4.241_2018_02_08_2000.csv at 2/15/2018 11:44:27 AM
+Preparing to bulk copy 4788 rows for signal 63215007
+Bulk copy for 63215007 successful
+Done with SIEM_10.160.4.241_2018_02_08_2100.csv at 2/15/2018 11:44:27 AM
+Preparing to bulk copy 4422 rows for signal 63215007
+Bulk copy for 63215007 successful
+Done with SIEM_10.160.4.241_2018_02_08_2200.csv at 2/15/2018 11:44:27 AM
+Preparing to bulk copy 3887 rows for signal 63215007
+Bulk copy for 63215007 successful
+Done with SIEM_10.160.4.241_2018_02_08_2300.csv at 2/15/2018 11:44:27 AM
+Preparing to bulk copy 3478 rows for signal 63215007
+Bulk copy for 63215007 successful
+Done with SIEM_10.160.4.241_2018_02_09_0000.csv at 2/15/2018 11:44:27 AM
+Preparing to bulk copy 2712 rows for signal 63215007
+Bulk copy for 63215007 successful
+Done with SIEM_10.160.4.241_2018_02_09_0100.csv at 2/15/2018 11:44:27 AM
+Preparing to bulk copy 1519 rows for signal 63215007
+Bulk copy for 63215007 successful
+Done with SIEM_10.160.4.241_2018_02_09_0200.csv at 2/15/2018 11:44:27 AM
+Preparing to bulk copy 753 rows for signal 63215007
+Bulk copy for 63215007 successful
+Done with SIEM_10.160.4.241_2018_02_09_0300.csv at 2/15/2018 11:44:27 AM
+Preparing to bulk copy 461 rows for signal 63215007
+Bulk copy for 63215007 successful
+Done with SIEM_10.160.4.241_2018_02_09_0400.csv at 2/15/2018 11:44:27 AM
+Preparing to bulk copy 1455 rows for signal 63215007
+Bulk copy for 63215007 successful
+Done with SIEM_10.160.4.241_2018_02_09_0500.csv at 2/15/2018 11:44:27 AM
+Preparing to bulk copy 1821 rows for signal 63215007
+Bulk copy for 63215007 successful
+Done with SIEM_10.160.4.241_2018_02_09_0600.csv at 2/15/2018 11:44:27 AM
+Preparing to bulk copy 4436 rows for signal 63215007
+Bulk copy for 63215007 successful
+Done with SIEM_10.160.4.241_2018_02_09_0700.csv at 2/15/2018 11:44:27 AM
+Preparing to bulk copy 5207 rows for signal 63215007
+Bulk copy for 63215007 successful
+Done with SIEM_10.160.4.241_2018_02_09_0800.csv at 2/15/2018 11:44:27 AM
+Preparing to bulk copy 5726 rows for signal 63215007
+Bulk copy for 63215007 successful
+Done with SIEM_10.160.4.241_2018_02_09_0900.csv at 2/15/2018 11:44:28 AM
+Preparing to bulk copy 5949 rows for signal 63215007
+Bulk copy for 63215007 successful
+Done with SIEM_10.160.4.241_2018_02_09_1000.csv at 2/15/2018 11:44:28 AM
+Preparing to bulk copy 6220 rows for signal 63215007
+Bulk copy for 63215007 successful
+Done with SIEM_10.160.4.241_2018_02_09_1100.csv at 2/15/2018 11:44:28 AM
+Preparing to bulk copy 6020 rows for signal 63215007
+Bulk copy for 63215007 successful
+Done with SIEM_10.160.4.241_2018_02_09_1200.csv at 2/15/2018 11:44:28 AM
+Preparing to bulk copy 5886 rows for signal 63215007
+Bulk copy for 63215007 successful
+Done with SIEM_10.160.4.241_2018_02_09_1300.csv at 2/15/2018 11:44:28 AM
+Preparing to bulk copy 5725 rows for signal 63215007
+Bulk copy for 63215007 successful
+Done with SIEM_10.160.4.241_2018_02_09_1400.csv at 2/15/2018 11:44:28 AM
+Preparing to bulk copy 5476 rows for signal 63215007
+Bulk copy for 63215007 successful
+Done with SIEM_10.160.4.241_2018_02_09_1500.csv at 2/15/2018 11:44:28 AM
+Preparing to bulk copy 5002 rows for signal 63215007
+Bulk copy for 63215007 successful
+Done with SIEM_10.160.4.241_2018_02_09_1600.csv at 2/15/2018 11:44:28 AM
+Preparing to bulk copy 4680 rows for signal 63215007
+Bulk copy for 63215007 successful
+Done with SIEM_10.160.4.241_2018_02_09_1700.csv at 2/15/2018 11:44:28 AM
+Preparing to bulk copy 4371 rows for signal 63215007
+Bulk copy for 63215007 successful
+Done with SIEM_10.160.4.241_2018_02_09_1800.csv at 2/15/2018 11:44:28 AM
+Preparing to bulk copy 4179 rows for signal 63215007
+Bulk copy for 63215007 successful
+Done with SIEM_10.160.4.241_2018_02_09_1900.csv at 2/15/2018 11:44:28 AM
+Preparing to bulk copy 4197 rows for signal 63215007
+Bulk copy for 63215007 successful
+Done with SIEM_10.160.4.241_2018_02_09_2000.csv at 2/15/2018 11:44:28 AM
+Preparing to bulk copy 4194 rows for signal 63215007
+Bulk copy for 63215007 successful
+Done with SIEM_10.160.4.241_2018_02_09_2100.csv at 2/15/2018 11:44:29 AM
+Preparing to bulk copy 3924 rows for signal 63215007
+Bulk copy for 63215007 successful
+Done with SIEM_10.160.4.241_2018_02_09_2200.csv at 2/15/2018 11:44:29 AM
+Preparing to bulk copy 3662 rows for signal 63215007
+Bulk copy for 63215007 successful
+Done with SIEM_10.160.4.241_2018_02_09_2300.csv at 2/15/2018 11:44:29 AM
+Preparing to bulk copy 3098 rows for signal 63215007
+Bulk copy for 63215007 successful
+Done with SIEM_10.160.4.241_2018_02_10_0000.csv at 2/15/2018 11:44:29 AM
+Preparing to bulk copy 2706 rows for signal 63215007
+Bulk copy for 63215007 successful
+Done with SIEM_10.160.4.241_2018_02_10_0100.csv at 2/15/2018 11:44:29 AM
+Preparing to bulk copy 2808 rows for signal 63215007
+Bulk copy for 63215007 successful
+Done with SIEM_10.160.4.241_2018_02_10_0200.csv at 2/15/2018 11:44:29 AM
+Preparing to bulk copy 1519 rows for signal 63215007
+Bulk copy for 63215007 successful
+Done with SIEM_10.160.4.241_2018_02_10_0300.csv at 2/15/2018 11:44:29 AM
+Preparing to bulk copy 883 rows for signal 63215007
+Bulk copy for 63215007 successful
+Done with SIEM_10.160.4.241_2018_02_10_0400.csv at 2/15/2018 11:44:29 AM
+Preparing to bulk copy 712 rows for signal 63215007
+Bulk copy for 63215007 successful
+Done with SIEM_10.160.4.241_2018_02_10_0500.csv at 2/15/2018 11:44:29 AM
+Preparing to bulk copy 630 rows for signal 63215007
+Bulk copy for 63215007 successful
+Done with SIEM_10.160.4.241_2018_02_10_0600.csv at 2/15/2018 11:44:29 AM
+Preparing to bulk copy 1342 rows for signal 63215007
+Bulk copy for 63215007 successful
+Done with SIEM_10.160.4.241_2018_02_10_0700.csv at 2/15/2018 11:44:29 AM
+Preparing to bulk copy 1984 rows for signal 63215007
+Bulk copy for 63215007 successful
+Done with SIEM_10.160.4.241_2018_02_10_0800.csv at 2/15/2018 11:44:29 AM
+Preparing to bulk copy 2618 rows for signal 63215007
+Bulk copy for 63215007 successful
+Done with SIEM_10.160.4.241_2018_02_10_0900.csv at 2/15/2018 11:44:29 AM
+Preparing to bulk copy 3273 rows for signal 63215007
+Bulk copy for 63215007 successful
+Done with SIEM_10.160.4.241_2018_02_10_1000.csv at 2/15/2018 11:44:29 AM
+Preparing to bulk copy 4178 rows for signal 63215007
+Bulk copy for 63215007 successful
+Done with SIEM_10.160.4.241_2018_02_10_1100.csv at 2/15/2018 11:44:29 AM
+Preparing to bulk copy 5361 rows for signal 63215007
+Bulk copy for 63215007 successful
+Done with SIEM_10.160.4.241_2018_02_10_1200.csv at 2/15/2018 11:44:29 AM
+Preparing to bulk copy 5166 rows for signal 63215007
+Bulk copy for 63215007 successful
+Done with SIEM_10.160.4.241_2018_02_10_1300.csv at 2/15/2018 11:44:29 AM
+Preparing to bulk copy 5036 rows for signal 63215007
+Bulk copy for 63215007 successful
+Done with SIEM_10.160.4.241_2018_02_10_1400.csv at 2/15/2018 11:44:29 AM
+Preparing to bulk copy 4847 rows for signal 63215007
+Bulk copy for 63215007 successful
+Done with SIEM_10.160.4.241_2018_02_10_1500.csv at 2/15/2018 11:44:30 AM
+Preparing to bulk copy 5158 rows for signal 63215007
+Bulk copy for 63215007 successful
+Done with SIEM_10.160.4.241_2018_02_10_1600.csv at 2/15/2018 11:44:30 AM
+Preparing to bulk copy 4323 rows for signal 63215007
+Bulk copy for 63215007 successful
+Done with SIEM_10.160.4.241_2018_02_10_1700.csv at 2/15/2018 11:44:30 AM
+Preparing to bulk copy 4028 rows for signal 63215007
+Bulk copy for 63215007 successful
+Done with SIEM_10.160.4.241_2018_02_10_1800.csv at 2/15/2018 11:44:30 AM
+Preparing to bulk copy 4512 rows for signal 63215007
+Bulk copy for 63215007 successful
+Done with SIEM_10.160.4.241_2018_02_10_1900.csv at 2/15/2018 11:44:30 AM
+Preparing to bulk copy 4100 rows for signal 63215007
+Bulk copy for 63215007 successful
+Done with SIEM_10.160.4.241_2018_02_10_2000.csv at 2/15/2018 11:44:30 AM
+Preparing to bulk copy 3548 rows for signal 63215007
+Bulk copy for 63215007 successful
+Done with SIEM_10.160.4.241_2018_02_10_2100.csv at 2/15/2018 11:44:30 AM
+Preparing to bulk copy 3674 rows for signal 63215007
+Bulk copy for 63215007 successful
+Done with SIEM_10.160.4.241_2018_02_10_2200.csv at 2/15/2018 11:44:30 AM
+Preparing to bulk copy 3171 rows for signal 63215007
+Bulk copy for 63215007 successful
+Done with SIEM_10.160.4.241_2018_02_10_2300.csv at 2/15/2018 11:44:30 AM
+Preparing to bulk copy 2869 rows for signal 63215007
+Bulk copy for 63215007 successful
+Done with SIEM_10.160.4.241_2018_02_11_0000.csv at 2/15/2018 11:44:30 AM
+Preparing to bulk copy 2833 rows for signal 63215007
+Bulk copy for 63215007 successful
+Done with SIEM_10.160.4.241_2018_02_11_0100.csv at 2/15/2018 11:44:30 AM
+Preparing to bulk copy 1907 rows for signal 63215007
+Bulk copy for 63215007 successful
+Done with SIEM_10.160.4.241_2018_02_11_0200.csv at 2/15/2018 11:44:30 AM
+Preparing to bulk copy 1629 rows for signal 63215007
+Bulk copy for 63215007 successful
+Done with SIEM_10.160.4.241_2018_02_11_0300.csv at 2/15/2018 11:44:30 AM
+Preparing to bulk copy 303 rows for signal 63215007
+Bulk copy for 63215007 successful
+Done with SIEM_10.160.4.241_2018_02_11_0400.csv at 2/15/2018 11:44:30 AM
+Preparing to bulk copy 436 rows for signal 63215007
+Bulk copy for 63215007 successful
+Done with SIEM_10.160.4.241_2018_02_11_0500.csv at 2/15/2018 11:44:30 AM
+Preparing to bulk copy 427 rows for signal 63215007
+Bulk copy for 63215007 successful
+Done with SIEM_10.160.4.241_2018_02_11_0600.csv at 2/15/2018 11:44:30 AM
+Preparing to bulk copy 634 rows for signal 63215007
+Bulk copy for 63215007 successful
+Done with SIEM_10.160.4.241_2018_02_11_0700.csv at 2/15/2018 11:44:30 AM
+Preparing to bulk copy 1712 rows for signal 63215007
+Bulk copy for 63215007 successful
+Done with SIEM_10.160.4.241_2018_02_11_0800.csv at 2/15/2018 11:44:30 AM
+Preparing to bulk copy 2356 rows for signal 63215007
+Bulk copy for 63215007 successful
+Done with SIEM_10.160.4.241_2018_02_11_0900.csv at 2/15/2018 11:44:30 AM
+Preparing to bulk copy 3190 rows for signal 63215007
+Bulk copy for 63215007 successful
+Done with SIEM_10.160.4.241_2018_02_11_1000.csv at 2/15/2018 11:44:31 AM
+Preparing to bulk copy 4247 rows for signal 63215007
+Bulk copy for 63215007 successful
+Done with SIEM_10.160.4.241_2018_02_11_1100.csv at 2/15/2018 11:44:31 AM
+Preparing to bulk copy 4834 rows for signal 63215007
+Bulk copy for 63215007 successful
+Done with SIEM_10.160.4.241_2018_02_11_1200.csv at 2/15/2018 11:44:31 AM
+Preparing to bulk copy 5109 rows for signal 63215007
+Bulk copy for 63215007 successful
+Done with SIEM_10.160.4.241_2018_02_11_1300.csv at 2/15/2018 11:44:31 AM
+Preparing to bulk copy 5293 rows for signal 63215007
+Bulk copy for 63215007 successful
+Done with SIEM_10.160.4.241_2018_02_11_1400.csv at 2/15/2018 11:44:31 AM
+Preparing to bulk copy 4995 rows for signal 63215007
+Bulk copy for 63215007 successful
+Done with SIEM_10.160.4.241_2018_02_11_1500.csv at 2/15/2018 11:44:31 AM
+Preparing to bulk copy 4859 rows for signal 63215007
+Bulk copy for 63215007 successful
+Done with SIEM_10.160.4.241_2018_02_11_1600.csv at 2/15/2018 11:44:31 AM
+Preparing to bulk copy 4848 rows for signal 63215007
+Bulk copy for 63215007 successful
+Done with SIEM_10.160.4.241_2018_02_11_1700.csv at 2/15/2018 11:44:31 AM
+Preparing to bulk copy 5168 rows for signal 63215007
+Bulk copy for 63215007 successful
+Done with SIEM_10.160.4.241_2018_02_11_1800.csv at 2/15/2018 11:44:31 AM
+Preparing to bulk copy 4981 rows for signal 63215007
+Bulk copy for 63215007 successful
+Done with SIEM_10.160.4.241_2018_02_11_1900.csv at 2/15/2018 11:44:31 AM
+Preparing to bulk copy 4311 rows for signal 63215007
+Bulk copy for 63215007 successful
+Done with SIEM_10.160.4.241_2018_02_11_2000.csv at 2/15/2018 11:44:31 AM
+Preparing to bulk copy 3765 rows for signal 63215007
+Bulk copy for 63215007 successful
+Done with SIEM_10.160.4.241_2018_02_11_2100.csv at 2/15/2018 11:44:31 AM
+Preparing to bulk copy 3275 rows for signal 63215007
+Bulk copy for 63215007 successful
+Done with SIEM_10.160.4.241_2018_02_11_2200.csv at 2/15/2018 11:44:31 AM
+Preparing to bulk copy 1978 rows for signal 63215007
+Bulk copy for 63215007 successful
+Done with SIEM_10.160.4.241_2018_02_11_2300.csv at 2/15/2018 11:44:32 AM
+Preparing to bulk copy 1229 rows for signal 63215007
+Bulk copy for 63215007 successful
+Done with SIEM_10.160.4.241_2018_02_12_0000.csv at 2/15/2018 11:44:32 AM
+Preparing to bulk copy 1094 rows for signal 63215007
+Bulk copy for 63215007 successful
+Done with SIEM_10.160.4.241_2018_02_12_0100.csv at 2/15/2018 11:44:32 AM
+Preparing to bulk copy 539 rows for signal 63215007
+Bulk copy for 63215007 successful
+Done with SIEM_10.160.4.241_2018_02_12_0200.csv at 2/15/2018 11:44:32 AM
+Preparing to bulk copy 296 rows for signal 63215007
+Bulk copy for 63215007 successful
+Done with SIEM_10.160.4.241_2018_02_12_0300.csv at 2/15/2018 11:44:32 AM
+Preparing to bulk copy 431 rows for signal 63215007
+Bulk copy for 63215007 successful
+Done with SIEM_10.160.4.241_2018_02_12_0400.csv at 2/15/2018 11:44:32 AM
+Preparing to bulk copy 1072 rows for signal 63215007
+Bulk copy for 63215007 successful
+Done with SIEM_10.160.4.241_2018_02_12_0500.csv at 2/15/2018 11:44:32 AM
+Preparing to bulk copy 1437 rows for signal 63215007
+Bulk copy for 63215007 successful
+Done with SIEM_10.160.4.241_2018_02_12_0600.csv at 2/15/2018 11:44:32 AM
+Preparing to bulk copy 4833 rows for signal 63215007
+Bulk copy for 63215007 successful
+Done with SIEM_10.160.4.241_2018_02_12_0700.csv at 2/15/2018 11:44:32 AM
+Preparing to bulk copy 5359 rows for signal 63215007
+Bulk copy for 63215007 successful
+Done with SIEM_10.160.4.241_2018_02_12_0800.csv at 2/15/2018 11:44:32 AM
+Preparing to bulk copy 5393 rows for signal 63215007
+Bulk copy for 63215007 successful
+Done with SIEM_10.160.4.241_2018_02_12_0900.csv at 2/15/2018 11:44:32 AM
+Preparing to bulk copy 5506 rows for signal 63215007
+Bulk copy for 63215007 successful
+Done with SIEM_10.160.4.241_2018_02_12_1000.csv at 2/15/2018 11:44:32 AM
+Preparing to bulk copy 5466 rows for signal 63215007
+Bulk copy for 63215007 successful
+Done with SIEM_10.160.4.241_2018_02_12_1100.csv at 2/15/2018 11:44:32 AM
+Preparing to bulk copy 5301 rows for signal 63215007
+Bulk copy for 63215007 successful
+Done with SIEM_10.160.4.241_2018_02_12_1200.csv at 2/15/2018 11:44:32 AM
+Preparing to bulk copy 5283 rows for signal 63215007
+Bulk copy for 63215007 successful
+Done with SIEM_10.160.4.241_2018_02_12_1300.csv at 2/15/2018 11:44:32 AM
+Preparing to bulk copy 5178 rows for signal 63215007
+Bulk copy for 63215007 successful
+Done with SIEM_10.160.4.241_2018_02_12_1400.csv at 2/15/2018 11:44:32 AM
+Preparing to bulk copy 5105 rows for signal 63215007
+Bulk copy for 63215007 successful
+Done with SIEM_10.160.4.241_2018_02_12_1500.csv at 2/15/2018 11:44:32 AM
+Preparing to bulk copy 5311 rows for signal 63215007
+Bulk copy for 63215007 successful
+Done with SIEM_10.160.4.241_2018_02_12_1600.csv at 2/15/2018 11:44:33 AM
+Preparing to bulk copy 5673 rows for signal 63215007
+Bulk copy for 63215007 successful
+Done with SIEM_10.160.4.241_2018_02_12_1700.csv at 2/15/2018 11:44:33 AM
+Preparing to bulk copy 5851 rows for signal 63215007
+Bulk copy for 63215007 successful
+Done with SIEM_10.160.4.241_2018_02_12_1800.csv at 2/15/2018 11:44:33 AM
+Preparing to bulk copy 4900 rows for signal 63215007
+Bulk copy for 63215007 successful
+Done with SIEM_10.160.4.241_2018_02_12_1900.csv at 2/15/2018 11:44:33 AM
+Preparing to bulk copy 4895 rows for signal 63215007
+Bulk copy for 63215007 successful
+Done with SIEM_10.160.4.241_2018_02_12_2000.csv at 2/15/2018 11:44:33 AM
+Preparing to bulk copy 4481 rows for signal 63215007
+Bulk copy for 63215007 successful
+Done with SIEM_10.160.4.241_2018_02_12_2100.csv at 2/15/2018 11:44:33 AM
+Preparing to bulk copy 3545 rows for signal 63215007
+Bulk copy for 63215007 successful
+Done with SIEM_10.160.4.241_2018_02_12_2200.csv at 2/15/2018 11:44:33 AM
+Preparing to bulk copy 2529 rows for signal 63215007
+Bulk copy for 63215007 successful
+Done with SIEM_10.160.4.241_2018_02_12_2300.csv at 2/15/2018 11:44:33 AM
+Preparing to bulk copy 3532 rows for signal 63215006
+Bulk copy for 63215006 successful
+Done with SIEM_10.160.4.246_2018_02_08_1100.csv at 2/15/2018 11:44:33 AM
+Preparing to bulk copy 4068 rows for signal 63215006
+Bulk copy for 63215006 successful
+Done with SIEM_10.160.4.246_2018_02_08_1200.csv at 2/15/2018 11:44:33 AM
+Preparing to bulk copy 3967 rows for signal 63215006
+Bulk copy for 63215006 successful
+Done with SIEM_10.160.4.246_2018_02_08_1300.csv at 2/15/2018 11:44:33 AM
+Preparing to bulk copy 3560 rows for signal 63215006
+Bulk copy for 63215006 successful
+Done with SIEM_10.160.4.246_2018_02_08_1400.csv at 2/15/2018 11:44:33 AM
+Preparing to bulk copy 3815 rows for signal 63215006
+Bulk copy for 63215006 successful
+Done with SIEM_10.160.4.246_2018_02_08_1500.csv at 2/15/2018 11:44:33 AM
+Preparing to bulk copy 3788 rows for signal 63215006
+Bulk copy for 63215006 successful
+Done with SIEM_10.160.4.246_2018_02_08_1600.csv at 2/15/2018 11:44:33 AM
+Preparing to bulk copy 3932 rows for signal 63215006
+Bulk copy for 63215006 successful
+Done with SIEM_10.160.4.246_2018_02_08_1700.csv at 2/15/2018 11:44:34 AM
+Preparing to bulk copy 3933 rows for signal 63215006
+Bulk copy for 63215006 successful
+Done with SIEM_10.160.4.246_2018_02_08_1800.csv at 2/15/2018 11:44:34 AM
+Preparing to bulk copy 3605 rows for signal 63215006
+Bulk copy for 63215006 successful
+Done with SIEM_10.160.4.246_2018_02_08_1900.csv at 2/15/2018 11:44:34 AM
+Preparing to bulk copy 2316 rows for signal 63215006
+Bulk copy for 63215006 successful
+Done with SIEM_10.160.4.246_2018_02_08_2000.csv at 2/15/2018 11:44:34 AM
+Preparing to bulk copy 1879 rows for signal 63215006
+Bulk copy for 63215006 successful
+Done with SIEM_10.160.4.246_2018_02_08_2100.csv at 2/15/2018 11:44:34 AM
+Preparing to bulk copy 1256 rows for signal 63215006
+Bulk copy for 63215006 successful
+Done with SIEM_10.160.4.246_2018_02_08_2200.csv at 2/15/2018 11:44:34 AM
+Preparing to bulk copy 1036 rows for signal 63215006
+Bulk copy for 63215006 successful
+Done with SIEM_10.160.4.246_2018_02_08_2300.csv at 2/15/2018 11:44:34 AM
+Preparing to bulk copy 758 rows for signal 63215006
+Bulk copy for 63215006 successful
+Done with SIEM_10.160.4.246_2018_02_09_0000.csv at 2/15/2018 11:44:34 AM
+Preparing to bulk copy 524 rows for signal 63215006
+Bulk copy for 63215006 successful
+Done with SIEM_10.160.4.246_2018_02_09_0100.csv at 2/15/2018 11:44:34 AM
+Preparing to bulk copy 290 rows for signal 63215006
+Bulk copy for 63215006 successful
+Done with SIEM_10.160.4.246_2018_02_09_0200.csv at 2/15/2018 11:44:34 AM
+Preparing to bulk copy 126 rows for signal 63215006
+Bulk copy for 63215006 successful
+Done with SIEM_10.160.4.246_2018_02_09_0300.csv at 2/15/2018 11:44:34 AM
+Preparing to bulk copy 92 rows for signal 63215006
+Bulk copy for 63215006 successful
+Done with SIEM_10.160.4.246_2018_02_09_0400.csv at 2/15/2018 11:44:34 AM
+Preparing to bulk copy 280 rows for signal 63215006
+Bulk copy for 63215006 successful
+Done with SIEM_10.160.4.246_2018_02_09_0500.csv at 2/15/2018 11:44:34 AM
+Preparing to bulk copy 465 rows for signal 63215006
+Bulk copy for 63215006 successful
+Done with SIEM_10.160.4.246_2018_02_09_0600.csv at 2/15/2018 11:44:34 AM
+Preparing to bulk copy 2165 rows for signal 63215006
+Bulk copy for 63215006 successful
+Done with SIEM_10.160.4.246_2018_02_09_0700.csv at 2/15/2018 11:44:34 AM
+Preparing to bulk copy 3094 rows for signal 63215006
+Bulk copy for 63215006 successful
+Done with SIEM_10.160.4.246_2018_02_09_0800.csv at 2/15/2018 11:44:34 AM
+Preparing to bulk copy 3315 rows for signal 63215006
+Bulk copy for 63215006 successful
+Done with SIEM_10.160.4.246_2018_02_09_0900.csv at 2/15/2018 11:44:34 AM
+Preparing to bulk copy 3754 rows for signal 63215006
+Bulk copy for 63215006 successful
+Done with SIEM_10.160.4.246_2018_02_09_1000.csv at 2/15/2018 11:44:34 AM
+Preparing to bulk copy 3955 rows for signal 63215006
+Bulk copy for 63215006 successful
+Done with SIEM_10.160.4.246_2018_02_09_1100.csv at 2/15/2018 11:44:34 AM
+Preparing to bulk copy 4148 rows for signal 63215006
+Bulk copy for 63215006 successful
+Done with SIEM_10.160.4.246_2018_02_09_1200.csv at 2/15/2018 11:44:34 AM
+Preparing to bulk copy 4132 rows for signal 63215006
+Bulk copy for 63215006 successful
+Done with SIEM_10.160.4.246_2018_02_09_1300.csv at 2/15/2018 11:44:34 AM
+Preparing to bulk copy 3682 rows for signal 63215006
+Bulk copy for 63215006 successful
+Done with SIEM_10.160.4.246_2018_02_09_1400.csv at 2/15/2018 11:44:34 AM
+Preparing to bulk copy 3549 rows for signal 63215006
+Bulk copy for 63215006 successful
+Done with SIEM_10.160.4.246_2018_02_09_1500.csv at 2/15/2018 11:44:35 AM
+Preparing to bulk copy 3169 rows for signal 63215006
+Bulk copy for 63215006 successful
+Done with SIEM_10.160.4.246_2018_02_09_1600.csv at 2/15/2018 11:44:35 AM
+Preparing to bulk copy 2677 rows for signal 63215006
+Bulk copy for 63215006 successful
+Done with SIEM_10.160.4.246_2018_02_09_1700.csv at 2/15/2018 11:44:35 AM
+Preparing to bulk copy 2218 rows for signal 63215006
+Bulk copy for 63215006 successful
+Done with SIEM_10.160.4.246_2018_02_09_1800.csv at 2/15/2018 11:44:35 AM
+Preparing to bulk copy 1945 rows for signal 63215006
+Bulk copy for 63215006 successful
+Done with SIEM_10.160.4.246_2018_02_09_1900.csv at 2/15/2018 11:44:35 AM
+Preparing to bulk copy 1397 rows for signal 63215006
+Bulk copy for 63215006 successful
+Done with SIEM_10.160.4.246_2018_02_09_2000.csv at 2/15/2018 11:44:35 AM
+Preparing to bulk copy 1394 rows for signal 63215006
+Bulk copy for 63215006 successful
+Done with SIEM_10.160.4.246_2018_02_09_2100.csv at 2/15/2018 11:44:35 AM
+Preparing to bulk copy 1162 rows for signal 63215006
+Bulk copy for 63215006 successful
+Done with SIEM_10.160.4.246_2018_02_09_2200.csv at 2/15/2018 11:44:35 AM
+Preparing to bulk copy 1014 rows for signal 63215006
+Bulk copy for 63215006 successful
+Done with SIEM_10.160.4.246_2018_02_09_2300.csv at 2/15/2018 11:44:35 AM
+Preparing to bulk copy 754 rows for signal 63215006
+Bulk copy for 63215006 successful
+Done with SIEM_10.160.4.246_2018_02_10_0000.csv at 2/15/2018 11:44:35 AM
+Preparing to bulk copy 672 rows for signal 63215006
+Bulk copy for 63215006 successful
+Done with SIEM_10.160.4.246_2018_02_10_0100.csv at 2/15/2018 11:44:35 AM
+Preparing to bulk copy 554 rows for signal 63215006
+Bulk copy for 63215006 successful
+Done with SIEM_10.160.4.246_2018_02_10_0200.csv at 2/15/2018 11:44:35 AM
+Preparing to bulk copy 290 rows for signal 63215006
+Bulk copy for 63215006 successful
+Done with SIEM_10.160.4.246_2018_02_10_0300.csv at 2/15/2018 11:44:35 AM
+Preparing to bulk copy 139 rows for signal 63215006
+Bulk copy for 63215006 successful
+Done with SIEM_10.160.4.246_2018_02_10_0400.csv at 2/15/2018 11:44:35 AM
+Preparing to bulk copy 103 rows for signal 63215006
+Bulk copy for 63215006 successful
+Done with SIEM_10.160.4.246_2018_02_10_0500.csv at 2/15/2018 11:44:35 AM
+Preparing to bulk copy 126 rows for signal 63215006
+Bulk copy for 63215006 successful
+Done with SIEM_10.160.4.246_2018_02_10_0600.csv at 2/15/2018 11:44:35 AM
+Preparing to bulk copy 262 rows for signal 63215006
+Bulk copy for 63215006 successful
+Done with SIEM_10.160.4.246_2018_02_10_0700.csv at 2/15/2018 11:44:35 AM
+Preparing to bulk copy 453 rows for signal 63215006
+Bulk copy for 63215006 successful
+Done with SIEM_10.160.4.246_2018_02_10_0800.csv at 2/15/2018 11:44:35 AM
+Preparing to bulk copy 617 rows for signal 63215006
+Bulk copy for 63215006 successful
+Done with SIEM_10.160.4.246_2018_02_10_0900.csv at 2/15/2018 11:44:35 AM
+Preparing to bulk copy 907 rows for signal 63215006
+Bulk copy for 63215006 successful
+Done with SIEM_10.160.4.246_2018_02_10_1000.csv at 2/15/2018 11:44:35 AM
+Preparing to bulk copy 1445 rows for signal 63215006
+Bulk copy for 63215006 successful
+Done with SIEM_10.160.4.246_2018_02_10_1100.csv at 2/15/2018 11:44:35 AM
+Preparing to bulk copy 1906 rows for signal 63215006
+Bulk copy for 63215006 successful
+Done with SIEM_10.160.4.246_2018_02_10_1200.csv at 2/15/2018 11:44:35 AM
+Preparing to bulk copy 2171 rows for signal 63215006
+Bulk copy for 63215006 successful
+Done with SIEM_10.160.4.246_2018_02_10_1300.csv at 2/15/2018 11:44:35 AM
+Preparing to bulk copy 1930 rows for signal 63215006
+Bulk copy for 63215006 successful
+Done with SIEM_10.160.4.246_2018_02_10_1400.csv at 2/15/2018 11:44:35 AM
+Preparing to bulk copy 2201 rows for signal 63215006
+Bulk copy for 63215006 successful
+Done with SIEM_10.160.4.246_2018_02_10_1500.csv at 2/15/2018 11:44:35 AM
+Preparing to bulk copy 1925 rows for signal 63215006
+Bulk copy for 63215006 successful
+Done with SIEM_10.160.4.246_2018_02_10_1600.csv at 2/15/2018 11:44:35 AM
+Preparing to bulk copy 1294 rows for signal 63215006
+Bulk copy for 63215006 successful
+Done with SIEM_10.160.4.246_2018_02_10_1700.csv at 2/15/2018 11:44:35 AM
+Preparing to bulk copy 1395 rows for signal 63215006
+Bulk copy for 63215006 successful
+Done with SIEM_10.160.4.246_2018_02_10_1800.csv at 2/15/2018 11:44:35 AM
+Preparing to bulk copy 1956 rows for signal 63215006
+Bulk copy for 63215006 successful
+Done with SIEM_10.160.4.246_2018_02_10_1900.csv at 2/15/2018 11:44:35 AM
+Preparing to bulk copy 1311 rows for signal 63215006
+Bulk copy for 63215006 successful
+Done with SIEM_10.160.4.246_2018_02_10_2000.csv at 2/15/2018 11:44:35 AM
+Preparing to bulk copy 1143 rows for signal 63215006
+Bulk copy for 63215006 successful
+Done with SIEM_10.160.4.246_2018_02_10_2100.csv at 2/15/2018 11:44:35 AM
+Preparing to bulk copy 1106 rows for signal 63215006
+Bulk copy for 63215006 successful
+Done with SIEM_10.160.4.246_2018_02_10_2200.csv at 2/15/2018 11:44:35 AM
+Preparing to bulk copy 870 rows for signal 63215006
+Bulk copy for 63215006 successful
+Done with SIEM_10.160.4.246_2018_02_10_2300.csv at 2/15/2018 11:44:35 AM
+Preparing to bulk copy 648 rows for signal 63215006
+Bulk copy for 63215006 successful
+Done with SIEM_10.160.4.246_2018_02_11_0000.csv at 2/15/2018 11:44:35 AM
+Preparing to bulk copy 660 rows for signal 63215006
+Bulk copy for 63215006 successful
+Done with SIEM_10.160.4.246_2018_02_11_0100.csv at 2/15/2018 11:44:35 AM
+Preparing to bulk copy 447 rows for signal 63215006
+Bulk copy for 63215006 successful
+Done with SIEM_10.160.4.246_2018_02_11_0200.csv at 2/15/2018 11:44:36 AM
+Preparing to bulk copy 188 rows for signal 63215006
+Bulk copy for 63215006 successful
+Done with SIEM_10.160.4.246_2018_02_11_0300.csv at 2/15/2018 11:44:36 AM
+Preparing to bulk copy 66 rows for signal 63215006
+Bulk copy for 63215006 successful
+Done with SIEM_10.160.4.246_2018_02_11_0400.csv at 2/15/2018 11:44:36 AM
+Preparing to bulk copy 84 rows for signal 63215006
+Bulk copy for 63215006 successful
+Done with SIEM_10.160.4.246_2018_02_11_0500.csv at 2/15/2018 11:44:36 AM
+Preparing to bulk copy 134 rows for signal 63215006
+Bulk copy for 63215006 successful
+Done with SIEM_10.160.4.246_2018_02_11_0600.csv at 2/15/2018 11:44:36 AM
+Preparing to bulk copy 180 rows for signal 63215006
+Bulk copy for 63215006 successful
+Done with SIEM_10.160.4.246_2018_02_11_0700.csv at 2/15/2018 11:44:36 AM
+Preparing to bulk copy 394 rows for signal 63215006
+Bulk copy for 63215006 successful
+Done with SIEM_10.160.4.246_2018_02_11_0800.csv at 2/15/2018 11:44:36 AM
+Preparing to bulk copy 694 rows for signal 63215006
+Bulk copy for 63215006 successful
+Done with SIEM_10.160.4.246_2018_02_11_0900.csv at 2/15/2018 11:44:36 AM
+Preparing to bulk copy 959 rows for signal 63215006
+Bulk copy for 63215006 successful
+Done with SIEM_10.160.4.246_2018_02_11_1000.csv at 2/15/2018 11:44:36 AM
+Preparing to bulk copy 1794 rows for signal 63215006
+Bulk copy for 63215006 successful
+Done with SIEM_10.160.4.246_2018_02_11_1100.csv at 2/15/2018 11:44:36 AM
+Preparing to bulk copy 1824 rows for signal 63215006
+Bulk copy for 63215006 successful
+Done with SIEM_10.160.4.246_2018_02_11_1200.csv at 2/15/2018 11:44:36 AM
+Preparing to bulk copy 1875 rows for signal 63215006
+Bulk copy for 63215006 successful
+Done with SIEM_10.160.4.246_2018_02_11_1300.csv at 2/15/2018 11:44:36 AM
+Preparing to bulk copy 2094 rows for signal 63215006
+Bulk copy for 63215006 successful
+Done with SIEM_10.160.4.246_2018_02_11_1400.csv at 2/15/2018 11:44:36 AM
+Preparing to bulk copy 2104 rows for signal 63215006
+Bulk copy for 63215006 successful
+Done with SIEM_10.160.4.246_2018_02_11_1500.csv at 2/15/2018 11:44:36 AM
+Preparing to bulk copy 1902 rows for signal 63215006
+Bulk copy for 63215006 successful
+Done with SIEM_10.160.4.246_2018_02_11_1600.csv at 2/15/2018 11:44:36 AM
+Preparing to bulk copy 1943 rows for signal 63215006
+Bulk copy for 63215006 successful
+Done with SIEM_10.160.4.246_2018_02_11_1700.csv at 2/15/2018 11:44:36 AM
+Preparing to bulk copy 2330 rows for signal 63215006
+Bulk copy for 63215006 successful
+Done with SIEM_10.160.4.246_2018_02_11_1800.csv at 2/15/2018 11:44:36 AM
+Preparing to bulk copy 1658 rows for signal 63215006
+Bulk copy for 63215006 successful
+Done with SIEM_10.160.4.246_2018_02_11_1900.csv at 2/15/2018 11:44:36 AM
+Preparing to bulk copy 1427 rows for signal 63215006
+Bulk copy for 63215006 successful
+Done with SIEM_10.160.4.246_2018_02_11_2000.csv at 2/15/2018 11:44:36 AM
+Preparing to bulk copy 1173 rows for signal 63215006
+Bulk copy for 63215006 successful
+Done with SIEM_10.160.4.246_2018_02_11_2100.csv at 2/15/2018 11:44:36 AM
+Preparing to bulk copy 691 rows for signal 63215006
+Bulk copy for 63215006 successful
+Done with SIEM_10.160.4.246_2018_02_11_2200.csv at 2/15/2018 11:44:36 AM
+Preparing to bulk copy 366 rows for signal 63215006
+Bulk copy for 63215006 successful
+Done with SIEM_10.160.4.246_2018_02_11_2300.csv at 2/15/2018 11:44:36 AM
+Preparing to bulk copy 288 rows for signal 63215006
+Bulk copy for 63215006 successful
+Done with SIEM_10.160.4.246_2018_02_12_0000.csv at 2/15/2018 11:44:36 AM
+Preparing to bulk copy 142 rows for signal 63215006
+Bulk copy for 63215006 successful
+Done with SIEM_10.160.4.246_2018_02_12_0100.csv at 2/15/2018 11:44:36 AM
+Preparing to bulk copy 91 rows for signal 63215006
+Bulk copy for 63215006 successful
+Done with SIEM_10.160.4.246_2018_02_12_0200.csv at 2/15/2018 11:44:36 AM
+Preparing to bulk copy 56 rows for signal 63215006
+Bulk copy for 63215006 successful
+Done with SIEM_10.160.4.246_2018_02_12_0300.csv at 2/15/2018 11:44:36 AM
+Preparing to bulk copy 89 rows for signal 63215006
+Bulk copy for 63215006 successful
+Done with SIEM_10.160.4.246_2018_02_12_0400.csv at 2/15/2018 11:44:36 AM
+Preparing to bulk copy 226 rows for signal 63215006
+Bulk copy for 63215006 successful
+Done with SIEM_10.160.4.246_2018_02_12_0500.csv at 2/15/2018 11:44:36 AM
+Preparing to bulk copy 344 rows for signal 63215006
+Bulk copy for 63215006 successful
+Done with SIEM_10.160.4.246_2018_02_12_0600.csv at 2/15/2018 11:44:36 AM
+Preparing to bulk copy 2346 rows for signal 63215006
+Bulk copy for 63215006 successful
+Done with SIEM_10.160.4.246_2018_02_12_0700.csv at 2/15/2018 11:44:36 AM
+Preparing to bulk copy 3179 rows for signal 63215006
+Bulk copy for 63215006 successful
+Done with SIEM_10.160.4.246_2018_02_12_0800.csv at 2/15/2018 11:44:36 AM
+Preparing to bulk copy 3067 rows for signal 63215006
+Bulk copy for 63215006 successful
+Done with SIEM_10.160.4.246_2018_02_12_0900.csv at 2/15/2018 11:44:36 AM
+Preparing to bulk copy 3678 rows for signal 63215006
+Bulk copy for 63215006 successful
+Done with SIEM_10.160.4.246_2018_02_12_1000.csv at 2/15/2018 11:44:36 AM
+Preparing to bulk copy 3660 rows for signal 63215006
+Bulk copy for 63215006 successful
+Done with SIEM_10.160.4.246_2018_02_12_1100.csv at 2/15/2018 11:44:36 AM
+Preparing to bulk copy 3934 rows for signal 63215006
+Bulk copy for 63215006 successful
+Done with SIEM_10.160.4.246_2018_02_12_1200.csv at 2/15/2018 11:44:36 AM
+Preparing to bulk copy 3721 rows for signal 63215006
+Bulk copy for 63215006 successful
+Done with SIEM_10.160.4.246_2018_02_12_1300.csv at 2/15/2018 11:44:37 AM
+Preparing to bulk copy 3494 rows for signal 63215006
+Bulk copy for 63215006 successful
+Done with SIEM_10.160.4.246_2018_02_12_1400.csv at 2/15/2018 11:44:37 AM
+Preparing to bulk copy 3508 rows for signal 63215006
+Bulk copy for 63215006 successful
+Done with SIEM_10.160.4.246_2018_02_12_1500.csv at 2/15/2018 11:44:37 AM
+Preparing to bulk copy 4009 rows for signal 63215006
+Bulk copy for 63215006 successful
+Done with SIEM_10.160.4.246_2018_02_12_1600.csv at 2/15/2018 11:44:37 AM
+Preparing to bulk copy 3849 rows for signal 63215006
+Bulk copy for 63215006 successful
+Done with SIEM_10.160.4.246_2018_02_12_1700.csv at 2/15/2018 11:44:37 AM
+Preparing to bulk copy 4036 rows for signal 63215006
+Bulk copy for 63215006 successful
+Done with SIEM_10.160.4.246_2018_02_12_1800.csv at 2/15/2018 11:44:37 AM
+Preparing to bulk copy 3378 rows for signal 63215006
+Bulk copy for 63215006 successful
+Done with SIEM_10.160.4.246_2018_02_12_1900.csv at 2/15/2018 11:44:37 AM
+Preparing to bulk copy 2712 rows for signal 63215006
+Bulk copy for 63215006 successful
+Done with SIEM_10.160.4.246_2018_02_12_2000.csv at 2/15/2018 11:44:37 AM
+Preparing to bulk copy 1760 rows for signal 63215006
+Bulk copy for 63215006 successful
+Done with SIEM_10.160.4.246_2018_02_12_2100.csv at 2/15/2018 11:44:37 AM
+Preparing to bulk copy 957 rows for signal 63215006
+Bulk copy for 63215006 successful
+Done with SIEM_10.160.4.246_2018_02_12_2200.csv at 2/15/2018 11:44:37 AM
+Preparing to bulk copy 621 rows for signal 63215006
+Bulk copy for 63215006 successful
+Done with SIEM_10.160.4.246_2018_02_12_2300.csv at 2/15/2018 11:44:37 AM
+Preparing to bulk copy 3744 rows for signal 63215005
+Bulk copy for 63215005 successful
+Done with SIEM_10.160.4.251_2018_02_08_1100.csv at 2/15/2018 11:44:37 AM
+Preparing to bulk copy 3847 rows for signal 63215005
+Bulk copy for 63215005 successful
+Done with SIEM_10.160.4.251_2018_02_08_1200.csv at 2/15/2018 11:44:37 AM
+Preparing to bulk copy 3817 rows for signal 63215005
+Bulk copy for 63215005 successful
+Done with SIEM_10.160.4.251_2018_02_08_1300.csv at 2/15/2018 11:44:37 AM
+Preparing to bulk copy 3599 rows for signal 63215005
+Bulk copy for 63215005 successful
+Done with SIEM_10.160.4.251_2018_02_08_1400.csv at 2/15/2018 11:44:37 AM
+Preparing to bulk copy 3815 rows for signal 63215005
+Bulk copy for 63215005 successful
+Done with SIEM_10.160.4.251_2018_02_08_1500.csv at 2/15/2018 11:44:37 AM
+Preparing to bulk copy 3695 rows for signal 63215005
+Bulk copy for 63215005 successful
+Done with SIEM_10.160.4.251_2018_02_08_1600.csv at 2/15/2018 11:44:38 AM
+Preparing to bulk copy 3791 rows for signal 63215005
+Bulk copy for 63215005 successful
+Done with SIEM_10.160.4.251_2018_02_08_1700.csv at 2/15/2018 11:44:38 AM
+Preparing to bulk copy 3772 rows for signal 63215005
+Bulk copy for 63215005 successful
+Done with SIEM_10.160.4.251_2018_02_08_1800.csv at 2/15/2018 11:44:38 AM
+Preparing to bulk copy 2962 rows for signal 63215005
+Bulk copy for 63215005 successful
+Done with SIEM_10.160.4.251_2018_02_08_1900.csv at 2/15/2018 11:44:38 AM
+Preparing to bulk copy 2503 rows for signal 63215005
+Bulk copy for 63215005 successful
+Done with SIEM_10.160.4.251_2018_02_08_2000.csv at 2/15/2018 11:44:38 AM
+Preparing to bulk copy 1752 rows for signal 63215005
+Bulk copy for 63215005 successful
+Done with SIEM_10.160.4.251_2018_02_08_2100.csv at 2/15/2018 11:44:38 AM
+Preparing to bulk copy 1182 rows for signal 63215005
+Bulk copy for 63215005 successful
+Done with SIEM_10.160.4.251_2018_02_08_2200.csv at 2/15/2018 11:44:38 AM
+Preparing to bulk copy 995 rows for signal 63215005
+Bulk copy for 63215005 successful
+Done with SIEM_10.160.4.251_2018_02_08_2300.csv at 2/15/2018 11:44:38 AM
+Preparing to bulk copy 764 rows for signal 63215005
+Bulk copy for 63215005 successful
+Done with SIEM_10.160.4.251_2018_02_09_0000.csv at 2/15/2018 11:44:38 AM
+Preparing to bulk copy 574 rows for signal 63215005
+Bulk copy for 63215005 successful
+Done with SIEM_10.160.4.251_2018_02_09_0100.csv at 2/15/2018 11:44:38 AM
+Preparing to bulk copy 322 rows for signal 63215005
+Bulk copy for 63215005 successful
+Done with SIEM_10.160.4.251_2018_02_09_0200.csv at 2/15/2018 11:44:38 AM
+Preparing to bulk copy 124 rows for signal 63215005
+Bulk copy for 63215005 successful
+Done with SIEM_10.160.4.251_2018_02_09_0300.csv at 2/15/2018 11:44:38 AM
+Preparing to bulk copy 94 rows for signal 63215005
+Bulk copy for 63215005 successful
+Done with SIEM_10.160.4.251_2018_02_09_0400.csv at 2/15/2018 11:44:38 AM
+Preparing to bulk copy 278 rows for signal 63215005
+Bulk copy for 63215005 successful
+Done with SIEM_10.160.4.251_2018_02_09_0500.csv at 2/15/2018 11:44:38 AM
+Preparing to bulk copy 422 rows for signal 63215005
+Bulk copy for 63215005 successful
+Done with SIEM_10.160.4.251_2018_02_09_0600.csv at 2/15/2018 11:44:38 AM
+Preparing to bulk copy 2147 rows for signal 63215005
+Bulk copy for 63215005 successful
+Done with SIEM_10.160.4.251_2018_02_09_0700.csv at 2/15/2018 11:44:38 AM
+Preparing to bulk copy 3153 rows for signal 63215005
+Bulk copy for 63215005 successful
+Done with SIEM_10.160.4.251_2018_02_09_0800.csv at 2/15/2018 11:44:38 AM
+Preparing to bulk copy 3459 rows for signal 63215005
+Bulk copy for 63215005 successful
+Done with SIEM_10.160.4.251_2018_02_09_0900.csv at 2/15/2018 11:44:38 AM
+Preparing to bulk copy 3657 rows for signal 63215005
+Bulk copy for 63215005 successful
+Done with SIEM_10.160.4.251_2018_02_09_1000.csv at 2/15/2018 11:44:38 AM
+Preparing to bulk copy 3809 rows for signal 63215005
+Bulk copy for 63215005 successful
+Done with SIEM_10.160.4.251_2018_02_09_1100.csv at 2/15/2018 11:44:38 AM
+Preparing to bulk copy 4049 rows for signal 63215005
+Bulk copy for 63215005 successful
+Done with SIEM_10.160.4.251_2018_02_09_1200.csv at 2/15/2018 11:44:38 AM
+Preparing to bulk copy 4164 rows for signal 63215005
+Bulk copy for 63215005 successful
+Done with SIEM_10.160.4.251_2018_02_09_1300.csv at 2/15/2018 11:44:38 AM
+Preparing to bulk copy 3970 rows for signal 63215005
+Bulk copy for 63215005 successful
+Done with SIEM_10.160.4.251_2018_02_09_1400.csv at 2/15/2018 11:44:39 AM
+Preparing to bulk copy 3865 rows for signal 63215005
+Bulk copy for 63215005 successful
+Done with SIEM_10.160.4.251_2018_02_09_1500.csv at 2/15/2018 11:44:39 AM
+Preparing to bulk copy 3367 rows for signal 63215005
+Bulk copy for 63215005 successful
+Done with SIEM_10.160.4.251_2018_02_09_1600.csv at 2/15/2018 11:44:39 AM
+Preparing to bulk copy 2675 rows for signal 63215005
+Bulk copy for 63215005 successful
+Done with SIEM_10.160.4.251_2018_02_09_1700.csv at 2/15/2018 11:44:39 AM
+Preparing to bulk copy 2364 rows for signal 63215005
+Bulk copy for 63215005 successful
+Done with SIEM_10.160.4.251_2018_02_09_1800.csv at 2/15/2018 11:44:39 AM
+Preparing to bulk copy 2205 rows for signal 63215005
+Bulk copy for 63215005 successful
+Done with SIEM_10.160.4.251_2018_02_09_1900.csv at 2/15/2018 11:44:39 AM
+Preparing to bulk copy 1617 rows for signal 63215005
+Bulk copy for 63215005 successful
+Done with SIEM_10.160.4.251_2018_02_09_2000.csv at 2/15/2018 11:44:39 AM
+Preparing to bulk copy 1230 rows for signal 63215005
+Bulk copy for 63215005 successful
+Done with SIEM_10.160.4.251_2018_02_09_2100.csv at 2/15/2018 11:44:39 AM
+Preparing to bulk copy 1176 rows for signal 63215005
+Bulk copy for 63215005 successful
+Done with SIEM_10.160.4.251_2018_02_09_2200.csv at 2/15/2018 11:44:39 AM
+Preparing to bulk copy 1010 rows for signal 63215005
+Bulk copy for 63215005 successful
+Done with SIEM_10.160.4.251_2018_02_09_2300.csv at 2/15/2018 11:44:39 AM
+Preparing to bulk copy 746 rows for signal 63215005
+Bulk copy for 63215005 successful
+Done with SIEM_10.160.4.251_2018_02_10_0000.csv at 2/15/2018 11:44:39 AM
+Preparing to bulk copy 672 rows for signal 63215005
+Bulk copy for 63215005 successful
+Done with SIEM_10.160.4.251_2018_02_10_0100.csv at 2/15/2018 11:44:39 AM
+Preparing to bulk copy 554 rows for signal 63215005
+Bulk copy for 63215005 successful
+Done with SIEM_10.160.4.251_2018_02_10_0200.csv at 2/15/2018 11:44:39 AM
+Preparing to bulk copy 210 rows for signal 63215005
+Bulk copy for 63215005 successful
+Done with SIEM_10.160.4.251_2018_02_10_0300.csv at 2/15/2018 11:44:39 AM
+Preparing to bulk copy 104 rows for signal 63215005
+Bulk copy for 63215005 successful
+Done with SIEM_10.160.4.251_2018_02_10_0400.csv at 2/15/2018 11:44:39 AM
+Preparing to bulk copy 133 rows for signal 63215005
+Bulk copy for 63215005 successful
+Done with SIEM_10.160.4.251_2018_02_10_0500.csv at 2/15/2018 11:44:39 AM
+Preparing to bulk copy 170 rows for signal 63215005
+Bulk copy for 63215005 successful
+Done with SIEM_10.160.4.251_2018_02_10_0600.csv at 2/15/2018 11:44:39 AM
+Preparing to bulk copy 259 rows for signal 63215005
+Bulk copy for 63215005 successful
+Done with SIEM_10.160.4.251_2018_02_10_0700.csv at 2/15/2018 11:44:39 AM
+Preparing to bulk copy 463 rows for signal 63215005
+Bulk copy for 63215005 successful
+Done with SIEM_10.160.4.251_2018_02_10_0800.csv at 2/15/2018 11:44:39 AM
+Preparing to bulk copy 590 rows for signal 63215005
+Bulk copy for 63215005 successful
+Done with SIEM_10.160.4.251_2018_02_10_0900.csv at 2/15/2018 11:44:39 AM
+Preparing to bulk copy 880 rows for signal 63215005
+Bulk copy for 63215005 successful
+Done with SIEM_10.160.4.251_2018_02_10_1000.csv at 2/15/2018 11:44:39 AM
+Preparing to bulk copy 1539 rows for signal 63215005
+Bulk copy for 63215005 successful
+Done with SIEM_10.160.4.251_2018_02_10_1100.csv at 2/15/2018 11:44:39 AM
+Preparing to bulk copy 1878 rows for signal 63215005
+Bulk copy for 63215005 successful
+Done with SIEM_10.160.4.251_2018_02_10_1200.csv at 2/15/2018 11:44:39 AM
+Preparing to bulk copy 2211 rows for signal 63215005
+Bulk copy for 63215005 successful
+Done with SIEM_10.160.4.251_2018_02_10_1300.csv at 2/15/2018 11:44:39 AM
+Preparing to bulk copy 2100 rows for signal 63215005
+Bulk copy for 63215005 successful
+Done with SIEM_10.160.4.251_2018_02_10_1400.csv at 2/15/2018 11:44:39 AM
+Preparing to bulk copy 1927 rows for signal 63215005
+Bulk copy for 63215005 successful
+Done with SIEM_10.160.4.251_2018_02_10_1500.csv at 2/15/2018 11:44:39 AM
+Preparing to bulk copy 1802 rows for signal 63215005
+Bulk copy for 63215005 successful
+Done with SIEM_10.160.4.251_2018_02_10_1600.csv at 2/15/2018 11:44:39 AM
+Preparing to bulk copy 1171 rows for signal 63215005
+Bulk copy for 63215005 successful
+Done with SIEM_10.160.4.251_2018_02_10_1700.csv at 2/15/2018 11:44:39 AM
+Preparing to bulk copy 1309 rows for signal 63215005
+Bulk copy for 63215005 successful
+Done with SIEM_10.160.4.251_2018_02_10_1800.csv at 2/15/2018 11:44:39 AM
+Preparing to bulk copy 1690 rows for signal 63215005
+Bulk copy for 63215005 successful
+Done with SIEM_10.160.4.251_2018_02_10_1900.csv at 2/15/2018 11:44:39 AM
+Preparing to bulk copy 1304 rows for signal 63215005
+Bulk copy for 63215005 successful
+Done with SIEM_10.160.4.251_2018_02_10_2000.csv at 2/15/2018 11:44:39 AM
+Preparing to bulk copy 1196 rows for signal 63215005
+Bulk copy for 63215005 successful
+Done with SIEM_10.160.4.251_2018_02_10_2100.csv at 2/15/2018 11:44:40 AM
+Preparing to bulk copy 1030 rows for signal 63215005
+Bulk copy for 63215005 successful
+Done with SIEM_10.160.4.251_2018_02_10_2200.csv at 2/15/2018 11:44:40 AM
+Preparing to bulk copy 894 rows for signal 63215005
+Bulk copy for 63215005 successful
+Done with SIEM_10.160.4.251_2018_02_10_2300.csv at 2/15/2018 11:44:40 AM
+Preparing to bulk copy 697 rows for signal 63215005
+Bulk copy for 63215005 successful
+Done with SIEM_10.160.4.251_2018_02_11_0000.csv at 2/15/2018 11:44:40 AM
+Preparing to bulk copy 628 rows for signal 63215005
+Bulk copy for 63215005 successful
+Done with SIEM_10.160.4.251_2018_02_11_0100.csv at 2/15/2018 11:44:40 AM
+Preparing to bulk copy 402 rows for signal 63215005
+Bulk copy for 63215005 successful
+Done with SIEM_10.160.4.251_2018_02_11_0200.csv at 2/15/2018 11:44:40 AM
+Preparing to bulk copy 190 rows for signal 63215005
+Bulk copy for 63215005 successful
+Done with SIEM_10.160.4.251_2018_02_11_0300.csv at 2/15/2018 11:44:40 AM
+Preparing to bulk copy 72 rows for signal 63215005
+Bulk copy for 63215005 successful
+Done with SIEM_10.160.4.251_2018_02_11_0400.csv at 2/15/2018 11:44:40 AM
+Preparing to bulk copy 86 rows for signal 63215005
+Bulk copy for 63215005 successful
+Done with SIEM_10.160.4.251_2018_02_11_0500.csv at 2/15/2018 11:44:40 AM
+Preparing to bulk copy 90 rows for signal 63215005
+Bulk copy for 63215005 successful
+Done with SIEM_10.160.4.251_2018_02_11_0600.csv at 2/15/2018 11:44:40 AM
+Preparing to bulk copy 136 rows for signal 63215005
+Bulk copy for 63215005 successful
+Done with SIEM_10.160.4.251_2018_02_11_0700.csv at 2/15/2018 11:44:40 AM
+Preparing to bulk copy 480 rows for signal 63215005
+Bulk copy for 63215005 successful
+Done with SIEM_10.160.4.251_2018_02_11_0800.csv at 2/15/2018 11:44:40 AM
+Preparing to bulk copy 698 rows for signal 63215005
+Bulk copy for 63215005 successful
+Done with SIEM_10.160.4.251_2018_02_11_0900.csv at 2/15/2018 11:44:40 AM
+Preparing to bulk copy 1201 rows for signal 63215005
+Bulk copy for 63215005 successful
+Done with SIEM_10.160.4.251_2018_02_11_1000.csv at 2/15/2018 11:44:40 AM
+Preparing to bulk copy 1401 rows for signal 63215005
+Bulk copy for 63215005 successful
+Done with SIEM_10.160.4.251_2018_02_11_1100.csv at 2/15/2018 11:44:40 AM
+Preparing to bulk copy 1987 rows for signal 63215005
+Bulk copy for 63215005 successful
+Done with SIEM_10.160.4.251_2018_02_11_1200.csv at 2/15/2018 11:44:40 AM
+Preparing to bulk copy 2142 rows for signal 63215005
+Bulk copy for 63215005 successful
+Done with SIEM_10.160.4.251_2018_02_11_1300.csv at 2/15/2018 11:44:40 AM
+Preparing to bulk copy 2203 rows for signal 63215005
+Bulk copy for 63215005 successful
+Done with SIEM_10.160.4.251_2018_02_11_1400.csv at 2/15/2018 11:44:40 AM
+Preparing to bulk copy 1753 rows for signal 63215005
+Bulk copy for 63215005 successful
+Done with SIEM_10.160.4.251_2018_02_11_1500.csv at 2/15/2018 11:44:40 AM
+Preparing to bulk copy 1982 rows for signal 63215005
+Bulk copy for 63215005 successful
+Done with SIEM_10.160.4.251_2018_02_11_1600.csv at 2/15/2018 11:44:40 AM
+Preparing to bulk copy 2246 rows for signal 63215005
+Bulk copy for 63215005 successful
+Done with SIEM_10.160.4.251_2018_02_11_1700.csv at 2/15/2018 11:44:40 AM
+Preparing to bulk copy 2363 rows for signal 63215005
+Bulk copy for 63215005 successful
+Done with SIEM_10.160.4.251_2018_02_11_1800.csv at 2/15/2018 11:44:40 AM
+Preparing to bulk copy 1860 rows for signal 63215005
+Bulk copy for 63215005 successful
+Done with SIEM_10.160.4.251_2018_02_11_1900.csv at 2/15/2018 11:44:40 AM
+Preparing to bulk copy 1415 rows for signal 63215005
+Bulk copy for 63215005 successful
+Done with SIEM_10.160.4.251_2018_02_11_2000.csv at 2/15/2018 11:44:40 AM
+Preparing to bulk copy 1097 rows for signal 63215005
+Bulk copy for 63215005 successful
+Done with SIEM_10.160.4.251_2018_02_11_2100.csv at 2/15/2018 11:44:40 AM
+Preparing to bulk copy 728 rows for signal 63215005
+Bulk copy for 63215005 successful
+Done with SIEM_10.160.4.251_2018_02_11_2200.csv at 2/15/2018 11:44:40 AM
+Preparing to bulk copy 399 rows for signal 63215005
+Bulk copy for 63215005 successful
+Done with SIEM_10.160.4.251_2018_02_11_2300.csv at 2/15/2018 11:44:40 AM
+Preparing to bulk copy 322 rows for signal 63215005
+Bulk copy for 63215005 successful
+Done with SIEM_10.160.4.251_2018_02_12_0000.csv at 2/15/2018 11:44:40 AM
+Preparing to bulk copy 146 rows for signal 63215005
+Bulk copy for 63215005 successful
+Done with SIEM_10.160.4.251_2018_02_12_0100.csv at 2/15/2018 11:44:40 AM
+Preparing to bulk copy 76 rows for signal 63215005
+Bulk copy for 63215005 successful
+Done with SIEM_10.160.4.251_2018_02_12_0200.csv at 2/15/2018 11:44:40 AM
+Preparing to bulk copy 54 rows for signal 63215005
+Bulk copy for 63215005 successful
+Done with SIEM_10.160.4.251_2018_02_12_0300.csv at 2/15/2018 11:44:40 AM
+Preparing to bulk copy 62 rows for signal 63215005
+Bulk copy for 63215005 successful
+Done with SIEM_10.160.4.251_2018_02_12_0400.csv at 2/15/2018 11:44:40 AM
+Preparing to bulk copy 216 rows for signal 63215005
+Bulk copy for 63215005 successful
+Done with SIEM_10.160.4.251_2018_02_12_0500.csv at 2/15/2018 11:44:40 AM
+Preparing to bulk copy 439 rows for signal 63215005
+Bulk copy for 63215005 successful
+Done with SIEM_10.160.4.251_2018_02_12_0600.csv at 2/15/2018 11:44:40 AM
+Preparing to bulk copy 2149 rows for signal 63215005
+Bulk copy for 63215005 successful
+Done with SIEM_10.160.4.251_2018_02_12_0700.csv at 2/15/2018 11:44:40 AM
+Preparing to bulk copy 3061 rows for signal 63215005
+Bulk copy for 63215005 successful
+Done with SIEM_10.160.4.251_2018_02_12_0800.csv at 2/15/2018 11:44:40 AM
+Preparing to bulk copy 3361 rows for signal 63215005
+Bulk copy for 63215005 successful
+Done with SIEM_10.160.4.251_2018_02_12_0900.csv at 2/15/2018 11:44:41 AM
+Preparing to bulk copy 3496 rows for signal 63215005
+Bulk copy for 63215005 successful
+Done with SIEM_10.160.4.251_2018_02_12_1000.csv at 2/15/2018 11:44:41 AM
+Preparing to bulk copy 3911 rows for signal 63215005
+Bulk copy for 63215005 successful
+Done with SIEM_10.160.4.251_2018_02_12_1100.csv at 2/15/2018 11:44:41 AM
+Preparing to bulk copy 3785 rows for signal 63215005
+Bulk copy for 63215005 successful
+Done with SIEM_10.160.4.251_2018_02_12_1200.csv at 2/15/2018 11:44:41 AM
+Preparing to bulk copy 3796 rows for signal 63215005
+Bulk copy for 63215005 successful
+Done with SIEM_10.160.4.251_2018_02_12_1300.csv at 2/15/2018 11:44:41 AM
+Preparing to bulk copy 3682 rows for signal 63215005
+Bulk copy for 63215005 successful
+Done with SIEM_10.160.4.251_2018_02_12_1400.csv at 2/15/2018 11:44:41 AM
+Preparing to bulk copy 3803 rows for signal 63215005
+Bulk copy for 63215005 successful
+Done with SIEM_10.160.4.251_2018_02_12_1500.csv at 2/15/2018 11:44:41 AM
+Preparing to bulk copy 4123 rows for signal 63215005
+Bulk copy for 63215005 successful
+Done with SIEM_10.160.4.251_2018_02_12_1600.csv at 2/15/2018 11:44:41 AM
+Preparing to bulk copy 4043 rows for signal 63215005
+Bulk copy for 63215005 successful
+Done with SIEM_10.160.4.251_2018_02_12_1700.csv at 2/15/2018 11:44:41 AM
+Preparing to bulk copy 4203 rows for signal 63215005
+Bulk copy for 63215005 successful
+Done with SIEM_10.160.4.251_2018_02_12_1800.csv at 2/15/2018 11:44:41 AM
+Preparing to bulk copy 3362 rows for signal 63215005
+Bulk copy for 63215005 successful
+Done with SIEM_10.160.4.251_2018_02_12_1900.csv at 2/15/2018 11:44:41 AM
+Preparing to bulk copy 2647 rows for signal 63215005
+Bulk copy for 63215005 successful
+Done with SIEM_10.160.4.251_2018_02_12_2000.csv at 2/15/2018 11:44:41 AM
+Preparing to bulk copy 1571 rows for signal 63215005
+Bulk copy for 63215005 successful
+Done with SIEM_10.160.4.251_2018_02_12_2100.csv at 2/15/2018 11:44:41 AM
+Preparing to bulk copy 1215 rows for signal 63215005
+Bulk copy for 63215005 successful
+Done with SIEM_10.160.4.251_2018_02_12_2200.csv at 2/15/2018 11:44:41 AM
+Preparing to bulk copy 680 rows for signal 63215005
+Bulk copy for 63215005 successful
+Done with SIEM_10.160.4.251_2018_02_12_2300.csv at 2/15/2018 11:44:41 AM
+Preparing to bulk copy 5308 rows for signal 63215004
+Bulk copy for 63215004 successful
+Done with SIEM_10.160.5.0_2018_02_08_1100.csv at 2/15/2018 11:44:41 AM
+Preparing to bulk copy 5733 rows for signal 63215004
+Bulk copy for 63215004 successful
+Done with SIEM_10.160.5.0_2018_02_08_1200.csv at 2/15/2018 11:44:42 AM
+Preparing to bulk copy 5989 rows for signal 63215004
+Bulk copy for 63215004 successful
+Done with SIEM_10.160.5.0_2018_02_08_1300.csv at 2/15/2018 11:44:42 AM
+Preparing to bulk copy 5156 rows for signal 63215004
+Bulk copy for 63215004 successful
+Done with SIEM_10.160.5.0_2018_02_08_1400.csv at 2/15/2018 11:44:42 AM
+Preparing to bulk copy 5617 rows for signal 63215004
+Bulk copy for 63215004 successful
+Done with SIEM_10.160.5.0_2018_02_08_1500.csv at 2/15/2018 11:44:42 AM
+Preparing to bulk copy 5415 rows for signal 63215004
+Bulk copy for 63215004 successful
+Done with SIEM_10.160.5.0_2018_02_08_1600.csv at 2/15/2018 11:44:42 AM
+Preparing to bulk copy 5759 rows for signal 63215004
+Bulk copy for 63215004 successful
+Done with SIEM_10.160.5.0_2018_02_08_1700.csv at 2/15/2018 11:44:42 AM
+Preparing to bulk copy 5699 rows for signal 63215004
+Bulk copy for 63215004 successful
+Done with SIEM_10.160.5.0_2018_02_08_1800.csv at 2/15/2018 11:44:42 AM
+Preparing to bulk copy 5059 rows for signal 63215004
+Bulk copy for 63215004 successful
+Done with SIEM_10.160.5.0_2018_02_08_1900.csv at 2/15/2018 11:44:42 AM
+Preparing to bulk copy 4263 rows for signal 63215004
+Bulk copy for 63215004 successful
+Done with SIEM_10.160.5.0_2018_02_08_2000.csv at 2/15/2018 11:44:42 AM
+Preparing to bulk copy 3905 rows for signal 63215004
+Bulk copy for 63215004 successful
+Done with SIEM_10.160.5.0_2018_02_08_2100.csv at 2/15/2018 11:44:42 AM
+Preparing to bulk copy 3286 rows for signal 63215004
+Bulk copy for 63215004 successful
+Done with SIEM_10.160.5.0_2018_02_08_2200.csv at 2/15/2018 11:44:42 AM
+Preparing to bulk copy 2860 rows for signal 63215004
+Bulk copy for 63215004 successful
+Done with SIEM_10.160.5.0_2018_02_08_2300.csv at 2/15/2018 11:44:42 AM
+Preparing to bulk copy 2163 rows for signal 63215004
+Bulk copy for 63215004 successful
+Done with SIEM_10.160.5.0_2018_02_09_0000.csv at 2/15/2018 11:44:43 AM
+Preparing to bulk copy 1953 rows for signal 63215004
+Bulk copy for 63215004 successful
+Done with SIEM_10.160.5.0_2018_02_09_0100.csv at 2/15/2018 11:44:43 AM
+Preparing to bulk copy 1428 rows for signal 63215004
+Bulk copy for 63215004 successful
+Done with SIEM_10.160.5.0_2018_02_09_0200.csv at 2/15/2018 11:44:43 AM
+Preparing to bulk copy 1106 rows for signal 63215004
+Bulk copy for 63215004 successful
+Done with SIEM_10.160.5.0_2018_02_09_0300.csv at 2/15/2018 11:44:43 AM
+Preparing to bulk copy 1099 rows for signal 63215004
+Bulk copy for 63215004 successful
+Done with SIEM_10.160.5.0_2018_02_09_0400.csv at 2/15/2018 11:44:43 AM
+Preparing to bulk copy 1620 rows for signal 63215004
+Bulk copy for 63215004 successful
+Done with SIEM_10.160.5.0_2018_02_09_0500.csv at 2/15/2018 11:44:43 AM
+Preparing to bulk copy 1776 rows for signal 63215004
+Bulk copy for 63215004 successful
+Done with SIEM_10.160.5.0_2018_02_09_0600.csv at 2/15/2018 11:44:43 AM
+Preparing to bulk copy 4131 rows for signal 63215004
+Bulk copy for 63215004 successful
+Done with SIEM_10.160.5.0_2018_02_09_0700.csv at 2/15/2018 11:44:43 AM
+Preparing to bulk copy 4923 rows for signal 63215004
+Bulk copy for 63215004 successful
+Done with SIEM_10.160.5.0_2018_02_09_0800.csv at 2/15/2018 11:44:43 AM
+Preparing to bulk copy 5232 rows for signal 63215004
+Bulk copy for 63215004 successful
+Done with SIEM_10.160.5.0_2018_02_09_0900.csv at 2/15/2018 11:44:43 AM
+Preparing to bulk copy 5307 rows for signal 63215004
+Bulk copy for 63215004 successful
+Done with SIEM_10.160.5.0_2018_02_09_1000.csv at 2/15/2018 11:44:43 AM
+Preparing to bulk copy 5779 rows for signal 63215004
+Bulk copy for 63215004 successful
+Done with SIEM_10.160.5.0_2018_02_09_1100.csv at 2/15/2018 11:44:43 AM
+Preparing to bulk copy 6261 rows for signal 63215004
+Bulk copy for 63215004 successful
+Done with SIEM_10.160.5.0_2018_02_09_1200.csv at 2/15/2018 11:44:43 AM
+Preparing to bulk copy 5780 rows for signal 63215004
+Bulk copy for 63215004 successful
+Done with SIEM_10.160.5.0_2018_02_09_1300.csv at 2/15/2018 11:44:43 AM
+Preparing to bulk copy 5516 rows for signal 63215004
+Bulk copy for 63215004 successful
+Done with SIEM_10.160.5.0_2018_02_09_1400.csv at 2/15/2018 11:44:44 AM
+Preparing to bulk copy 5437 rows for signal 63215004
+Bulk copy for 63215004 successful
+Done with SIEM_10.160.5.0_2018_02_09_1500.csv at 2/15/2018 11:44:44 AM
+Preparing to bulk copy 5214 rows for signal 63215004
+Bulk copy for 63215004 successful
+Done with SIEM_10.160.5.0_2018_02_09_1600.csv at 2/15/2018 11:44:44 AM
+Preparing to bulk copy 4827 rows for signal 63215004
+Bulk copy for 63215004 successful
+Done with SIEM_10.160.5.0_2018_02_09_1700.csv at 2/15/2018 11:44:44 AM
+Preparing to bulk copy 4286 rows for signal 63215004
+Bulk copy for 63215004 successful
+Done with SIEM_10.160.5.0_2018_02_09_1800.csv at 2/15/2018 11:44:44 AM
+Preparing to bulk copy 3687 rows for signal 63215004
+Bulk copy for 63215004 successful
+Done with SIEM_10.160.5.0_2018_02_09_1900.csv at 2/15/2018 11:44:44 AM
+Preparing to bulk copy 3391 rows for signal 63215004
+Bulk copy for 63215004 successful
+Done with SIEM_10.160.5.0_2018_02_09_2000.csv at 2/15/2018 11:44:44 AM
+Preparing to bulk copy 3134 rows for signal 63215004
+Bulk copy for 63215004 successful
+Done with SIEM_10.160.5.0_2018_02_09_2100.csv at 2/15/2018 11:44:44 AM
+Preparing to bulk copy 3090 rows for signal 63215004
+Bulk copy for 63215004 successful
+Done with SIEM_10.160.5.0_2018_02_09_2200.csv at 2/15/2018 11:44:44 AM
+Preparing to bulk copy 2715 rows for signal 63215004
+Bulk copy for 63215004 successful
+Done with SIEM_10.160.5.0_2018_02_09_2300.csv at 2/15/2018 11:44:44 AM
+Preparing to bulk copy 2282 rows for signal 63215004
+Bulk copy for 63215004 successful
+Done with SIEM_10.160.5.0_2018_02_10_0000.csv at 2/15/2018 11:44:44 AM
+Preparing to bulk copy 2018 rows for signal 63215004
+Bulk copy for 63215004 successful
+Done with SIEM_10.160.5.0_2018_02_10_0100.csv at 2/15/2018 11:44:44 AM
+Preparing to bulk copy 1733 rows for signal 63215004
+Bulk copy for 63215004 successful
+Done with SIEM_10.160.5.0_2018_02_10_0200.csv at 2/15/2018 11:44:44 AM
+Preparing to bulk copy 1249 rows for signal 63215004
+Bulk copy for 63215004 successful
+Done with SIEM_10.160.5.0_2018_02_10_0300.csv at 2/15/2018 11:44:44 AM
+Preparing to bulk copy 1054 rows for signal 63215004
+Bulk copy for 63215004 successful
+Done with SIEM_10.160.5.0_2018_02_10_0400.csv at 2/15/2018 11:44:44 AM
+Preparing to bulk copy 1080 rows for signal 63215004
+Bulk copy for 63215004 successful
+Done with SIEM_10.160.5.0_2018_02_10_0500.csv at 2/15/2018 11:44:44 AM
+Preparing to bulk copy 1104 rows for signal 63215004
+Bulk copy for 63215004 successful
+Done with SIEM_10.160.5.0_2018_02_10_0600.csv at 2/15/2018 11:44:45 AM
+Preparing to bulk copy 1469 rows for signal 63215004
+Bulk copy for 63215004 successful
+Done with SIEM_10.160.5.0_2018_02_10_0700.csv at 2/15/2018 11:44:45 AM
+Preparing to bulk copy 1756 rows for signal 63215004
+Bulk copy for 63215004 successful
+Done with SIEM_10.160.5.0_2018_02_10_0800.csv at 2/15/2018 11:44:45 AM
+Preparing to bulk copy 1934 rows for signal 63215004
+Bulk copy for 63215004 successful
+Done with SIEM_10.160.5.0_2018_02_10_0900.csv at 2/15/2018 11:44:45 AM
+Preparing to bulk copy 2433 rows for signal 63215004
+Bulk copy for 63215004 successful
+Done with SIEM_10.160.5.0_2018_02_10_1000.csv at 2/15/2018 11:44:45 AM
+Preparing to bulk copy 3085 rows for signal 63215004
+Bulk copy for 63215004 successful
+Done with SIEM_10.160.5.0_2018_02_10_1100.csv at 2/15/2018 11:44:45 AM
+Preparing to bulk copy 4148 rows for signal 63215004
+Bulk copy for 63215004 successful
+Done with SIEM_10.160.5.0_2018_02_10_1200.csv at 2/15/2018 11:44:45 AM
+Preparing to bulk copy 4177 rows for signal 63215004
+Bulk copy for 63215004 successful
+Done with SIEM_10.160.5.0_2018_02_10_1300.csv at 2/15/2018 11:44:45 AM
+Preparing to bulk copy 4010 rows for signal 63215004
+Bulk copy for 63215004 successful
+Done with SIEM_10.160.5.0_2018_02_10_1400.csv at 2/15/2018 11:44:45 AM
+Preparing to bulk copy 3494 rows for signal 63215004
+Bulk copy for 63215004 successful
+Done with SIEM_10.160.5.0_2018_02_10_1500.csv at 2/15/2018 11:44:45 AM
+Preparing to bulk copy 3747 rows for signal 63215004
+Bulk copy for 63215004 successful
+Done with SIEM_10.160.5.0_2018_02_10_1600.csv at 2/15/2018 11:44:45 AM
+Preparing to bulk copy 3341 rows for signal 63215004
+Bulk copy for 63215004 successful
+Done with SIEM_10.160.5.0_2018_02_10_1700.csv at 2/15/2018 11:44:45 AM
+Preparing to bulk copy 3612 rows for signal 63215004
+Bulk copy for 63215004 successful
+Done with SIEM_10.160.5.0_2018_02_10_1800.csv at 2/15/2018 11:44:45 AM
+Preparing to bulk copy 4219 rows for signal 63215004
+Bulk copy for 63215004 successful
+Done with SIEM_10.160.5.0_2018_02_10_1900.csv at 2/15/2018 11:44:45 AM
+Preparing to bulk copy 3206 rows for signal 63215004
+Bulk copy for 63215004 successful
+Done with SIEM_10.160.5.0_2018_02_10_2000.csv at 2/15/2018 11:44:45 AM
+Preparing to bulk copy 2861 rows for signal 63215004
+Bulk copy for 63215004 successful
+Done with SIEM_10.160.5.0_2018_02_10_2100.csv at 2/15/2018 11:44:45 AM
+Preparing to bulk copy 2899 rows for signal 63215004
+Bulk copy for 63215004 successful
+Done with SIEM_10.160.5.0_2018_02_10_2200.csv at 2/15/2018 11:44:45 AM
+Preparing to bulk copy 2523 rows for signal 63215004
+Bulk copy for 63215004 successful
+Done with SIEM_10.160.5.0_2018_02_10_2300.csv at 2/15/2018 11:44:46 AM
+Preparing to bulk copy 2004 rows for signal 63215004
+Bulk copy for 63215004 successful
+Done with SIEM_10.160.5.0_2018_02_11_0000.csv at 2/15/2018 11:44:46 AM
+Preparing to bulk copy 1755 rows for signal 63215004
+Bulk copy for 63215004 successful
+Done with SIEM_10.160.5.0_2018_02_11_0100.csv at 2/15/2018 11:44:46 AM
+Preparing to bulk copy 1466 rows for signal 63215004
+Bulk copy for 63215004 successful
+Done with SIEM_10.160.5.0_2018_02_11_0200.csv at 2/15/2018 11:44:46 AM
+Preparing to bulk copy 1199 rows for signal 63215004
+Bulk copy for 63215004 successful
+Done with SIEM_10.160.5.0_2018_02_11_0300.csv at 2/15/2018 11:44:46 AM
+Preparing to bulk copy 1003 rows for signal 63215004
+Bulk copy for 63215004 successful
+Done with SIEM_10.160.5.0_2018_02_11_0400.csv at 2/15/2018 11:44:46 AM
+Preparing to bulk copy 970 rows for signal 63215004
+Bulk copy for 63215004 successful
+Done with SIEM_10.160.5.0_2018_02_11_0500.csv at 2/15/2018 11:44:46 AM
+Preparing to bulk copy 1066 rows for signal 63215004
+Bulk copy for 63215004 successful
+Done with SIEM_10.160.5.0_2018_02_11_0600.csv at 2/15/2018 11:44:46 AM
+Preparing to bulk copy 1120 rows for signal 63215004
+Bulk copy for 63215004 successful
+Done with SIEM_10.160.5.0_2018_02_11_0700.csv at 2/15/2018 11:44:46 AM
+Preparing to bulk copy 1468 rows for signal 63215004
+Bulk copy for 63215004 successful
+Done with SIEM_10.160.5.0_2018_02_11_0800.csv at 2/15/2018 11:44:46 AM
+Preparing to bulk copy 2006 rows for signal 63215004
+Bulk copy for 63215004 successful
+Done with SIEM_10.160.5.0_2018_02_11_0900.csv at 2/15/2018 11:44:46 AM
+Preparing to bulk copy 2465 rows for signal 63215004
+Bulk copy for 63215004 successful
+Done with SIEM_10.160.5.0_2018_02_11_1000.csv at 2/15/2018 11:44:46 AM
+Preparing to bulk copy 3025 rows for signal 63215004
+Bulk copy for 63215004 successful
+Done with SIEM_10.160.5.0_2018_02_11_1100.csv at 2/15/2018 11:44:46 AM
+Preparing to bulk copy 3720 rows for signal 63215004
+Bulk copy for 63215004 successful
+Done with SIEM_10.160.5.0_2018_02_11_1200.csv at 2/15/2018 11:44:46 AM
+Preparing to bulk copy 3958 rows for signal 63215004
+Bulk copy for 63215004 successful
+Done with SIEM_10.160.5.0_2018_02_11_1300.csv at 2/15/2018 11:44:46 AM
+Preparing to bulk copy 4179 rows for signal 63215004
+Bulk copy for 63215004 successful
+Done with SIEM_10.160.5.0_2018_02_11_1400.csv at 2/15/2018 11:44:46 AM
+Preparing to bulk copy 3935 rows for signal 63215004
+Bulk copy for 63215004 successful
+Done with SIEM_10.160.5.0_2018_02_11_1500.csv at 2/15/2018 11:44:46 AM
+Preparing to bulk copy 4450 rows for signal 63215004
+Bulk copy for 63215004 successful
+Done with SIEM_10.160.5.0_2018_02_11_1600.csv at 2/15/2018 11:44:46 AM
+Preparing to bulk copy 4079 rows for signal 63215004
+Bulk copy for 63215004 successful
+Done with SIEM_10.160.5.0_2018_02_11_1700.csv at 2/15/2018 11:44:46 AM
+Preparing to bulk copy 4275 rows for signal 63215004
+Bulk copy for 63215004 successful
+Done with SIEM_10.160.5.0_2018_02_11_1800.csv at 2/15/2018 11:44:47 AM
+Preparing to bulk copy 3769 rows for signal 63215004
+Bulk copy for 63215004 successful
+Done with SIEM_10.160.5.0_2018_02_11_1900.csv at 2/15/2018 11:44:47 AM
+Preparing to bulk copy 3367 rows for signal 63215004
+Bulk copy for 63215004 successful
+Done with SIEM_10.160.5.0_2018_02_11_2000.csv at 2/15/2018 11:44:47 AM
+Preparing to bulk copy 2523 rows for signal 63215004
+Bulk copy for 63215004 successful
+Done with SIEM_10.160.5.0_2018_02_11_2100.csv at 2/15/2018 11:44:47 AM
+Preparing to bulk copy 2261 rows for signal 63215004
+Bulk copy for 63215004 successful
+Done with SIEM_10.160.5.0_2018_02_11_2200.csv at 2/15/2018 11:44:47 AM
+Preparing to bulk copy 1633 rows for signal 63215004
+Bulk copy for 63215004 successful
+Done with SIEM_10.160.5.0_2018_02_11_2300.csv at 2/15/2018 11:44:47 AM
+Preparing to bulk copy 1386 rows for signal 63215004
+Bulk copy for 63215004 successful
+Done with SIEM_10.160.5.0_2018_02_12_0000.csv at 2/15/2018 11:44:47 AM
+Preparing to bulk copy 1336 rows for signal 63215004
+Bulk copy for 63215004 successful
+Done with SIEM_10.160.5.0_2018_02_12_0100.csv at 2/15/2018 11:44:47 AM
+Preparing to bulk copy 1009 rows for signal 63215004
+Bulk copy for 63215004 successful
+Done with SIEM_10.160.5.0_2018_02_12_0200.csv at 2/15/2018 11:44:47 AM
+Preparing to bulk copy 974 rows for signal 63215004
+Bulk copy for 63215004 successful
+Done with SIEM_10.160.5.0_2018_02_12_0300.csv at 2/15/2018 11:44:47 AM
+Preparing to bulk copy 983 rows for signal 63215004
+Bulk copy for 63215004 successful
+Done with SIEM_10.160.5.0_2018_02_12_0400.csv at 2/15/2018 11:44:47 AM
+Preparing to bulk copy 1292 rows for signal 63215004
+Bulk copy for 63215004 successful
+Done with SIEM_10.160.5.0_2018_02_12_0500.csv at 2/15/2018 11:44:47 AM
+Preparing to bulk copy 1627 rows for signal 63215004
+Bulk copy for 63215004 successful
+Done with SIEM_10.160.5.0_2018_02_12_0600.csv at 2/15/2018 11:44:47 AM
+Preparing to bulk copy 4111 rows for signal 63215004
+Bulk copy for 63215004 successful
+Done with SIEM_10.160.5.0_2018_02_12_0700.csv at 2/15/2018 11:44:47 AM
+Preparing to bulk copy 4936 rows for signal 63215004
+Bulk copy for 63215004 successful
+Done with SIEM_10.160.5.0_2018_02_12_0800.csv at 2/15/2018 11:44:47 AM
+Preparing to bulk copy 5192 rows for signal 63215004
+Bulk copy for 63215004 successful
+Done with SIEM_10.160.5.0_2018_02_12_0900.csv at 2/15/2018 11:44:47 AM
+Preparing to bulk copy 5250 rows for signal 63215004
+Bulk copy for 63215004 successful
+Done with SIEM_10.160.5.0_2018_02_12_1000.csv at 2/15/2018 11:44:47 AM
+Preparing to bulk copy 5597 rows for signal 63215004
+Bulk copy for 63215004 successful
+Done with SIEM_10.160.5.0_2018_02_12_1100.csv at 2/15/2018 11:44:47 AM
+Preparing to bulk copy 5348 rows for signal 63215004
+Bulk copy for 63215004 successful
+Done with SIEM_10.160.5.0_2018_02_12_1200.csv at 2/15/2018 11:44:47 AM
+Preparing to bulk copy 5349 rows for signal 63215004
+Bulk copy for 63215004 successful
+Done with SIEM_10.160.5.0_2018_02_12_1300.csv at 2/15/2018 11:44:48 AM
+Preparing to bulk copy 5157 rows for signal 63215004
+Bulk copy for 63215004 successful
+Done with SIEM_10.160.5.0_2018_02_12_1400.csv at 2/15/2018 11:44:48 AM
+Preparing to bulk copy 5401 rows for signal 63215004
+Bulk copy for 63215004 successful
+Done with SIEM_10.160.5.0_2018_02_12_1500.csv at 2/15/2018 11:44:48 AM
+Preparing to bulk copy 5902 rows for signal 63215004
+Bulk copy for 63215004 successful
+Done with SIEM_10.160.5.0_2018_02_12_1600.csv at 2/15/2018 11:44:48 AM
+Preparing to bulk copy 5578 rows for signal 63215004
+Bulk copy for 63215004 successful
+Done with SIEM_10.160.5.0_2018_02_12_1700.csv at 2/15/2018 11:44:48 AM
+Preparing to bulk copy 5815 rows for signal 63215004
+Bulk copy for 63215004 successful
+Done with SIEM_10.160.5.0_2018_02_12_1800.csv at 2/15/2018 11:44:48 AM
+Preparing to bulk copy 5086 rows for signal 63215004
+Bulk copy for 63215004 successful
+Done with SIEM_10.160.5.0_2018_02_12_1900.csv at 2/15/2018 11:44:48 AM
+Preparing to bulk copy 4304 rows for signal 63215004
+Bulk copy for 63215004 successful
+Done with SIEM_10.160.5.0_2018_02_12_2000.csv at 2/15/2018 11:44:48 AM
+Preparing to bulk copy 3358 rows for signal 63215004
+Bulk copy for 63215004 successful
+Done with SIEM_10.160.5.0_2018_02_12_2100.csv at 2/15/2018 11:44:48 AM
+Preparing to bulk copy 2733 rows for signal 63215004
+Bulk copy for 63215004 successful
+Done with SIEM_10.160.5.0_2018_02_12_2200.csv at 2/15/2018 11:44:48 AM
+Preparing to bulk copy 1978 rows for signal 63215004
+Bulk copy for 63215004 successful
+Done with SIEM_10.160.5.0_2018_02_12_2300.csv at 2/15/2018 11:44:48 AM
+Preparing to bulk copy 9508 rows for signal 63215002
+Bulk copy for 63215002 successful
+Done with SIEM_10.160.5.10_2018_02_08_1100.csv at 2/15/2018 11:44:48 AM
+Preparing to bulk copy 10586 rows for signal 63215002
+Bulk copy for 63215002 successful
+Done with SIEM_10.160.5.10_2018_02_08_1200.csv at 2/15/2018 11:44:49 AM
+Preparing to bulk copy 10309 rows for signal 63215002
+Bulk copy for 63215002 successful
+Done with SIEM_10.160.5.10_2018_02_08_1300.csv at 2/15/2018 11:44:49 AM
+Preparing to bulk copy 9635 rows for signal 63215002
+Bulk copy for 63215002 successful
+Done with SIEM_10.160.5.10_2018_02_08_1400.csv at 2/15/2018 11:44:49 AM
+Preparing to bulk copy 9875 rows for signal 63215002
+Bulk copy for 63215002 successful
+Done with SIEM_10.160.5.10_2018_02_08_1500.csv at 2/15/2018 11:44:49 AM
+Preparing to bulk copy 9534 rows for signal 63215002
+Bulk copy for 63215002 successful
+Done with SIEM_10.160.5.10_2018_02_08_1600.csv at 2/15/2018 11:44:49 AM
+Preparing to bulk copy 9436 rows for signal 63215002
+Bulk copy for 63215002 successful
+Done with SIEM_10.160.5.10_2018_02_08_1700.csv at 2/15/2018 11:44:49 AM
+Preparing to bulk copy 9559 rows for signal 63215002
+Bulk copy for 63215002 successful
+Done with SIEM_10.160.5.10_2018_02_08_1800.csv at 2/15/2018 11:44:49 AM
+Preparing to bulk copy 9607 rows for signal 63215002
+Bulk copy for 63215002 successful
+Done with SIEM_10.160.5.10_2018_02_08_1900.csv at 2/15/2018 11:44:50 AM
+Preparing to bulk copy 9146 rows for signal 63215002
+Bulk copy for 63215002 successful
+Done with SIEM_10.160.5.10_2018_02_08_2000.csv at 2/15/2018 11:44:50 AM
+Preparing to bulk copy 8601 rows for signal 63215002
+Bulk copy for 63215002 successful
+Done with SIEM_10.160.5.10_2018_02_08_2100.csv at 2/15/2018 11:44:50 AM
+Preparing to bulk copy 8169 rows for signal 63215002
+Bulk copy for 63215002 successful
+Done with SIEM_10.160.5.10_2018_02_08_2200.csv at 2/15/2018 11:44:50 AM
+Preparing to bulk copy 8325 rows for signal 63215002
+Bulk copy for 63215002 successful
+Done with SIEM_10.160.5.10_2018_02_08_2300.csv at 2/15/2018 11:44:50 AM
+Preparing to bulk copy 7643 rows for signal 63215002
+Bulk copy for 63215002 successful
+Done with SIEM_10.160.5.10_2018_02_09_0000.csv at 2/15/2018 11:44:50 AM
+Preparing to bulk copy 6899 rows for signal 63215002
+Bulk copy for 63215002 successful
+Done with SIEM_10.160.5.10_2018_02_09_0100.csv at 2/15/2018 11:44:50 AM
+Preparing to bulk copy 5093 rows for signal 63215002
+Bulk copy for 63215002 successful
+Done with SIEM_10.160.5.10_2018_02_09_0200.csv at 2/15/2018 11:44:50 AM
+Preparing to bulk copy 4031 rows for signal 63215002
+Bulk copy for 63215002 successful
+Done with SIEM_10.160.5.10_2018_02_09_0300.csv at 2/15/2018 11:44:50 AM
+Preparing to bulk copy 3693 rows for signal 63215002
+Bulk copy for 63215002 successful
+Done with SIEM_10.160.5.10_2018_02_09_0400.csv at 2/15/2018 11:44:50 AM
+Preparing to bulk copy 4557 rows for signal 63215002
+Bulk copy for 63215002 successful
+Done with SIEM_10.160.5.10_2018_02_09_0500.csv at 2/15/2018 11:44:51 AM
+Preparing to bulk copy 4804 rows for signal 63215002
+Bulk copy for 63215002 successful
+Done with SIEM_10.160.5.10_2018_02_09_0600.csv at 2/15/2018 11:44:51 AM
+Preparing to bulk copy 7127 rows for signal 63215002
+Bulk copy for 63215002 successful
+Done with SIEM_10.160.5.10_2018_02_09_0700.csv at 2/15/2018 11:44:51 AM
+Preparing to bulk copy 8481 rows for signal 63215002
+Bulk copy for 63215002 successful
+Done with SIEM_10.160.5.10_2018_02_09_0800.csv at 2/15/2018 11:44:51 AM
+Preparing to bulk copy 8579 rows for signal 63215002
+Bulk copy for 63215002 successful
+Done with SIEM_10.160.5.10_2018_02_09_0900.csv at 2/15/2018 11:44:51 AM
+Preparing to bulk copy 9062 rows for signal 63215002
+Bulk copy for 63215002 successful
+Done with SIEM_10.160.5.10_2018_02_09_1000.csv at 2/15/2018 11:44:51 AM
+Preparing to bulk copy 10035 rows for signal 63215002
+Bulk copy for 63215002 successful
+Done with SIEM_10.160.5.10_2018_02_09_1100.csv at 2/15/2018 11:44:51 AM
+Preparing to bulk copy 9884 rows for signal 63215002
+Bulk copy for 63215002 successful
+Done with SIEM_10.160.5.10_2018_02_09_1200.csv at 2/15/2018 11:44:51 AM
+Preparing to bulk copy 9937 rows for signal 63215002
+Bulk copy for 63215002 successful
+Done with SIEM_10.160.5.10_2018_02_09_1300.csv at 2/15/2018 11:44:52 AM
+Preparing to bulk copy 9917 rows for signal 63215002
+Bulk copy for 63215002 successful
+Done with SIEM_10.160.5.10_2018_02_09_1400.csv at 2/15/2018 11:44:52 AM
+Preparing to bulk copy 9732 rows for signal 63215002
+Bulk copy for 63215002 successful
+Done with SIEM_10.160.5.10_2018_02_09_1500.csv at 2/15/2018 11:44:52 AM
+Preparing to bulk copy 9516 rows for signal 63215002
+Bulk copy for 63215002 successful
+Done with SIEM_10.160.5.10_2018_02_09_1600.csv at 2/15/2018 11:44:52 AM
+Preparing to bulk copy 9525 rows for signal 63215002
+Bulk copy for 63215002 successful
+Done with SIEM_10.160.5.10_2018_02_09_1700.csv at 2/15/2018 11:44:52 AM
+Preparing to bulk copy 9144 rows for signal 63215002
+Bulk copy for 63215002 successful
+Done with SIEM_10.160.5.10_2018_02_09_1800.csv at 2/15/2018 11:44:52 AM
+Preparing to bulk copy 9328 rows for signal 63215002
+Bulk copy for 63215002 successful
+Done with SIEM_10.160.5.10_2018_02_09_1900.csv at 2/15/2018 11:44:52 AM
+Preparing to bulk copy 8365 rows for signal 63215002
+Bulk copy for 63215002 successful
+Done with SIEM_10.160.5.10_2018_02_09_2000.csv at 2/15/2018 11:44:52 AM
+Preparing to bulk copy 8429 rows for signal 63215002
+Bulk copy for 63215002 successful
+Done with SIEM_10.160.5.10_2018_02_09_2100.csv at 2/15/2018 11:44:53 AM
+Preparing to bulk copy 8147 rows for signal 63215002
+Bulk copy for 63215002 successful
+Done with SIEM_10.160.5.10_2018_02_09_2200.csv at 2/15/2018 11:44:53 AM
+Preparing to bulk copy 8087 rows for signal 63215002
+Bulk copy for 63215002 successful
+Done with SIEM_10.160.5.10_2018_02_09_2300.csv at 2/15/2018 11:44:53 AM
+Preparing to bulk copy 7713 rows for signal 63215002
+Bulk copy for 63215002 successful
+Done with SIEM_10.160.5.10_2018_02_10_0000.csv at 2/15/2018 11:44:53 AM
+Preparing to bulk copy 7265 rows for signal 63215002
+Bulk copy for 63215002 successful
+Done with SIEM_10.160.5.10_2018_02_10_0100.csv at 2/15/2018 11:44:53 AM
+Preparing to bulk copy 6386 rows for signal 63215002
+Bulk copy for 63215002 successful
+Done with SIEM_10.160.5.10_2018_02_10_0200.csv at 2/15/2018 11:44:53 AM
+Preparing to bulk copy 4403 rows for signal 63215002
+Bulk copy for 63215002 successful
+Done with SIEM_10.160.5.10_2018_02_10_0300.csv at 2/15/2018 11:44:53 AM
+Preparing to bulk copy 3702 rows for signal 63215002
+Bulk copy for 63215002 successful
+Done with SIEM_10.160.5.10_2018_02_10_0400.csv at 2/15/2018 11:44:53 AM
+Preparing to bulk copy 3669 rows for signal 63215002
+Bulk copy for 63215002 successful
+Done with SIEM_10.160.5.10_2018_02_10_0500.csv at 2/15/2018 11:44:53 AM
+Preparing to bulk copy 3635 rows for signal 63215002
+Bulk copy for 63215002 successful
+Done with SIEM_10.160.5.10_2018_02_10_0600.csv at 2/15/2018 11:44:53 AM
+Preparing to bulk copy 4307 rows for signal 63215002
+Bulk copy for 63215002 successful
+Done with SIEM_10.160.5.10_2018_02_10_0700.csv at 2/15/2018 11:44:53 AM
+Preparing to bulk copy 5003 rows for signal 63215002
+Bulk copy for 63215002 successful
+Done with SIEM_10.160.5.10_2018_02_10_0800.csv at 2/15/2018 11:44:54 AM
+Preparing to bulk copy 5867 rows for signal 63215002
+Bulk copy for 63215002 successful
+Done with SIEM_10.160.5.10_2018_02_10_0900.csv at 2/15/2018 11:44:54 AM
+Preparing to bulk copy 6755 rows for signal 63215002
+Bulk copy for 63215002 successful
+Done with SIEM_10.160.5.10_2018_02_10_1000.csv at 2/15/2018 11:44:54 AM
+Preparing to bulk copy 7896 rows for signal 63215002
+Bulk copy for 63215002 successful
+Done with SIEM_10.160.5.10_2018_02_10_1100.csv at 2/15/2018 11:44:54 AM
+Preparing to bulk copy 9387 rows for signal 63215002
+Bulk copy for 63215002 successful
+Done with SIEM_10.160.5.10_2018_02_10_1200.csv at 2/15/2018 11:44:54 AM
+Preparing to bulk copy 8943 rows for signal 63215002
+Bulk copy for 63215002 successful
+Done with SIEM_10.160.5.10_2018_02_10_1300.csv at 2/15/2018 11:44:54 AM
+Preparing to bulk copy 8822 rows for signal 63215002
+Bulk copy for 63215002 successful
+Done with SIEM_10.160.5.10_2018_02_10_1400.csv at 2/15/2018 11:44:54 AM
+Preparing to bulk copy 8871 rows for signal 63215002
+Bulk copy for 63215002 successful
+Done with SIEM_10.160.5.10_2018_02_10_1500.csv at 2/15/2018 11:44:54 AM
+Preparing to bulk copy 8963 rows for signal 63215002
+Bulk copy for 63215002 successful
+Done with SIEM_10.160.5.10_2018_02_10_1600.csv at 2/15/2018 11:44:55 AM
+Preparing to bulk copy 8146 rows for signal 63215002
+Bulk copy for 63215002 successful
+Done with SIEM_10.160.5.10_2018_02_10_1700.csv at 2/15/2018 11:44:55 AM
+Preparing to bulk copy 8503 rows for signal 63215002
+Bulk copy for 63215002 successful
+Done with SIEM_10.160.5.10_2018_02_10_1800.csv at 2/15/2018 11:44:55 AM
+Preparing to bulk copy 8462 rows for signal 63215002
+Bulk copy for 63215002 successful
+Done with SIEM_10.160.5.10_2018_02_10_1900.csv at 2/15/2018 11:44:55 AM
+Preparing to bulk copy 8497 rows for signal 63215002
+Bulk copy for 63215002 successful
+Done with SIEM_10.160.5.10_2018_02_10_2000.csv at 2/15/2018 11:44:55 AM
+Preparing to bulk copy 8348 rows for signal 63215002
+Bulk copy for 63215002 successful
+Done with SIEM_10.160.5.10_2018_02_10_2100.csv at 2/15/2018 11:44:55 AM
+Preparing to bulk copy 8252 rows for signal 63215002
+Bulk copy for 63215002 successful
+Done with SIEM_10.160.5.10_2018_02_10_2200.csv at 2/15/2018 11:44:55 AM
+Preparing to bulk copy 8082 rows for signal 63215002
+Bulk copy for 63215002 successful
+Done with SIEM_10.160.5.10_2018_02_10_2300.csv at 2/15/2018 11:44:55 AM
+Preparing to bulk copy 7361 rows for signal 63215002
+Bulk copy for 63215002 successful
+Done with SIEM_10.160.5.10_2018_02_11_0000.csv at 2/15/2018 11:44:55 AM
+Preparing to bulk copy 7053 rows for signal 63215002
+Bulk copy for 63215002 successful
+Done with SIEM_10.160.5.10_2018_02_11_0100.csv at 2/15/2018 11:44:56 AM
+Preparing to bulk copy 5951 rows for signal 63215002
+Bulk copy for 63215002 successful
+Done with SIEM_10.160.5.10_2018_02_11_0200.csv at 2/15/2018 11:44:56 AM
+Preparing to bulk copy 4260 rows for signal 63215002
+Bulk copy for 63215002 successful
+Done with SIEM_10.160.5.10_2018_02_11_0300.csv at 2/15/2018 11:44:56 AM
+Preparing to bulk copy 3816 rows for signal 63215002
+Bulk copy for 63215002 successful
+Done with SIEM_10.160.5.10_2018_02_11_0400.csv at 2/15/2018 11:44:56 AM
+Preparing to bulk copy 3669 rows for signal 63215002
+Bulk copy for 63215002 successful
+Done with SIEM_10.160.5.10_2018_02_11_0500.csv at 2/15/2018 11:44:56 AM
+Preparing to bulk copy 3666 rows for signal 63215002
+Bulk copy for 63215002 successful
+Done with SIEM_10.160.5.10_2018_02_11_0600.csv at 2/15/2018 11:44:56 AM
+Preparing to bulk copy 3992 rows for signal 63215002
+Bulk copy for 63215002 successful
+Done with SIEM_10.160.5.10_2018_02_11_0700.csv at 2/15/2018 11:44:56 AM
+Preparing to bulk copy 4729 rows for signal 63215002
+Bulk copy for 63215002 successful
+Done with SIEM_10.160.5.10_2018_02_11_0800.csv at 2/15/2018 11:44:56 AM
+Preparing to bulk copy 5614 rows for signal 63215002
+Bulk copy for 63215002 successful
+Done with SIEM_10.160.5.10_2018_02_11_0900.csv at 2/15/2018 11:44:56 AM
+Preparing to bulk copy 6383 rows for signal 63215002
+Bulk copy for 63215002 successful
+Done with SIEM_10.160.5.10_2018_02_11_1000.csv at 2/15/2018 11:44:56 AM
+Preparing to bulk copy 7684 rows for signal 63215002
+Bulk copy for 63215002 successful
+Done with SIEM_10.160.5.10_2018_02_11_1100.csv at 2/15/2018 11:44:56 AM
+Preparing to bulk copy 8799 rows for signal 63215002
+Bulk copy for 63215002 successful
+Done with SIEM_10.160.5.10_2018_02_11_1200.csv at 2/15/2018 11:44:56 AM
+Preparing to bulk copy 8768 rows for signal 63215002
+Bulk copy for 63215002 successful
+Done with SIEM_10.160.5.10_2018_02_11_1300.csv at 2/15/2018 11:44:57 AM
+Preparing to bulk copy 8673 rows for signal 63215002
+Bulk copy for 63215002 successful
+Done with SIEM_10.160.5.10_2018_02_11_1400.csv at 2/15/2018 11:44:57 AM
+Preparing to bulk copy 8351 rows for signal 63215002
+Bulk copy for 63215002 successful
+Done with SIEM_10.160.5.10_2018_02_11_1500.csv at 2/15/2018 11:44:57 AM
+Preparing to bulk copy 8232 rows for signal 63215002
+Bulk copy for 63215002 successful
+Done with SIEM_10.160.5.10_2018_02_11_1600.csv at 2/15/2018 11:44:57 AM
+Preparing to bulk copy 8699 rows for signal 63215002
+Bulk copy for 63215002 successful
+Done with SIEM_10.160.5.10_2018_02_11_1700.csv at 2/15/2018 11:44:57 AM
+Preparing to bulk copy 9048 rows for signal 63215002
+Bulk copy for 63215002 successful
+Done with SIEM_10.160.5.10_2018_02_11_1800.csv at 2/15/2018 11:44:57 AM
+Preparing to bulk copy 8715 rows for signal 63215002
+Bulk copy for 63215002 successful
+Done with SIEM_10.160.5.10_2018_02_11_1900.csv at 2/15/2018 11:44:57 AM
+Preparing to bulk copy 8281 rows for signal 63215002
+Bulk copy for 63215002 successful
+Done with SIEM_10.160.5.10_2018_02_11_2000.csv at 2/15/2018 11:44:57 AM
+Preparing to bulk copy 6989 rows for signal 63215002
+Bulk copy for 63215002 successful
+Done with SIEM_10.160.5.10_2018_02_11_2100.csv at 2/15/2018 11:44:58 AM
+Preparing to bulk copy 5686 rows for signal 63215002
+Bulk copy for 63215002 successful
+Done with SIEM_10.160.5.10_2018_02_11_2200.csv at 2/15/2018 11:44:58 AM
+Preparing to bulk copy 4919 rows for signal 63215002
+Bulk copy for 63215002 successful
+Done with SIEM_10.160.5.10_2018_02_11_2300.csv at 2/15/2018 11:44:58 AM
+Preparing to bulk copy 4483 rows for signal 63215002
+Bulk copy for 63215002 successful
+Done with SIEM_10.160.5.10_2018_02_12_0000.csv at 2/15/2018 11:44:58 AM
+Preparing to bulk copy 4129 rows for signal 63215002
+Bulk copy for 63215002 successful
+Done with SIEM_10.160.5.10_2018_02_12_0100.csv at 2/15/2018 11:44:58 AM
+Preparing to bulk copy 3697 rows for signal 63215002
+Bulk copy for 63215002 successful
+Done with SIEM_10.160.5.10_2018_02_12_0200.csv at 2/15/2018 11:44:58 AM
+Preparing to bulk copy 3622 rows for signal 63215002
+Bulk copy for 63215002 successful
+Done with SIEM_10.160.5.10_2018_02_12_0300.csv at 2/15/2018 11:44:58 AM
+Preparing to bulk copy 3596 rows for signal 63215002
+Bulk copy for 63215002 successful
+Done with SIEM_10.160.5.10_2018_02_12_0400.csv at 2/15/2018 11:44:58 AM
+Preparing to bulk copy 4456 rows for signal 63215002
+Bulk copy for 63215002 successful
+Done with SIEM_10.160.5.10_2018_02_12_0500.csv at 2/15/2018 11:44:58 AM
+Preparing to bulk copy 4818 rows for signal 63215002
+Bulk copy for 63215002 successful
+Done with SIEM_10.160.5.10_2018_02_12_0600.csv at 2/15/2018 11:44:58 AM
+Preparing to bulk copy 7247 rows for signal 63215002
+Bulk copy for 63215002 successful
+Done with SIEM_10.160.5.10_2018_02_12_0700.csv at 2/15/2018 11:44:58 AM
+Preparing to bulk copy 8553 rows for signal 63215002
+Bulk copy for 63215002 successful
+Done with SIEM_10.160.5.10_2018_02_12_0800.csv at 2/15/2018 11:44:58 AM
+Preparing to bulk copy 8380 rows for signal 63215002
+Bulk copy for 63215002 successful
+Done with SIEM_10.160.5.10_2018_02_12_0900.csv at 2/15/2018 11:44:59 AM
+Preparing to bulk copy 9209 rows for signal 63215002
+Bulk copy for 63215002 successful
+Done with SIEM_10.160.5.10_2018_02_12_1000.csv at 2/15/2018 11:44:59 AM
+Preparing to bulk copy 9434 rows for signal 63215002
+Bulk copy for 63215002 successful
+Done with SIEM_10.160.5.10_2018_02_12_1100.csv at 2/15/2018 11:44:59 AM
+Preparing to bulk copy 9603 rows for signal 63215002
+Bulk copy for 63215002 successful
+Done with SIEM_10.160.5.10_2018_02_12_1200.csv at 2/15/2018 11:44:59 AM
+Preparing to bulk copy 9444 rows for signal 63215002
+Bulk copy for 63215002 successful
+Done with SIEM_10.160.5.10_2018_02_12_1300.csv at 2/15/2018 11:44:59 AM
+Preparing to bulk copy 9199 rows for signal 63215002
+Bulk copy for 63215002 successful
+Done with SIEM_10.160.5.10_2018_02_12_1400.csv at 2/15/2018 11:44:59 AM
+Preparing to bulk copy 9322 rows for signal 63215002
+Bulk copy for 63215002 successful
+Done with SIEM_10.160.5.10_2018_02_12_1500.csv at 2/15/2018 11:44:59 AM
+Preparing to bulk copy 9615 rows for signal 63215002
+Bulk copy for 63215002 successful
+Done with SIEM_10.160.5.10_2018_02_12_1600.csv at 2/15/2018 11:45:00 AM
+Preparing to bulk copy 9552 rows for signal 63215002
+Bulk copy for 63215002 successful
+Done with SIEM_10.160.5.10_2018_02_12_1700.csv at 2/15/2018 11:45:00 AM
+Preparing to bulk copy 9590 rows for signal 63215002
+Bulk copy for 63215002 successful
+Done with SIEM_10.160.5.10_2018_02_12_1800.csv at 2/15/2018 11:45:00 AM
+Preparing to bulk copy 9157 rows for signal 63215002
+Bulk copy for 63215002 successful
+Done with SIEM_10.160.5.10_2018_02_12_1900.csv at 2/15/2018 11:45:00 AM
+Preparing to bulk copy 8749 rows for signal 63215002
+Bulk copy for 63215002 successful
+Done with SIEM_10.160.5.10_2018_02_12_2000.csv at 2/15/2018 11:45:00 AM
+Preparing to bulk copy 7584 rows for signal 63215002
+Bulk copy for 63215002 successful
+Done with SIEM_10.160.5.10_2018_02_12_2100.csv at 2/15/2018 11:45:00 AM
+Preparing to bulk copy 6497 rows for signal 63215002
+Bulk copy for 63215002 successful
+Done with SIEM_10.160.5.10_2018_02_12_2200.csv at 2/15/2018 11:45:00 AM
+Preparing to bulk copy 5593 rows for signal 63215002
+Bulk copy for 63215002 successful
+Done with SIEM_10.160.5.10_2018_02_12_2300.csv at 2/15/2018 11:45:00 AM
+Preparing to bulk copy 4252 rows for signal 63215001
+Bulk copy for 63215001 successful
+Done with SIEM_10.160.5.15_2018_02_08_1100.csv at 2/15/2018 11:45:00 AM
+Preparing to bulk copy 4784 rows for signal 63215001
+Bulk copy for 63215001 successful
+Done with SIEM_10.160.5.15_2018_02_08_1200.csv at 2/15/2018 11:45:00 AM
+Preparing to bulk copy 4733 rows for signal 63215001
+Bulk copy for 63215001 successful
+Done with SIEM_10.160.5.15_2018_02_08_1300.csv at 2/15/2018 11:45:01 AM
+Preparing to bulk copy 4441 rows for signal 63215001
+Bulk copy for 63215001 successful
+Done with SIEM_10.160.5.15_2018_02_08_1400.csv at 2/15/2018 11:45:01 AM
+Preparing to bulk copy 4827 rows for signal 63215001
+Bulk copy for 63215001 successful
+Done with SIEM_10.160.5.15_2018_02_08_1500.csv at 2/15/2018 11:45:01 AM
+Preparing to bulk copy 4816 rows for signal 63215001
+Bulk copy for 63215001 successful
+Done with SIEM_10.160.5.15_2018_02_08_1600.csv at 2/15/2018 11:45:01 AM
+Preparing to bulk copy 5149 rows for signal 63215001
+Bulk copy for 63215001 successful
+Done with SIEM_10.160.5.15_2018_02_08_1700.csv at 2/15/2018 11:45:01 AM
+Preparing to bulk copy 4828 rows for signal 63215001
+Bulk copy for 63215001 successful
+Done with SIEM_10.160.5.15_2018_02_08_1800.csv at 2/15/2018 11:45:01 AM
+Preparing to bulk copy 4642 rows for signal 63215001
+Bulk copy for 63215001 successful
+Done with SIEM_10.160.5.15_2018_02_08_1900.csv at 2/15/2018 11:45:01 AM
+Preparing to bulk copy 4380 rows for signal 63215001
+Bulk copy for 63215001 successful
+Done with SIEM_10.160.5.15_2018_02_08_2000.csv at 2/15/2018 11:45:01 AM
+Preparing to bulk copy 4163 rows for signal 63215001
+Bulk copy for 63215001 successful
+Done with SIEM_10.160.5.15_2018_02_08_2100.csv at 2/15/2018 11:45:01 AM
+Preparing to bulk copy 3812 rows for signal 63215001
+Bulk copy for 63215001 successful
+Done with SIEM_10.160.5.15_2018_02_08_2200.csv at 2/15/2018 11:45:01 AM
+Preparing to bulk copy 3814 rows for signal 63215001
+Bulk copy for 63215001 successful
+Done with SIEM_10.160.5.15_2018_02_08_2300.csv at 2/15/2018 11:45:01 AM
+Preparing to bulk copy 3425 rows for signal 63215001
+Bulk copy for 63215001 successful
+Done with SIEM_10.160.5.15_2018_02_09_0000.csv at 2/15/2018 11:45:01 AM
+Preparing to bulk copy 3125 rows for signal 63215001
+Bulk copy for 63215001 successful
+Done with SIEM_10.160.5.15_2018_02_09_0100.csv at 2/15/2018 11:45:02 AM
+Preparing to bulk copy 2116 rows for signal 63215001
+Bulk copy for 63215001 successful
+Done with SIEM_10.160.5.15_2018_02_09_0200.csv at 2/15/2018 11:45:02 AM
+Preparing to bulk copy 1323 rows for signal 63215001
+Bulk copy for 63215001 successful
+Done with SIEM_10.160.5.15_2018_02_09_0300.csv at 2/15/2018 11:45:02 AM
+Preparing to bulk copy 1046 rows for signal 63215001
+Bulk copy for 63215001 successful
+Done with SIEM_10.160.5.15_2018_02_09_0400.csv at 2/15/2018 11:45:02 AM
+Preparing to bulk copy 1438 rows for signal 63215001
+Bulk copy for 63215001 successful
+Done with SIEM_10.160.5.15_2018_02_09_0500.csv at 2/15/2018 11:45:02 AM
+Preparing to bulk copy 1763 rows for signal 63215001
+Bulk copy for 63215001 successful
+Done with SIEM_10.160.5.15_2018_02_09_0600.csv at 2/15/2018 11:45:02 AM
+Preparing to bulk copy 3010 rows for signal 63215001
+Bulk copy for 63215001 successful
+Done with SIEM_10.160.5.15_2018_02_09_0700.csv at 2/15/2018 11:45:02 AM
+Preparing to bulk copy 3555 rows for signal 63215001
+Bulk copy for 63215001 successful
+Done with SIEM_10.160.5.15_2018_02_09_0800.csv at 2/15/2018 11:45:02 AM
+Preparing to bulk copy 3780 rows for signal 63215001
+Bulk copy for 63215001 successful
+Done with SIEM_10.160.5.15_2018_02_09_0900.csv at 2/15/2018 11:45:02 AM
+Preparing to bulk copy 4284 rows for signal 63215001
+Bulk copy for 63215001 successful
+Done with SIEM_10.160.5.15_2018_02_09_1000.csv at 2/15/2018 11:45:02 AM
+Preparing to bulk copy 4720 rows for signal 63215001
+Bulk copy for 63215001 successful
+Done with SIEM_10.160.5.15_2018_02_09_1100.csv at 2/15/2018 11:45:02 AM
+Preparing to bulk copy 4871 rows for signal 63215001
+Bulk copy for 63215001 successful
+Done with SIEM_10.160.5.15_2018_02_09_1200.csv at 2/15/2018 11:45:02 AM
+Preparing to bulk copy 5005 rows for signal 63215001
+Bulk copy for 63215001 successful
+Done with SIEM_10.160.5.15_2018_02_09_1300.csv at 2/15/2018 11:45:02 AM
+Preparing to bulk copy 5192 rows for signal 63215001
+Bulk copy for 63215001 successful
+Done with SIEM_10.160.5.15_2018_02_09_1400.csv at 2/15/2018 11:45:02 AM
+Preparing to bulk copy 4938 rows for signal 63215001
+Bulk copy for 63215001 successful
+Done with SIEM_10.160.5.15_2018_02_09_1500.csv at 2/15/2018 11:45:02 AM
+Preparing to bulk copy 4331 rows for signal 63215001
+Bulk copy for 63215001 successful
+Done with SIEM_10.160.5.15_2018_02_09_1600.csv at 2/15/2018 11:45:02 AM
+Preparing to bulk copy 4742 rows for signal 63215001
+Bulk copy for 63215001 successful
+Done with SIEM_10.160.5.15_2018_02_09_1700.csv at 2/15/2018 11:45:02 AM
+Preparing to bulk copy 4539 rows for signal 63215001
+Bulk copy for 63215001 successful
+Done with SIEM_10.160.5.15_2018_02_09_1800.csv at 2/15/2018 11:45:03 AM
+Preparing to bulk copy 4245 rows for signal 63215001
+Bulk copy for 63215001 successful
+Done with SIEM_10.160.5.15_2018_02_09_1900.csv at 2/15/2018 11:45:03 AM
+Preparing to bulk copy 3916 rows for signal 63215001
+Bulk copy for 63215001 successful
+Done with SIEM_10.160.5.15_2018_02_09_2000.csv at 2/15/2018 11:45:03 AM
+Preparing to bulk copy 3827 rows for signal 63215001
+Bulk copy for 63215001 successful
+Done with SIEM_10.160.5.15_2018_02_09_2100.csv at 2/15/2018 11:45:03 AM
+Preparing to bulk copy 3813 rows for signal 63215001
+Bulk copy for 63215001 successful
+Done with SIEM_10.160.5.15_2018_02_09_2200.csv at 2/15/2018 11:45:03 AM
+Preparing to bulk copy 3714 rows for signal 63215001
+Bulk copy for 63215001 successful
+Done with SIEM_10.160.5.15_2018_02_09_2300.csv at 2/15/2018 11:45:03 AM
+Preparing to bulk copy 3619 rows for signal 63215001
+Bulk copy for 63215001 successful
+Done with SIEM_10.160.5.15_2018_02_10_0000.csv at 2/15/2018 11:45:03 AM
+Preparing to bulk copy 3256 rows for signal 63215001
+Bulk copy for 63215001 successful
+Done with SIEM_10.160.5.15_2018_02_10_0100.csv at 2/15/2018 11:45:03 AM
+Preparing to bulk copy 2799 rows for signal 63215001
+Bulk copy for 63215001 successful
+Done with SIEM_10.160.5.15_2018_02_10_0200.csv at 2/15/2018 11:45:03 AM
+Preparing to bulk copy 1632 rows for signal 63215001
+Bulk copy for 63215001 successful
+Done with SIEM_10.160.5.15_2018_02_10_0300.csv at 2/15/2018 11:45:03 AM
+Preparing to bulk copy 1172 rows for signal 63215001
+Bulk copy for 63215001 successful
+Done with SIEM_10.160.5.15_2018_02_10_0400.csv at 2/15/2018 11:45:03 AM
+Preparing to bulk copy 1043 rows for signal 63215001
+Bulk copy for 63215001 successful
+Done with SIEM_10.160.5.15_2018_02_10_0500.csv at 2/15/2018 11:45:03 AM
+Preparing to bulk copy 1150 rows for signal 63215001
+Bulk copy for 63215001 successful
+Done with SIEM_10.160.5.15_2018_02_10_0600.csv at 2/15/2018 11:45:03 AM
+Preparing to bulk copy 1594 rows for signal 63215001
+Bulk copy for 63215001 successful
+Done with SIEM_10.160.5.15_2018_02_10_0700.csv at 2/15/2018 11:45:03 AM
+Preparing to bulk copy 1991 rows for signal 63215001
+Bulk copy for 63215001 successful
+Done with SIEM_10.160.5.15_2018_02_10_0800.csv at 2/15/2018 11:45:03 AM
+Preparing to bulk copy 2248 rows for signal 63215001
+Bulk copy for 63215001 successful
+Done with SIEM_10.160.5.15_2018_02_10_0900.csv at 2/15/2018 11:45:03 AM
+Preparing to bulk copy 2993 rows for signal 63215001
+Bulk copy for 63215001 successful
+Done with SIEM_10.160.5.15_2018_02_10_1000.csv at 2/15/2018 11:45:03 AM
+Preparing to bulk copy 3620 rows for signal 63215001
+Bulk copy for 63215001 successful
+Done with SIEM_10.160.5.15_2018_02_10_1100.csv at 2/15/2018 11:45:03 AM
+Preparing to bulk copy 4566 rows for signal 63215001
+Bulk copy for 63215001 successful
+Done with SIEM_10.160.5.15_2018_02_10_1200.csv at 2/15/2018 11:45:04 AM
+Preparing to bulk copy 4504 rows for signal 63215001
+Bulk copy for 63215001 successful
+Done with SIEM_10.160.5.15_2018_02_10_1300.csv at 2/15/2018 11:45:04 AM
+Preparing to bulk copy 4370 rows for signal 63215001
+Bulk copy for 63215001 successful
+Done with SIEM_10.160.5.15_2018_02_10_1400.csv at 2/15/2018 11:45:04 AM
+Preparing to bulk copy 4382 rows for signal 63215001
+Bulk copy for 63215001 successful
+Done with SIEM_10.160.5.15_2018_02_10_1500.csv at 2/15/2018 11:45:04 AM
+Preparing to bulk copy 4379 rows for signal 63215001
+Bulk copy for 63215001 successful
+Done with SIEM_10.160.5.15_2018_02_10_1600.csv at 2/15/2018 11:45:04 AM
+Preparing to bulk copy 3870 rows for signal 63215001
+Bulk copy for 63215001 successful
+Done with SIEM_10.160.5.15_2018_02_10_1700.csv at 2/15/2018 11:45:04 AM
+Preparing to bulk copy 4005 rows for signal 63215001
+Bulk copy for 63215001 successful
+Done with SIEM_10.160.5.15_2018_02_10_1800.csv at 2/15/2018 11:45:04 AM
+Preparing to bulk copy 4559 rows for signal 63215001
+Bulk copy for 63215001 successful
+Done with SIEM_10.160.5.15_2018_02_10_1900.csv at 2/15/2018 11:45:04 AM
+Preparing to bulk copy 4112 rows for signal 63215001
+Bulk copy for 63215001 successful
+Done with SIEM_10.160.5.15_2018_02_10_2000.csv at 2/15/2018 11:45:04 AM
+Preparing to bulk copy 3753 rows for signal 63215001
+Bulk copy for 63215001 successful
+Done with SIEM_10.160.5.15_2018_02_10_2100.csv at 2/15/2018 11:45:04 AM
+Preparing to bulk copy 3826 rows for signal 63215001
+Bulk copy for 63215001 successful
+Done with SIEM_10.160.5.15_2018_02_10_2200.csv at 2/15/2018 11:45:04 AM
+Preparing to bulk copy 3618 rows for signal 63215001
+Bulk copy for 63215001 successful
+Done with SIEM_10.160.5.15_2018_02_10_2300.csv at 2/15/2018 11:45:04 AM
+Preparing to bulk copy 3280 rows for signal 63215001
+Bulk copy for 63215001 successful
+Done with SIEM_10.160.5.15_2018_02_11_0000.csv at 2/15/2018 11:45:04 AM
+Preparing to bulk copy 3158 rows for signal 63215001
+Bulk copy for 63215001 successful
+Done with SIEM_10.160.5.15_2018_02_11_0100.csv at 2/15/2018 11:45:04 AM
+Preparing to bulk copy 2649 rows for signal 63215001
+Bulk copy for 63215001 successful
+Done with SIEM_10.160.5.15_2018_02_11_0200.csv at 2/15/2018 11:45:04 AM
+Preparing to bulk copy 1333 rows for signal 63215001
+Bulk copy for 63215001 successful
+Done with SIEM_10.160.5.15_2018_02_11_0300.csv at 2/15/2018 11:45:04 AM
+Preparing to bulk copy 1117 rows for signal 63215001
+Bulk copy for 63215001 successful
+Done with SIEM_10.160.5.15_2018_02_11_0400.csv at 2/15/2018 11:45:05 AM
+Preparing to bulk copy 1003 rows for signal 63215001
+Bulk copy for 63215001 successful
+Done with SIEM_10.160.5.15_2018_02_11_0500.csv at 2/15/2018 11:45:05 AM
+Preparing to bulk copy 1050 rows for signal 63215001
+Bulk copy for 63215001 successful
+Done with SIEM_10.160.5.15_2018_02_11_0600.csv at 2/15/2018 11:45:05 AM
+Preparing to bulk copy 1317 rows for signal 63215001
+Bulk copy for 63215001 successful
+Done with SIEM_10.160.5.15_2018_02_11_0700.csv at 2/15/2018 11:45:05 AM
+Preparing to bulk copy 1707 rows for signal 63215001
+Bulk copy for 63215001 successful
+Done with SIEM_10.160.5.15_2018_02_11_0800.csv at 2/15/2018 11:45:05 AM
+Preparing to bulk copy 2156 rows for signal 63215001
+Bulk copy for 63215001 successful
+Done with SIEM_10.160.5.15_2018_02_11_0900.csv at 2/15/2018 11:45:05 AM
+Preparing to bulk copy 3031 rows for signal 63215001
+Bulk copy for 63215001 successful
+Done with SIEM_10.160.5.15_2018_02_11_1000.csv at 2/15/2018 11:45:05 AM
+Preparing to bulk copy 3566 rows for signal 63215001
+Bulk copy for 63215001 successful
+Done with SIEM_10.160.5.15_2018_02_11_1100.csv at 2/15/2018 11:45:05 AM
+Preparing to bulk copy 4326 rows for signal 63215001
+Bulk copy for 63215001 successful
+Done with SIEM_10.160.5.15_2018_02_11_1200.csv at 2/15/2018 11:45:05 AM
+Preparing to bulk copy 4351 rows for signal 63215001
+Bulk copy for 63215001 successful
+Done with SIEM_10.160.5.15_2018_02_11_1300.csv at 2/15/2018 11:45:05 AM
+Preparing to bulk copy 4000 rows for signal 63215001
+Bulk copy for 63215001 successful
+Done with SIEM_10.160.5.15_2018_02_11_1400.csv at 2/15/2018 11:45:05 AM
+Preparing to bulk copy 3875 rows for signal 63215001
+Bulk copy for 63215001 successful
+Done with SIEM_10.160.5.15_2018_02_11_1500.csv at 2/15/2018 11:45:05 AM
+Preparing to bulk copy 3910 rows for signal 63215001
+Bulk copy for 63215001 successful
+Done with SIEM_10.160.5.15_2018_02_11_1600.csv at 2/15/2018 11:45:05 AM
+Preparing to bulk copy 4009 rows for signal 63215001
+Bulk copy for 63215001 successful
+Done with SIEM_10.160.5.15_2018_02_11_1700.csv at 2/15/2018 11:45:05 AM
+Preparing to bulk copy 4200 rows for signal 63215001
+Bulk copy for 63215001 successful
+Done with SIEM_10.160.5.15_2018_02_11_1800.csv at 2/15/2018 11:45:05 AM
+Preparing to bulk copy 3814 rows for signal 63215001
+Bulk copy for 63215001 successful
+Done with SIEM_10.160.5.15_2018_02_11_1900.csv at 2/15/2018 11:45:05 AM
+Preparing to bulk copy 3647 rows for signal 63215001
+Bulk copy for 63215001 successful
+Done with SIEM_10.160.5.15_2018_02_11_2000.csv at 2/15/2018 11:45:05 AM
+Preparing to bulk copy 3033 rows for signal 63215001
+Bulk copy for 63215001 successful
+Done with SIEM_10.160.5.15_2018_02_11_2100.csv at 2/15/2018 11:45:05 AM
+Preparing to bulk copy 2377 rows for signal 63215001
+Bulk copy for 63215001 successful
+Done with SIEM_10.160.5.15_2018_02_11_2200.csv at 2/15/2018 11:45:06 AM
+Preparing to bulk copy 1753 rows for signal 63215001
+Bulk copy for 63215001 successful
+Done with SIEM_10.160.5.15_2018_02_11_2300.csv at 2/15/2018 11:45:06 AM
+Preparing to bulk copy 1591 rows for signal 63215001
+Bulk copy for 63215001 successful
+Done with SIEM_10.160.5.15_2018_02_12_0000.csv at 2/15/2018 11:45:06 AM
+Preparing to bulk copy 1286 rows for signal 63215001
+Bulk copy for 63215001 successful
+Done with SIEM_10.160.5.15_2018_02_12_0100.csv at 2/15/2018 11:45:06 AM
+Preparing to bulk copy 1016 rows for signal 63215001
+Bulk copy for 63215001 successful
+Done with SIEM_10.160.5.15_2018_02_12_0200.csv at 2/15/2018 11:45:06 AM
+Preparing to bulk copy 979 rows for signal 63215001
+Bulk copy for 63215001 successful
+Done with SIEM_10.160.5.15_2018_02_12_0300.csv at 2/15/2018 11:45:06 AM
+Preparing to bulk copy 944 rows for signal 63215001
+Bulk copy for 63215001 successful
+Done with SIEM_10.160.5.15_2018_02_12_0400.csv at 2/15/2018 11:45:06 AM
+Preparing to bulk copy 1369 rows for signal 63215001
+Bulk copy for 63215001 successful
+Done with SIEM_10.160.5.15_2018_02_12_0500.csv at 2/15/2018 11:45:06 AM
+Preparing to bulk copy 1759 rows for signal 63215001
+Bulk copy for 63215001 successful
+Done with SIEM_10.160.5.15_2018_02_12_0600.csv at 2/15/2018 11:45:06 AM
+Preparing to bulk copy 2992 rows for signal 63215001
+Bulk copy for 63215001 successful
+Done with SIEM_10.160.5.15_2018_02_12_0700.csv at 2/15/2018 11:45:06 AM
+Preparing to bulk copy 2886 rows for signal 63215001
+Bulk copy for 63215001 successful
+Done with SIEM_10.160.5.15_2018_02_12_0800.csv at 2/15/2018 11:45:06 AM
+Preparing to bulk copy 3542 rows for signal 63215001
+Bulk copy for 63215001 successful
+Done with SIEM_10.160.5.15_2018_02_12_0900.csv at 2/15/2018 11:45:06 AM
+Preparing to bulk copy 3854 rows for signal 63215001
+Bulk copy for 63215001 successful
+Done with SIEM_10.160.5.15_2018_02_12_1000.csv at 2/15/2018 11:45:06 AM
+Preparing to bulk copy 4294 rows for signal 63215001
+Bulk copy for 63215001 successful
+Done with SIEM_10.160.5.15_2018_02_12_1100.csv at 2/15/2018 11:45:06 AM
+Preparing to bulk copy 4547 rows for signal 63215001
+Bulk copy for 63215001 successful
+Done with SIEM_10.160.5.15_2018_02_12_1200.csv at 2/15/2018 11:45:06 AM
+Preparing to bulk copy 4739 rows for signal 63215001
+Bulk copy for 63215001 successful
+Done with SIEM_10.160.5.15_2018_02_12_1300.csv at 2/15/2018 11:45:06 AM
+Preparing to bulk copy 4487 rows for signal 63215001
+Bulk copy for 63215001 successful
+Done with SIEM_10.160.5.15_2018_02_12_1400.csv at 2/15/2018 11:45:06 AM
+Preparing to bulk copy 4508 rows for signal 63215001
+Bulk copy for 63215001 successful
+Done with SIEM_10.160.5.15_2018_02_12_1500.csv at 2/15/2018 11:45:06 AM
+Preparing to bulk copy 4959 rows for signal 63215001
+Bulk copy for 63215001 successful
+Done with SIEM_10.160.5.15_2018_02_12_1600.csv at 2/15/2018 11:45:06 AM
+Preparing to bulk copy 4973 rows for signal 63215001
+Bulk copy for 63215001 successful
+Done with SIEM_10.160.5.15_2018_02_12_1700.csv at 2/15/2018 11:45:07 AM
+Preparing to bulk copy 4603 rows for signal 63215001
+Bulk copy for 63215001 successful
+Done with SIEM_10.160.5.15_2018_02_12_1800.csv at 2/15/2018 11:45:07 AM
+Preparing to bulk copy 4213 rows for signal 63215001
+Bulk copy for 63215001 successful
+Done with SIEM_10.160.5.15_2018_02_12_1900.csv at 2/15/2018 11:45:07 AM
+Preparing to bulk copy 3920 rows for signal 63215001
+Bulk copy for 63215001 successful
+Done with SIEM_10.160.5.15_2018_02_12_2000.csv at 2/15/2018 11:45:07 AM
+Preparing to bulk copy 3429 rows for signal 63215001
+Bulk copy for 63215001 successful
+Done with SIEM_10.160.5.15_2018_02_12_2100.csv at 2/15/2018 11:45:07 AM
+Preparing to bulk copy 2825 rows for signal 63215001
+Bulk copy for 63215001 successful
+Done with SIEM_10.160.5.15_2018_02_12_2200.csv at 2/15/2018 11:45:07 AM
+Preparing to bulk copy 2106 rows for signal 63215001
+Bulk copy for 63215001 successful
+Done with SIEM_10.160.5.15_2018_02_12_2300.csv at 2/15/2018 11:45:07 AM
+Preparing to bulk copy 5774 rows for signal 63215003
+Bulk copy for 63215003 successful
+Done with SIEM_10.160.5.5_2018_02_08_1100.csv at 2/15/2018 11:45:07 AM
+Preparing to bulk copy 6408 rows for signal 63215003
+Bulk copy for 63215003 successful
+Done with SIEM_10.160.5.5_2018_02_08_1200.csv at 2/15/2018 11:45:07 AM
+Preparing to bulk copy 6480 rows for signal 63215003
+Bulk copy for 63215003 successful
+Done with SIEM_10.160.5.5_2018_02_08_1300.csv at 2/15/2018 11:45:07 AM
+Preparing to bulk copy 6066 rows for signal 63215003
+Bulk copy for 63215003 successful
+Done with SIEM_10.160.5.5_2018_02_08_1400.csv at 2/15/2018 11:45:07 AM
+Preparing to bulk copy 6600 rows for signal 63215003
+Bulk copy for 63215003 successful
+Done with SIEM_10.160.5.5_2018_02_08_1500.csv at 2/15/2018 11:45:07 AM
+Preparing to bulk copy 6240 rows for signal 63215003
+Bulk copy for 63215003 successful
+Done with SIEM_10.160.5.5_2018_02_08_1600.csv at 2/15/2018 11:45:08 AM
+Preparing to bulk copy 5862 rows for signal 63215003
+Bulk copy for 63215003 successful
+Done with SIEM_10.160.5.5_2018_02_08_1700.csv at 2/15/2018 11:45:08 AM
+Preparing to bulk copy 6299 rows for signal 63215003
+Bulk copy for 63215003 successful
+Done with SIEM_10.160.5.5_2018_02_08_1800.csv at 2/15/2018 11:45:08 AM
+Preparing to bulk copy 5973 rows for signal 63215003
+Bulk copy for 63215003 successful
+Done with SIEM_10.160.5.5_2018_02_08_1900.csv at 2/15/2018 11:45:08 AM
+Preparing to bulk copy 5288 rows for signal 63215003
+Bulk copy for 63215003 successful
+Done with SIEM_10.160.5.5_2018_02_08_2000.csv at 2/15/2018 11:45:08 AM
+Preparing to bulk copy 5190 rows for signal 63215003
+Bulk copy for 63215003 successful
+Done with SIEM_10.160.5.5_2018_02_08_2100.csv at 2/15/2018 11:45:08 AM
+Preparing to bulk copy 4234 rows for signal 63215003
+Bulk copy for 63215003 successful
+Done with SIEM_10.160.5.5_2018_02_08_2200.csv at 2/15/2018 11:45:08 AM
+Preparing to bulk copy 3969 rows for signal 63215003
+Bulk copy for 63215003 successful
+Done with SIEM_10.160.5.5_2018_02_08_2300.csv at 2/15/2018 11:45:08 AM
+Preparing to bulk copy 3368 rows for signal 63215003
+Bulk copy for 63215003 successful
+Done with SIEM_10.160.5.5_2018_02_09_0000.csv at 2/15/2018 11:45:08 AM
+Preparing to bulk copy 3011 rows for signal 63215003
+Bulk copy for 63215003 successful
+Done with SIEM_10.160.5.5_2018_02_09_0100.csv at 2/15/2018 11:45:08 AM
+Preparing to bulk copy 1713 rows for signal 63215003
+Bulk copy for 63215003 successful
+Done with SIEM_10.160.5.5_2018_02_09_0200.csv at 2/15/2018 11:45:08 AM
+Preparing to bulk copy 1038 rows for signal 63215003
+Bulk copy for 63215003 successful
+Done with SIEM_10.160.5.5_2018_02_09_0300.csv at 2/15/2018 11:45:08 AM
+Preparing to bulk copy 368 rows for signal 63215003
+Bulk copy for 63215003 successful
+Done with SIEM_10.160.5.5_2018_02_09_0400.csv at 2/15/2018 11:45:08 AM
+Preparing to bulk copy 1244 rows for signal 63215003
+Bulk copy for 63215003 successful
+Done with SIEM_10.160.5.5_2018_02_09_0500.csv at 2/15/2018 11:45:08 AM
+Preparing to bulk copy 1634 rows for signal 63215003
+Bulk copy for 63215003 successful
+Done with SIEM_10.160.5.5_2018_02_09_0600.csv at 2/15/2018 11:45:08 AM
+Preparing to bulk copy 4291 rows for signal 63215003
+Bulk copy for 63215003 successful
+Done with SIEM_10.160.5.5_2018_02_09_0700.csv at 2/15/2018 11:45:08 AM
+Preparing to bulk copy 5757 rows for signal 63215003
+Bulk copy for 63215003 successful
+Done with SIEM_10.160.5.5_2018_02_09_0800.csv at 2/15/2018 11:45:09 AM
+Preparing to bulk copy 5890 rows for signal 63215003
+Bulk copy for 63215003 successful
+Done with SIEM_10.160.5.5_2018_02_09_0900.csv at 2/15/2018 11:45:09 AM
+Preparing to bulk copy 6098 rows for signal 63215003
+Bulk copy for 63215003 successful
+Done with SIEM_10.160.5.5_2018_02_09_1000.csv at 2/15/2018 11:45:09 AM
+Preparing to bulk copy 6292 rows for signal 63215003
+Bulk copy for 63215003 successful
+Done with SIEM_10.160.5.5_2018_02_09_1100.csv at 2/15/2018 11:45:09 AM
+Preparing to bulk copy 6258 rows for signal 63215003
+Bulk copy for 63215003 successful
+Done with SIEM_10.160.5.5_2018_02_09_1200.csv at 2/15/2018 11:45:09 AM
+Preparing to bulk copy 6554 rows for signal 63215003
+Bulk copy for 63215003 successful
+Done with SIEM_10.160.5.5_2018_02_09_1300.csv at 2/15/2018 11:45:09 AM
+Preparing to bulk copy 6143 rows for signal 63215003
+Bulk copy for 63215003 successful
+Done with SIEM_10.160.5.5_2018_02_09_1400.csv at 2/15/2018 11:45:09 AM
+Preparing to bulk copy 5676 rows for signal 63215003
+Bulk copy for 63215003 successful
+Done with SIEM_10.160.5.5_2018_02_09_1500.csv at 2/15/2018 11:45:09 AM
+Preparing to bulk copy 5562 rows for signal 63215003
+Bulk copy for 63215003 successful
+Done with SIEM_10.160.5.5_2018_02_09_1600.csv at 2/15/2018 11:45:09 AM
+Preparing to bulk copy 5383 rows for signal 63215003
+Bulk copy for 63215003 successful
+Done with SIEM_10.160.5.5_2018_02_09_1700.csv at 2/15/2018 11:45:09 AM
+Preparing to bulk copy 4861 rows for signal 63215003
+Bulk copy for 63215003 successful
+Done with SIEM_10.160.5.5_2018_02_09_1800.csv at 2/15/2018 11:45:09 AM
+Preparing to bulk copy 4832 rows for signal 63215003
+Bulk copy for 63215003 successful
+Done with SIEM_10.160.5.5_2018_02_09_1900.csv at 2/15/2018 11:45:10 AM
+Preparing to bulk copy 4182 rows for signal 63215003
+Bulk copy for 63215003 successful
+Done with SIEM_10.160.5.5_2018_02_09_2000.csv at 2/15/2018 11:45:10 AM
+Preparing to bulk copy 4535 rows for signal 63215003
+Bulk copy for 63215003 successful
+Done with SIEM_10.160.5.5_2018_02_09_2100.csv at 2/15/2018 11:45:10 AM
+Preparing to bulk copy 4153 rows for signal 63215003
+Bulk copy for 63215003 successful
+Done with SIEM_10.160.5.5_2018_02_09_2200.csv at 2/15/2018 11:45:10 AM
+Preparing to bulk copy 3942 rows for signal 63215003
+Bulk copy for 63215003 successful
+Done with SIEM_10.160.5.5_2018_02_09_2300.csv at 2/15/2018 11:45:10 AM
+Preparing to bulk copy 2809 rows for signal 63215003
+Bulk copy for 63215003 successful
+Done with SIEM_10.160.5.5_2018_02_10_0000.csv at 2/15/2018 11:45:10 AM
+Preparing to bulk copy 3114 rows for signal 63215003
+Bulk copy for 63215003 successful
+Done with SIEM_10.160.5.5_2018_02_10_0100.csv at 2/15/2018 11:45:10 AM
+Preparing to bulk copy 2602 rows for signal 63215003
+Bulk copy for 63215003 successful
+Done with SIEM_10.160.5.5_2018_02_10_0200.csv at 2/15/2018 11:45:10 AM
+Preparing to bulk copy 1095 rows for signal 63215003
+Bulk copy for 63215003 successful
+Done with SIEM_10.160.5.5_2018_02_10_0300.csv at 2/15/2018 11:45:10 AM
+Preparing to bulk copy 461 rows for signal 63215003
+Bulk copy for 63215003 successful
+Done with SIEM_10.160.5.5_2018_02_10_0400.csv at 2/15/2018 11:45:10 AM
+Preparing to bulk copy 344 rows for signal 63215003
+Bulk copy for 63215003 successful
+Done with SIEM_10.160.5.5_2018_02_10_0500.csv at 2/15/2018 11:45:10 AM
+Preparing to bulk copy 684 rows for signal 63215003
+Bulk copy for 63215003 successful
+Done with SIEM_10.160.5.5_2018_02_10_0600.csv at 2/15/2018 11:45:10 AM
+Preparing to bulk copy 1226 rows for signal 63215003
+Bulk copy for 63215003 successful
+Done with SIEM_10.160.5.5_2018_02_10_0700.csv at 2/15/2018 11:45:10 AM
+Preparing to bulk copy 2191 rows for signal 63215003
+Bulk copy for 63215003 successful
+Done with SIEM_10.160.5.5_2018_02_10_0800.csv at 2/15/2018 11:45:10 AM
+Preparing to bulk copy 2414 rows for signal 63215003
+Bulk copy for 63215003 successful
+Done with SIEM_10.160.5.5_2018_02_10_0900.csv at 2/15/2018 11:45:10 AM
+Preparing to bulk copy 3234 rows for signal 63215003
+Bulk copy for 63215003 successful
+Done with SIEM_10.160.5.5_2018_02_10_1000.csv at 2/15/2018 11:45:10 AM
+Preparing to bulk copy 4460 rows for signal 63215003
+Bulk copy for 63215003 successful
+Done with SIEM_10.160.5.5_2018_02_10_1100.csv at 2/15/2018 11:45:10 AM
+Preparing to bulk copy 5466 rows for signal 63215003
+Bulk copy for 63215003 successful
+Done with SIEM_10.160.5.5_2018_02_10_1200.csv at 2/15/2018 11:45:10 AM
+Preparing to bulk copy 5927 rows for signal 63215003
+Bulk copy for 63215003 successful
+Done with SIEM_10.160.5.5_2018_02_10_1300.csv at 2/15/2018 11:45:11 AM
+Preparing to bulk copy 5660 rows for signal 63215003
+Bulk copy for 63215003 successful
+Done with SIEM_10.160.5.5_2018_02_10_1400.csv at 2/15/2018 11:45:11 AM
+Preparing to bulk copy 5877 rows for signal 63215003
+Bulk copy for 63215003 successful
+Done with SIEM_10.160.5.5_2018_02_10_1500.csv at 2/15/2018 11:45:11 AM
+Preparing to bulk copy 5838 rows for signal 63215003
+Bulk copy for 63215003 successful
+Done with SIEM_10.160.5.5_2018_02_10_1600.csv at 2/15/2018 11:45:11 AM
+Preparing to bulk copy 4408 rows for signal 63215003
+Bulk copy for 63215003 successful
+Done with SIEM_10.160.5.5_2018_02_10_1700.csv at 2/15/2018 11:45:11 AM
+Preparing to bulk copy 4471 rows for signal 63215003
+Bulk copy for 63215003 successful
+Done with SIEM_10.160.5.5_2018_02_10_1800.csv at 2/15/2018 11:45:11 AM
+Preparing to bulk copy 5252 rows for signal 63215003
+Bulk copy for 63215003 successful
+Done with SIEM_10.160.5.5_2018_02_10_1900.csv at 2/15/2018 11:45:11 AM
+Preparing to bulk copy 4639 rows for signal 63215003
+Bulk copy for 63215003 successful
+Done with SIEM_10.160.5.5_2018_02_10_2000.csv at 2/15/2018 11:45:11 AM
+Preparing to bulk copy 4221 rows for signal 63215003
+Bulk copy for 63215003 successful
+Done with SIEM_10.160.5.5_2018_02_10_2100.csv at 2/15/2018 11:45:11 AM
+Preparing to bulk copy 4003 rows for signal 63215003
+Bulk copy for 63215003 successful
+Done with SIEM_10.160.5.5_2018_02_10_2200.csv at 2/15/2018 11:45:11 AM
+Preparing to bulk copy 3377 rows for signal 63215003
+Bulk copy for 63215003 successful
+Done with SIEM_10.160.5.5_2018_02_10_2300.csv at 2/15/2018 11:45:11 AM
+Preparing to bulk copy 3003 rows for signal 63215003
+Bulk copy for 63215003 successful
+Done with SIEM_10.160.5.5_2018_02_11_0000.csv at 2/15/2018 11:45:11 AM
+Preparing to bulk copy 2930 rows for signal 63215003
+Bulk copy for 63215003 successful
+Done with SIEM_10.160.5.5_2018_02_11_0100.csv at 2/15/2018 11:45:11 AM
+Preparing to bulk copy 1905 rows for signal 63215003
+Bulk copy for 63215003 successful
+Done with SIEM_10.160.5.5_2018_02_11_0200.csv at 2/15/2018 11:45:11 AM
+Preparing to bulk copy 836 rows for signal 63215003
+Bulk copy for 63215003 successful
+Done with SIEM_10.160.5.5_2018_02_11_0300.csv at 2/15/2018 11:45:11 AM
+Preparing to bulk copy 312 rows for signal 63215003
+Bulk copy for 63215003 successful
+Done with SIEM_10.160.5.5_2018_02_11_0400.csv at 2/15/2018 11:45:11 AM
+Preparing to bulk copy 375 rows for signal 63215003
+Bulk copy for 63215003 successful
+Done with SIEM_10.160.5.5_2018_02_11_0500.csv at 2/15/2018 11:45:11 AM
+Preparing to bulk copy 317 rows for signal 63215003
+Bulk copy for 63215003 successful
+Done with SIEM_10.160.5.5_2018_02_11_0600.csv at 2/15/2018 11:45:11 AM
+Preparing to bulk copy 564 rows for signal 63215003
+Bulk copy for 63215003 successful
+Done with SIEM_10.160.5.5_2018_02_11_0700.csv at 2/15/2018 11:45:12 AM
+Preparing to bulk copy 1342 rows for signal 63215003
+Bulk copy for 63215003 successful
+Done with SIEM_10.160.5.5_2018_02_11_0800.csv at 2/15/2018 11:45:12 AM
+Preparing to bulk copy 2165 rows for signal 63215003
+Bulk copy for 63215003 successful
+Done with SIEM_10.160.5.5_2018_02_11_0900.csv at 2/15/2018 11:45:12 AM
+Preparing to bulk copy 3496 rows for signal 63215003
+Bulk copy for 63215003 successful
+Done with SIEM_10.160.5.5_2018_02_11_1000.csv at 2/15/2018 11:45:12 AM
+Preparing to bulk copy 4348 rows for signal 63215003
+Bulk copy for 63215003 successful
+Done with SIEM_10.160.5.5_2018_02_11_1100.csv at 2/15/2018 11:45:12 AM
+Preparing to bulk copy 5522 rows for signal 63215003
+Bulk copy for 63215003 successful
+Done with SIEM_10.160.5.5_2018_02_11_1200.csv at 2/15/2018 11:45:12 AM
+Preparing to bulk copy 5658 rows for signal 63215003
+Bulk copy for 63215003 successful
+Done with SIEM_10.160.5.5_2018_02_11_1300.csv at 2/15/2018 11:45:12 AM
+Preparing to bulk copy 5493 rows for signal 63215003
+Bulk copy for 63215003 successful
+Done with SIEM_10.160.5.5_2018_02_11_1400.csv at 2/15/2018 11:45:12 AM
+Preparing to bulk copy 5477 rows for signal 63215003
+Bulk copy for 63215003 successful
+Done with SIEM_10.160.5.5_2018_02_11_1500.csv at 2/15/2018 11:45:12 AM
+Preparing to bulk copy 5322 rows for signal 63215003
+Bulk copy for 63215003 successful
+Done with SIEM_10.160.5.5_2018_02_11_1600.csv at 2/15/2018 11:45:12 AM
+Preparing to bulk copy 5547 rows for signal 63215003
+Bulk copy for 63215003 successful
+Done with SIEM_10.160.5.5_2018_02_11_1700.csv at 2/15/2018 11:45:12 AM
+Preparing to bulk copy 5854 rows for signal 63215003
+Bulk copy for 63215003 successful
+Done with SIEM_10.160.5.5_2018_02_11_1800.csv at 2/15/2018 11:45:12 AM
+Preparing to bulk copy 5168 rows for signal 63215003
+Bulk copy for 63215003 successful
+Done with SIEM_10.160.5.5_2018_02_11_1900.csv at 2/15/2018 11:45:12 AM
+Preparing to bulk copy 4457 rows for signal 63215003
+Bulk copy for 63215003 successful
+Done with SIEM_10.160.5.5_2018_02_11_2000.csv at 2/15/2018 11:45:13 AM
+Preparing to bulk copy 4096 rows for signal 63215003
+Bulk copy for 63215003 successful
+Done with SIEM_10.160.5.5_2018_02_11_2100.csv at 2/15/2018 11:45:13 AM
+Preparing to bulk copy 3170 rows for signal 63215003
+Bulk copy for 63215003 successful
+Done with SIEM_10.160.5.5_2018_02_11_2200.csv at 2/15/2018 11:45:13 AM
+Preparing to bulk copy 2314 rows for signal 63215003
+Bulk copy for 63215003 successful
+Done with SIEM_10.160.5.5_2018_02_11_2300.csv at 2/15/2018 11:45:13 AM
+Preparing to bulk copy 2160 rows for signal 63215003
+Bulk copy for 63215003 successful
+Done with SIEM_10.160.5.5_2018_02_12_0000.csv at 2/15/2018 11:45:13 AM
+Preparing to bulk copy 1227 rows for signal 63215003
+Bulk copy for 63215003 successful
+Done with SIEM_10.160.5.5_2018_02_12_0100.csv at 2/15/2018 11:45:13 AM
+Preparing to bulk copy 624 rows for signal 63215003
+Bulk copy for 63215003 successful
+Done with SIEM_10.160.5.5_2018_02_12_0200.csv at 2/15/2018 11:45:13 AM
+Preparing to bulk copy 252 rows for signal 63215003
+Bulk copy for 63215003 successful
+Done with SIEM_10.160.5.5_2018_02_12_0300.csv at 2/15/2018 11:45:13 AM
+Preparing to bulk copy 378 rows for signal 63215003
+Bulk copy for 63215003 successful
+Done with SIEM_10.160.5.5_2018_02_12_0400.csv at 2/15/2018 11:45:13 AM
+Preparing to bulk copy 704 rows for signal 63215003
+Bulk copy for 63215003 successful
+Done with SIEM_10.160.5.5_2018_02_12_0500.csv at 2/15/2018 11:45:13 AM
+Preparing to bulk copy 1373 rows for signal 63215003
+Bulk copy for 63215003 successful
+Done with SIEM_10.160.5.5_2018_02_12_0600.csv at 2/15/2018 11:45:13 AM
+Preparing to bulk copy 4505 rows for signal 63215003
+Bulk copy for 63215003 successful
+Done with SIEM_10.160.5.5_2018_02_12_0700.csv at 2/15/2018 11:45:13 AM
+Preparing to bulk copy 5631 rows for signal 63215003
+Bulk copy for 63215003 successful
+Done with SIEM_10.160.5.5_2018_02_12_0800.csv at 2/15/2018 11:45:13 AM
+Preparing to bulk copy 5897 rows for signal 63215003
+Bulk copy for 63215003 successful
+Done with SIEM_10.160.5.5_2018_02_12_0900.csv at 2/15/2018 11:45:13 AM
+Preparing to bulk copy 6007 rows for signal 63215003
+Bulk copy for 63215003 successful
+Done with SIEM_10.160.5.5_2018_02_12_1000.csv at 2/15/2018 11:45:13 AM
+Preparing to bulk copy 6322 rows for signal 63215003
+Bulk copy for 63215003 successful
+Done with SIEM_10.160.5.5_2018_02_12_1100.csv at 2/15/2018 11:45:13 AM
+Preparing to bulk copy 6373 rows for signal 63215003
+Bulk copy for 63215003 successful
+Done with SIEM_10.160.5.5_2018_02_12_1200.csv at 2/15/2018 11:45:13 AM
+Preparing to bulk copy 6251 rows for signal 63215003
+Bulk copy for 63215003 successful
+Done with SIEM_10.160.5.5_2018_02_12_1300.csv at 2/15/2018 11:45:14 AM
+Preparing to bulk copy 5739 rows for signal 63215003
+Bulk copy for 63215003 successful
+Done with SIEM_10.160.5.5_2018_02_12_1400.csv at 2/15/2018 11:45:14 AM
+Preparing to bulk copy 5893 rows for signal 63215003
+Bulk copy for 63215003 successful
+Done with SIEM_10.160.5.5_2018_02_12_1500.csv at 2/15/2018 11:45:14 AM
+Preparing to bulk copy 6426 rows for signal 63215003
+Bulk copy for 63215003 successful
+Done with SIEM_10.160.5.5_2018_02_12_1600.csv at 2/15/2018 11:45:14 AM
+Preparing to bulk copy 5934 rows for signal 63215003
+Bulk copy for 63215003 successful
+Done with SIEM_10.160.5.5_2018_02_12_1700.csv at 2/15/2018 11:45:14 AM
+Preparing to bulk copy 6279 rows for signal 63215003
+Bulk copy for 63215003 successful
+Done with SIEM_10.160.5.5_2018_02_12_1800.csv at 2/15/2018 11:45:14 AM
+Preparing to bulk copy 5907 rows for signal 63215003
+Bulk copy for 63215003 successful
+Done with SIEM_10.160.5.5_2018_02_12_1900.csv at 2/15/2018 11:45:14 AM
+Preparing to bulk copy 5305 rows for signal 63215003
+Bulk copy for 63215003 successful
+Done with SIEM_10.160.5.5_2018_02_12_2000.csv at 2/15/2018 11:45:14 AM
+Preparing to bulk copy 4717 rows for signal 63215003
+Bulk copy for 63215003 successful
+Done with SIEM_10.160.5.5_2018_02_12_2100.csv at 2/15/2018 11:45:14 AM
+Preparing to bulk copy 3974 rows for signal 63215003
+Bulk copy for 63215003 successful
+Done with SIEM_10.160.5.5_2018_02_12_2200.csv at 2/15/2018 11:45:14 AM
+Preparing to bulk copy 3104 rows for signal 63215003
+Bulk copy for 63215003 successful
+Done with SIEM_10.160.5.5_2018_02_12_2300.csv at 2/15/2018 11:45:15 AM
+Finished with database inserts.
+Finished at 2/15/2018 11:45:15 AM

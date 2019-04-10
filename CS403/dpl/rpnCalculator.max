@@ -1,0 +1,95 @@
+include "library/Stack.max"
+
+class rpnCalculator {
+	
+	object stack()
+	
+	function create() {
+		stack = Stack()
+	}
+	
+	function calculate(item) {
+		variable a()
+		variable b()
+		if(eq(item "+")) {
+			b = stack.pop()
+			a = stack.pop()
+			stack.push(add(a b))
+		} else if(eq(item "-")) {
+			b = stack.pop()
+			a = stack.pop()
+			stack.push(sub(a b))
+		} else if(eq(item "*")) {
+			b = stack.pop()
+			a = stack.pop()
+			stack.push(mult(a b))
+		} else if(eq(item "/")) {
+			b = stack.pop()
+			a = stack.pop()
+			stack.push(div(a b))
+		} else if(eq(item "^")) {
+			b = stack.pop()
+			a = stack.pop()
+			stack.push(raise(a b))
+		} else {
+			stack.push(item)
+		}
+	}
+	
+	function clear() {
+		while(neq(stack.size() 0)) {
+			stack.pop()
+		}
+	}
+		
+	function display() {
+		stack.display()
+	}
+}
+
+function testrpnCalculator() {
+	object calc(rpnCalculator())
+	printLn("8 + 6 * 2 / (2 ^ 2) is")
+	
+	calc.calculate(8)
+	calc.calculate(6)
+	calc.calculate(2)
+	calc.calculate("*")
+	calc.calculate("+")
+	calc.calculate(2)
+	calc.calculate(2)
+	calc.calculate("^")
+	calc.calculate("/")
+	calc.display()
+	
+	printLn("	(it should be 5)")
+	calc.clear()
+
+    printLn("5 - 3 + (5 / 2.5) is")
+
+    calc.calculate(5)
+    calc.calculate(3)
+    calc.calculate("-")
+    calc.calculate(5)
+    calc.calculate(2.5)
+    calc.calculate("/")
+    calc.calculate("+")
+    calc.display()
+
+    printLn("   (it should be 4.0)")
+    calc.clear()
+}
+
+function sieveOfEra() {
+	object stack()
+	
+	function create() {
+		stack = Stack()
+	}
+
+	function calculate(item){
+
+	}
+}
+
+testrpnCalculator()

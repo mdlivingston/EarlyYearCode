@@ -1,0 +1,7 @@
+0: "a"("a")-
+1: "b"("a")-r
+2: ="c"("b")-r
+Words/Phrases: 3
+Nodes: 3
+Minimum depth: 1
+Maximum depth: 3

@@ -1,0 +1,133 @@
+﻿@{
+    ViewBag.Title = "About";
+}
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.7.2/Chart.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.js"></script>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/1.2.61/jspdf.min.js"></script>
+<canvas id="myChart"></canvas>
+<button type="button" id="download-pdf">
+    Download PDF
+</button>
+
+
+<script>
+
+    function getRandomColor() {
+        var letters = '0123456789ABCDEF';
+        var color = '#';
+        for (var i = 0; i < 6; i++) {
+            color += letters[Math.floor(Math.random() * 16)];
+        }
+        return color;
+    }
+   
+
+    var ctx = document.getElementById("myChart");
+
+    var params = {};
+    params["Location"] = ['CMT 1-3', 'LOC-13'];
+    params["Location"] = JSON.stringify(params["Location"]);
+    params["Analyte"] = ['Tetrachloroethylene'];
+    params["Analyte"] = JSON.stringify(params["Analyte"]);
+    params["DateStart"] = "2/21/1999";
+    params["DateEnd"] = "7/25/2015";
+
+    //Holds total dates for chart
+    var dates = [];
+    //Signals to stop pushing dates so that the chart is not doubled
+    var dateFlag = 0;
+    //Holds Dataset for the Chart generation
+    var dataSets = [];
+    //Signals for multiple Analytes or multiple Locations
+    var multiple = 'Locations';
+
+    var min = 0;
+    var max = 0;
+    var data = $.ajax({ type: "GET", contentType: "application/json; charset=utf-8", url: "/Home/GetChart", data: params }).then(
+        function (arr) {
+            var data = eval(arr);
+           //Loops through dictionary if lists
+            for (var key in data) {
+                var results = [];
+                var unitType = '';
+                var color = getRandomColor();
+                for (var i = 0; i < arr[key].length; i++) {
+                    if (dateFlag == 0) {
+                        dates.push(arr[key][i].Date);
+                    }      
+                    unitType = arr[key][i].Units;
+                    results.push(arr[key][i].Result);
+                }
+
+                dateFlag = 1;
+
+                //Determines the Max and Min Ranges of the YAxis (if you need it)
+                if (Math.min(...results) < min) {
+                    min = Math.min(...results);
+                }
+
+                if (Math.max(...results) > max) {
+                    max = Math.max(...results);
+                }
+                //Displays Analytes if multiple locations
+                if (multiple == 'Locations') {
+                    unitType = arr[key][0].Analyte + ' / ' + arr[key][0].Units;
+                }
+
+                dataSets.push({
+                    label: key + "(" + unitType + ")",
+                    data: results,
+                    backgroundColor: [
+                        'rgba(255, 255, 255, 0.2)'
+                    ],
+                    borderColor: [
+                        color
+                    ],
+                    borderWidth: 3
+                });
+                
+            }
+            var myChart = new Chart(ctx, {
+                type: 'line',
+                data: {
+                    labels: dates,
+                    datasets: dataSets
+                },
+                options: {
+                    title: {
+                        display: true,
+                        text: multiple + " Over Time"
+                    },
+                    scales: {
+                        yAxes: [{
+                            ticks: {
+                                max: max + 1
+                                //min: min - 1
+                            }
+                        }]
+                    }
+                }
+            });
+            
+            return arr;
+        })
+
+        //add event listener to button
+        document.getElementById('download-pdf').addEventListener("click", downloadPDF);
+
+        //donwload pdf from original canvas
+        function downloadPDF() {
+            var canvas = document.querySelector('#myChart');
+            //creates image
+            var canvasImg = canvas.toDataURL("image/png", 1.0);
+
+            //creates PDF from img
+            var doc = new jsPDF('landscape');
+            doc.setFontSize(20);
+           // doc.text(15, 15, "PDF TITLE");
+            doc.addImage(canvasImg, 'PNG', 7, 25, 280, 150);
+            doc.internal.scaleFactor = 2;
+            doc.save('canvas.pdf');
+        }
+</script>

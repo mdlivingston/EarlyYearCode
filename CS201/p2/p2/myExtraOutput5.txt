@@ -1,0 +1,51 @@
+0: "im"("im")-
+1: "harambe"("im")-l "this"("im")-r
+2: "and"-3("harambe")-l "i"("harambe")-r "is"-2("this")-l "zoo"-2("this")-r
+3: "a"-2("and"-3)-l "enclosure"("and"-3)-r "here"-2("i")-l ="in"("is"-2)-l "my"-3("is"-2)-r "work"("zoo"-2)-l
+4: ="after"("a"-2)-r "cecil"("enclosure")-l "friend"("enclosure")-r ="has"("here"-2)-l "keeper"("my"-3)-l "the"("my"-3)-r "with"("work")-l "years"("work")-r
+5: ="come"("cecil")-r "everything"("friend")-l ="gonna"("friend")-r ="ive"("keeper")-l "lion"("keeper")-r "story"("the")-l ="thing"("the")-r ="who"("with")-l ="you"("years")-r
+6: ="fence"("everything")-r "learned"("lion")-l "price"("story")-l ="that"("story")-r
+7: ="know"("learned")-l "one"("price")-l
+8: ="never"("one")-l ="over"("one")-r
+Frequency of "zoo": 2
+0: "im"("im")-
+1: "gunshot"("im")-l "this"("im")-r
+2: "and"-3("gunshot")-l "i"("gunshot")-r "is"-2("this")-l "zoo"-2("this")-r
+3: "a"-2("and"-3)-l "enclosure"("and"-3)-r "here"-2("i")-l ="in"("is"-2)-l "my"-3("is"-2)-r "work"("zoo"-2)-l
+4: ="after"("a"-2)-r "cecil"("enclosure")-l "friend"("enclosure")-r ="has"("here"-2)-l "keeper"("my"-3)-l "the"("my"-3)-r "with"("work")-l "years"("work")-r
+5: ="come"("cecil")-r "everything"("friend")-l ="gonna"("friend")-r ="ive"("keeper")-l "lion"("keeper")-r "story"("the")-l ="thing"("the")-r ="who"("with")-l ="you"("years")-r
+6: ="fence"("everything")-r "learned"("lion")-l "price"("story")-l ="that"("story")-r
+7: ="know"("learned")-l "one"("price")-l
+8: ="never"("one")-l ="over"("one")-r
+Words/Phrases: 46
+Nodes: 38
+Minimum depth: 3
+Maximum depth: 9
+0: "im"("im")-
+1: "gunshot"("im")-l "this"("im")-r
+2: "and"-3("gunshot")-l "i"("gunshot")-r "is"-2("this")-l "zoo"-2("this")-r
+3: "a"-2("and"-3)-l "enclosure"("and"-3)-r "here"-2("i")-l ="in"("is"-2)-l "my"-3("is"-2)-r "work"("zoo"-2)-l
+4: ="after"("a"-2)-r "cecil"("enclosure")-l "friend"("enclosure")-r "has"("here"-2)-l "keeper"("my"-3)-l "the"("my"-3)-r "with"("work")-l "years"("work")-r
+5: ="come"("cecil")-r "everything"("friend")-l ="gonna"("friend")-r ="harambe"("has")-l ="ive"("keeper")-l "lion"("keeper")-r "story"("the")-l ="thing"("the")-r ="who"("with")-l ="you"("years")-r
+6: ="fence"("everything")-r "learned"("lion")-l "price"("story")-l ="that"("story")-r
+7: ="know"("learned")-l "one"("price")-l
+8: ="never"("one")-l ="over"("one")-r
+Words/Phrases: 47
+Nodes: 39
+Minimum depth: 3
+Maximum depth: 9
+Frequency of "f": 1
+Frequency of "fence": 1
+0: "im"("im")-
+1: "gunshot"("im")-l "this"("im")-r
+2: "and"-3("gunshot")-l "i"("gunshot")-r "is"-2("this")-l "zoo"-2("this")-r
+3: "a"-2("and"-3)-l "enclosure"("and"-3)-r "here"-2("i")-l ="in"("is"-2)-l "my"-3("is"-2)-r "work"("zoo"-2)-l
+4: ="after"("a"-2)-r "cecil"("enclosure")-l "friend"("enclosure")-r "has"("here"-2)-l "keeper"("my"-3)-l "the"("my"-3)-r "with"("work")-l "years"("work")-r
+5: ="come"("cecil")-r "everything"("friend")-l ="gonna"("friend")-r ="harambe"("has")-l ="ive"("keeper")-l "lion"("keeper")-r "story"("the")-l ="thing"("the")-r ="who"("with")-l ="you"("years")-r
+6: "fence"("everything")-r "learned"("lion")-l "price"("story")-l ="that"("story")-r
+7: ="f"("fence")-l ="know"("learned")-l "one"("price")-l
+8: ="never"("one")-l ="over"("one")-r
+Words/Phrases: 48
+Nodes: 40
+Minimum depth: 3
+Maximum depth: 9

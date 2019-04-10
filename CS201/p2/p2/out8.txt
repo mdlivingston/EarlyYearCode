@@ -1,0 +1,8 @@
+0: "b"-2-B("b"-2-B)-
+1: " df a jd "-B("b"-2-B)-l "fd"-R("b"-2-B)-r
+2: =" "-R(" df a jd "-B)-l ="a"-4-R(" df a jd "-B)-r "c"-B("fd"-R)-l "st"-B("fd"-R)-r
+3: ="ds"-R("c"-B)-r ="s"-R("st"-B)-l ="v"-R("st"-B)-r
+Words/Phrases: 14
+Nodes: 10
+Minimum depth: 3
+Maximum depth: 4

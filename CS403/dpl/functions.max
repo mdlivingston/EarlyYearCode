@@ -1,0 +1,43 @@
+[Tests functions, including whether functions are first class]
+
+function f(a b) {
+	add(a b)
+}
+
+printLn("f(1 2) is " f(1 2))
+printLn("	(it should be 3)")
+
+function c(q) {
+	function b(s) {
+		add(s q)
+	}
+	b(3.5)
+}
+
+printLn("c(3) is " c(3))
+printLn("	(it should be 6.5)")
+
+
+function l(a) {
+	function b(t) {
+		add(a t)
+	}
+}
+
+variable s(l(5.7))
+
+printLn("s(4.5) is " s(4.5))
+printLn("	(it should be 10.2)")
+
+
+variable func(anonymous (a b) { mult(a b) })
+
+print("anonymous call is " )
+printLn((anonymous (a b) {
+	 mult(a b) 
+	} 
+	(2 4)))
+printLn("	(it should be 8)")
+
+printLn("call of variable defined as anonymous function is " func(2 3))
+printLn("	(it should be 6)")

@@ -1,0 +1,4 @@
+Frequency of "a": 4
+Frequency of "c": 1
+Frequency of "s": 1
+Frequency of "b": 2

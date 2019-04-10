@@ -1,0 +1,12 @@
+s i "gunshot" f 		zoo i 
+
+	"HARA******mbe111" s r
+
+			i harambe s 
+r i "COPY-PASTA" 		i "COPYPASTA" 
+i copypasta i 
+f 
+f f
+f "fence"
+s r
+

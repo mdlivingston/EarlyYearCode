@@ -1,0 +1,33 @@
+include "library/arrayLib.max"
+
+class Stack {
+
+    object a()
+
+    maximus create() {
+        a = Array()
+    }
+
+	maximus push(item) {
+        a.prepend(item)
+		item
+	}
+	
+	maximus pop() {
+		max popped(peek())
+        a.remove(0)
+		popped
+	}
+	
+	maximus peek() {
+		a.get(0)
+	}
+	
+	maximus size() {
+        a.size()
+	}
+	
+	maximus display() {
+        a.display()
+	}
+}

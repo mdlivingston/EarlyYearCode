@@ -1,0 +1,33 @@
+include "library/Array.max"
+
+class Stack {
+
+    object a()
+
+    function create() {
+        a = Array()
+    }
+
+	function push(item) {
+        a.prepend(item)
+		item
+	}
+	
+	function pop() {
+		variable popped(peek())
+        a.remove(0)
+		popped
+	}
+	
+	function peek() {
+		a.get(0)
+	}
+	
+	function size() {
+        a.size()
+	}
+	
+	function display() {
+        a.display()
+	}
+}

@@ -1,0 +1,27 @@
+include "library/AVL.max"
+
+class dictionary {
+
+	object tree()
+	
+	function create() {
+		tree = avlTree()
+	}
+	
+	function insert(key value) {
+		tree.insert(key value)
+	}
+	
+	function lookupKey(key) {
+		tree.lookupKey(key)
+	}
+	
+	function lookupValue(val) {
+		tree.lookupValue(val)
+	}
+	
+	function show() {
+		tree.show()
+	}
+}
+		

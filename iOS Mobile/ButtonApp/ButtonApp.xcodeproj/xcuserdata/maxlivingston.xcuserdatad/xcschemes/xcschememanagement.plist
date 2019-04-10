@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>ButtonApp.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>0</integer>
+		</dict>
+		<key>MmmmWatch (Notification).xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>2</integer>
+		</dict>
+		<key>MmmmWatch.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>CA5281AF1E9C02F800BACF86</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>CA5281C31E9C02F800BACF86</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>CA5281CE1E9C02F800BACF86</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>CADEB8B71F41E691009EFB9B</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>

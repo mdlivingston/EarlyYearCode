@@ -1,0 +1,20 @@
+variable i(0)
+
+while(less(i 10)) {
+    print(i " ")
+    i = inc(i)
+}
+printLn()
+
+i = 0
+variable j(0)
+
+while(lessEq(i 10)) {
+    while(lessEq(j i)) {
+        print(j " ")
+        j = inc(j)
+    }
+    i = inc(i)
+    j = 0
+    printLn()
+}

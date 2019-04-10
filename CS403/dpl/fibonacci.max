@@ -1,0 +1,13 @@
+function fibonacci(n) {
+	if(eq(n 0)) {
+		0
+	} else if(eq(n 1)) {
+		1
+	} else {
+		add(fibonacci(sub(n 1)) fibonacci(sub(n 2)))
+	}
+}
+
+printLn("fibonacci of 5 is " fibonacci(5))
+printLn("fibonacci of 10 is " fibonacci(10))
+	

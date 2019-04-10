@@ -1,0 +1,90 @@
+C:\Users\mlivingston\Desktop\DIGGS\DIGGS\bin\ApplicationInsights.config
+C:\Users\mlivingston\Desktop\DIGGS\DIGGS\bin\DIGGS.dll.config
+C:\Users\mlivingston\Desktop\DIGGS\DIGGS\bin\DIGGS.dll
+C:\Users\mlivingston\Desktop\DIGGS\DIGGS\bin\DIGGS.pdb
+C:\Users\mlivingston\Desktop\DIGGS\DIGGS\bin\Antlr3.Runtime.dll
+C:\Users\mlivingston\Desktop\DIGGS\DIGGS\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\mlivingston\Desktop\DIGGS\DIGGS\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\mlivingston\Desktop\DIGGS\DIGGS\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\mlivingston\Desktop\DIGGS\DIGGS\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\mlivingston\Desktop\DIGGS\DIGGS\bin\Microsoft.AI.Web.dll
+C:\Users\mlivingston\Desktop\DIGGS\DIGGS\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\mlivingston\Desktop\DIGGS\DIGGS\bin\Microsoft.ApplicationInsights.dll
+C:\Users\mlivingston\Desktop\DIGGS\DIGGS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\mlivingston\Desktop\DIGGS\DIGGS\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\mlivingston\Desktop\DIGGS\DIGGS\bin\Newtonsoft.Json.dll
+C:\Users\mlivingston\Desktop\DIGGS\DIGGS\bin\System.Web.Helpers.dll
+C:\Users\mlivingston\Desktop\DIGGS\DIGGS\bin\System.Web.Mvc.dll
+C:\Users\mlivingston\Desktop\DIGGS\DIGGS\bin\System.Web.Optimization.dll
+C:\Users\mlivingston\Desktop\DIGGS\DIGGS\bin\System.Web.Razor.dll
+C:\Users\mlivingston\Desktop\DIGGS\DIGGS\bin\System.Web.WebPages.Deployment.dll
+C:\Users\mlivingston\Desktop\DIGGS\DIGGS\bin\System.Web.WebPages.dll
+C:\Users\mlivingston\Desktop\DIGGS\DIGGS\bin\System.Web.WebPages.Razor.dll
+C:\Users\mlivingston\Desktop\DIGGS\DIGGS\bin\WebGrease.dll
+C:\Users\mlivingston\Desktop\DIGGS\DIGGS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\mlivingston\Desktop\DIGGS\DIGGS\bin\System.Web.Helpers.xml
+C:\Users\mlivingston\Desktop\DIGGS\DIGGS\bin\System.Web.Mvc.xml
+C:\Users\mlivingston\Desktop\DIGGS\DIGGS\bin\System.Web.Optimization.xml
+C:\Users\mlivingston\Desktop\DIGGS\DIGGS\bin\System.Web.Razor.xml
+C:\Users\mlivingston\Desktop\DIGGS\DIGGS\bin\System.Web.WebPages.xml
+C:\Users\mlivingston\Desktop\DIGGS\DIGGS\bin\System.Web.WebPages.Deployment.xml
+C:\Users\mlivingston\Desktop\DIGGS\DIGGS\bin\System.Web.WebPages.Razor.xml
+C:\Users\mlivingston\Desktop\DIGGS\DIGGS\bin\Antlr3.Runtime.pdb
+C:\Users\mlivingston\Desktop\DIGGS\DIGGS\bin\Newtonsoft.Json.xml
+C:\Users\mlivingston\Desktop\DIGGS\DIGGS\bin\Microsoft.ApplicationInsights.xml
+C:\Users\mlivingston\Desktop\DIGGS\DIGGS\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\mlivingston\Desktop\DIGGS\DIGGS\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\mlivingston\Desktop\DIGGS\DIGGS\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\mlivingston\Desktop\DIGGS\DIGGS\bin\Microsoft.AI.Web.xml
+C:\Users\mlivingston\Desktop\DIGGS\DIGGS\obj\Debug\DIGGS.csprojResolveAssemblyReference.cache
+C:\Users\mlivingston\Desktop\DIGGS\DIGGS\obj\Debug\DIGGS.csproj.CoreCompileInputs.cache
+C:\Users\mlivingston\Desktop\DIGGS\DIGGS\obj\Debug\DIGGS.dll
+C:\Users\mlivingston\Desktop\DIGGS\DIGGS\obj\Debug\DIGGS.pdb
+C:\Users\mlivingston\Desktop\DIGGS\DIGGS\bin\itextsharp.dll
+C:\Users\mlivingston\Desktop\DIGGS\DIGGS\bin\itextsharp.xml
+C:\Users\mlivingston\Desktop\DIGGS\DIGGS\obj\Debug\DIGGS.csproj.CopyComplete
+D:\Max's Code Storage\XML Parsing and Chart Generation\DIGGS\DIGGS\obj\Debug\DIGGS.csprojAssemblyReference.cache
+D:\Max's Code Storage\XML Parsing and Chart Generation\DIGGS\DIGGS\obj\Debug\DIGGS.csproj.CoreCompileInputs.cache
+D:\Max's Code Storage\XML Parsing and Chart Generation\DIGGS\DIGGS\obj\Debug\DIGGS.dll
+D:\Max's Code Storage\XML Parsing and Chart Generation\DIGGS\DIGGS\obj\Debug\DIGGS.pdb
+D:\Max's Code Storage\XML Parsing and Chart Generation\DIGGS\DIGGS\bin\ApplicationInsights.config
+D:\Max's Code Storage\XML Parsing and Chart Generation\DIGGS\DIGGS\bin\DIGGS.dll.config
+D:\Max's Code Storage\XML Parsing and Chart Generation\DIGGS\DIGGS\bin\DIGGS.dll
+D:\Max's Code Storage\XML Parsing and Chart Generation\DIGGS\DIGGS\bin\DIGGS.pdb
+D:\Max's Code Storage\XML Parsing and Chart Generation\DIGGS\DIGGS\bin\Antlr3.Runtime.dll
+D:\Max's Code Storage\XML Parsing and Chart Generation\DIGGS\DIGGS\bin\itextsharp.dll
+D:\Max's Code Storage\XML Parsing and Chart Generation\DIGGS\DIGGS\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Max's Code Storage\XML Parsing and Chart Generation\DIGGS\DIGGS\bin\Microsoft.AI.DependencyCollector.dll
+D:\Max's Code Storage\XML Parsing and Chart Generation\DIGGS\DIGGS\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Max's Code Storage\XML Parsing and Chart Generation\DIGGS\DIGGS\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Max's Code Storage\XML Parsing and Chart Generation\DIGGS\DIGGS\bin\Microsoft.AI.Web.dll
+D:\Max's Code Storage\XML Parsing and Chart Generation\DIGGS\DIGGS\bin\Microsoft.AI.WindowsServer.dll
+D:\Max's Code Storage\XML Parsing and Chart Generation\DIGGS\DIGGS\bin\Microsoft.ApplicationInsights.dll
+D:\Max's Code Storage\XML Parsing and Chart Generation\DIGGS\DIGGS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Max's Code Storage\XML Parsing and Chart Generation\DIGGS\DIGGS\bin\Microsoft.Web.Infrastructure.dll
+D:\Max's Code Storage\XML Parsing and Chart Generation\DIGGS\DIGGS\bin\Newtonsoft.Json.dll
+D:\Max's Code Storage\XML Parsing and Chart Generation\DIGGS\DIGGS\bin\System.Web.Helpers.dll
+D:\Max's Code Storage\XML Parsing and Chart Generation\DIGGS\DIGGS\bin\System.Web.Mvc.dll
+D:\Max's Code Storage\XML Parsing and Chart Generation\DIGGS\DIGGS\bin\System.Web.Optimization.dll
+D:\Max's Code Storage\XML Parsing and Chart Generation\DIGGS\DIGGS\bin\System.Web.Razor.dll
+D:\Max's Code Storage\XML Parsing and Chart Generation\DIGGS\DIGGS\bin\System.Web.WebPages.Deployment.dll
+D:\Max's Code Storage\XML Parsing and Chart Generation\DIGGS\DIGGS\bin\System.Web.WebPages.dll
+D:\Max's Code Storage\XML Parsing and Chart Generation\DIGGS\DIGGS\bin\System.Web.WebPages.Razor.dll
+D:\Max's Code Storage\XML Parsing and Chart Generation\DIGGS\DIGGS\bin\WebGrease.dll
+D:\Max's Code Storage\XML Parsing and Chart Generation\DIGGS\DIGGS\bin\itextsharp.xml
+D:\Max's Code Storage\XML Parsing and Chart Generation\DIGGS\DIGGS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Max's Code Storage\XML Parsing and Chart Generation\DIGGS\DIGGS\bin\System.Web.Helpers.xml
+D:\Max's Code Storage\XML Parsing and Chart Generation\DIGGS\DIGGS\bin\System.Web.Mvc.xml
+D:\Max's Code Storage\XML Parsing and Chart Generation\DIGGS\DIGGS\bin\System.Web.Optimization.xml
+D:\Max's Code Storage\XML Parsing and Chart Generation\DIGGS\DIGGS\bin\System.Web.Razor.xml
+D:\Max's Code Storage\XML Parsing and Chart Generation\DIGGS\DIGGS\bin\System.Web.WebPages.xml
+D:\Max's Code Storage\XML Parsing and Chart Generation\DIGGS\DIGGS\bin\System.Web.WebPages.Deployment.xml
+D:\Max's Code Storage\XML Parsing and Chart Generation\DIGGS\DIGGS\bin\System.Web.WebPages.Razor.xml
+D:\Max's Code Storage\XML Parsing and Chart Generation\DIGGS\DIGGS\bin\Antlr3.Runtime.pdb
+D:\Max's Code Storage\XML Parsing and Chart Generation\DIGGS\DIGGS\bin\Newtonsoft.Json.xml
+D:\Max's Code Storage\XML Parsing and Chart Generation\DIGGS\DIGGS\bin\Microsoft.ApplicationInsights.xml
+D:\Max's Code Storage\XML Parsing and Chart Generation\DIGGS\DIGGS\bin\Microsoft.AI.DependencyCollector.xml
+D:\Max's Code Storage\XML Parsing and Chart Generation\DIGGS\DIGGS\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Max's Code Storage\XML Parsing and Chart Generation\DIGGS\DIGGS\bin\Microsoft.AI.WindowsServer.xml
+D:\Max's Code Storage\XML Parsing and Chart Generation\DIGGS\DIGGS\bin\Microsoft.AI.Web.xml
+D:\Max's Code Storage\XML Parsing and Chart Generation\DIGGS\DIGGS\obj\Debug\DIGGS.csproj.CopyComplete

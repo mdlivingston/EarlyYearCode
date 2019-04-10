@@ -1,0 +1,1021 @@
+Started FTP process at 2/14/2018 7:55:26 PM
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.231_2018_02_13_0000.dat - length 6627
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.231_2018_02_13_0100.dat - length 3707
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.231_2018_02_13_0200.dat - length 2530
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.231_2018_02_13_0300.dat - length 1819
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.231_2018_02_13_0400.dat - length 1678
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.231_2018_02_13_0500.dat - length 4187
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.231_2018_02_13_0600.dat - length 9684
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.231_2018_02_13_0700.dat - length 20995
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.231_2018_02_13_0800.dat - length 22162
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.231_2018_02_13_0900.dat - length 23271
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.231_2018_02_13_1000.dat - length 22997
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.231_2018_02_13_1100.dat - length 22324
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.231_2018_02_13_1200.dat - length 26206
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.231_2018_02_13_1300.dat - length 24864
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.231_2018_02_13_1400.dat - length 22932
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.231_2018_02_13_1500.dat - length 26043
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.231_2018_02_13_1600.dat - length 25088
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.231_2018_02_13_1700.dat - length 25658
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.231_2018_02_13_1800.dat - length 23087
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.231_2018_02_13_1900.dat - length 22021
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.231_2018_02_13_2000.dat - length 20925
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.231_2018_02_13_2100.dat - length 19672
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.231_2018_02_13_2200.dat - length 17865
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.231_2018_02_13_2300.dat - length 12423
+Finished with FTP process.
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.236_2018_02_13_0000.dat - length 10941
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.236_2018_02_13_0100.dat - length 9400
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.236_2018_02_13_0200.dat - length 4748
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.236_2018_02_13_0300.dat - length 4203
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.236_2018_02_13_0400.dat - length 2025
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.236_2018_02_13_0500.dat - length 6389
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.236_2018_02_13_0600.dat - length 9474
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.236_2018_02_13_0700.dat - length 17628
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.236_2018_02_13_0800.dat - length 19786
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.236_2018_02_13_0900.dat - length 21490
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.236_2018_02_13_1000.dat - length 19872
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.236_2018_02_13_1100.dat - length 21214
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.236_2018_02_13_1200.dat - length 21572
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.236_2018_02_13_1300.dat - length 21601
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.236_2018_02_13_1400.dat - length 19441
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.236_2018_02_13_1500.dat - length 21455
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.236_2018_02_13_1600.dat - length 20141
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.236_2018_02_13_1700.dat - length 19527
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.236_2018_02_13_1800.dat - length 19757
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.236_2018_02_13_1900.dat - length 19665
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.236_2018_02_13_2000.dat - length 18578
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.236_2018_02_13_2100.dat - length 17598
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.236_2018_02_13_2200.dat - length 15888
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.236_2018_02_13_2300.dat - length 14837
+Finished with FTP process.
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.241_2018_02_13_0000.dat - length 5568
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.241_2018_02_13_0100.dat - length 3926
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.241_2018_02_13_0200.dat - length 1864
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.241_2018_02_13_0300.dat - length 1307
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.241_2018_02_13_0400.dat - length 935
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.241_2018_02_13_0500.dat - length 3442
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.241_2018_02_13_0600.dat - length 5554
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.241_2018_02_13_0700.dat - length 14615
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.241_2018_02_13_0800.dat - length 16461
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.241_2018_02_13_0900.dat - length 17449
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.241_2018_02_13_1000.dat - length 16440
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.241_2018_02_13_1100.dat - length 17116
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.241_2018_02_13_1200.dat - length 17567
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.241_2018_02_13_1300.dat - length 17330
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.241_2018_02_13_1400.dat - length 16596
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.241_2018_02_13_1500.dat - length 16111
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.241_2018_02_13_1600.dat - length 17629
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.241_2018_02_13_1700.dat - length 17908
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.241_2018_02_13_1800.dat - length 17031
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.241_2018_02_13_1900.dat - length 15380
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.241_2018_02_13_2000.dat - length 15362
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.241_2018_02_13_2100.dat - length 14115
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.241_2018_02_13_2200.dat - length 12983
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.241_2018_02_13_2300.dat - length 10226
+Finished with FTP process.
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.246_2018_02_13_0000.dat - length 1615
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.246_2018_02_13_0100.dat - length 997
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.246_2018_02_13_0200.dat - length 521
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.246_2018_02_13_0300.dat - length 357
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.246_2018_02_13_0400.dat - length 483
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.246_2018_02_13_0500.dat - length 1105
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.246_2018_02_13_0600.dat - length 1882
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.246_2018_02_13_0700.dat - length 7453
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.246_2018_02_13_0800.dat - length 9074
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.246_2018_02_13_0900.dat - length 10010
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.246_2018_02_13_1000.dat - length 9489
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.246_2018_02_13_1100.dat - length 11274
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.246_2018_02_13_1200.dat - length 12639
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.246_2018_02_13_1300.dat - length 12316
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.246_2018_02_13_1400.dat - length 10729
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.246_2018_02_13_1500.dat - length 12157
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.246_2018_02_13_1600.dat - length 12186
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.246_2018_02_13_1700.dat - length 12843
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.246_2018_02_13_1800.dat - length 13963
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.246_2018_02_13_1900.dat - length 12217
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.246_2018_02_13_2000.dat - length 9110
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.246_2018_02_13_2100.dat - length 5680
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.246_2018_02_13_2200.dat - length 6816
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.246_2018_02_13_2300.dat - length 3794
+Finished with FTP process.
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.251_2018_02_13_0000.dat - length 1437
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.251_2018_02_13_0100.dat - length 1127
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.251_2018_02_13_0200.dat - length 513
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.251_2018_02_13_0300.dat - length 357
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.251_2018_02_13_0400.dat - length 265
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.251_2018_02_13_0500.dat - length 902
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.251_2018_02_13_0600.dat - length 1602
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.251_2018_02_13_0700.dat - length 7341
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.251_2018_02_13_0800.dat - length 9514
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.251_2018_02_13_0900.dat - length 9279
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.251_2018_02_13_1000.dat - length 9462
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.251_2018_02_13_1100.dat - length 11386
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.251_2018_02_13_1200.dat - length 11407
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.251_2018_02_13_1300.dat - length 10818
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.251_2018_02_13_1400.dat - length 10563
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.251_2018_02_13_1500.dat - length 12050
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.251_2018_02_13_1600.dat - length 12175
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.251_2018_02_13_1700.dat - length 12477
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.251_2018_02_13_1800.dat - length 13391
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.251_2018_02_13_1900.dat - length 12427
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.251_2018_02_13_2000.dat - length 9515
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.251_2018_02_13_2100.dat - length 5601
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.251_2018_02_13_2200.dat - length 6528
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.251_2018_02_13_2300.dat - length 3437
+Finished with FTP process.
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.5.0_2018_02_13_0000.dat - length 5708
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.5.0_2018_02_13_0100.dat - length 5043
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.5.0_2018_02_13_0200.dat - length 4185
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.5.0_2018_02_13_0300.dat - length 3873
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.5.0_2018_02_13_0400.dat - length 3814
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.5.0_2018_02_13_0500.dat - length 4671
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.5.0_2018_02_13_0600.dat - length 6242
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.5.0_2018_02_13_0700.dat - length 11833
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.5.0_2018_02_13_0800.dat - length 13497
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.5.0_2018_02_13_0900.dat - length 15209
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.5.0_2018_02_13_1000.dat - length 13939
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.5.0_2018_02_13_1100.dat - length 14327
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.5.0_2018_02_13_1200.dat - length 15917
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.5.0_2018_02_13_1300.dat - length 15993
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.5.0_2018_02_13_1400.dat - length 14941
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.5.0_2018_02_13_1500.dat - length 16251
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.5.0_2018_02_13_1600.dat - length 17071
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.5.0_2018_02_13_1700.dat - length 17372
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.5.0_2018_02_13_1800.dat - length 18305
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.5.0_2018_02_13_1900.dat - length 15643
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.5.0_2018_02_13_2000.dat - length 13562
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.5.0_2018_02_13_2100.dat - length 11534
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.5.0_2018_02_13_2200.dat - length 13870
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.5.0_2018_02_13_2300.dat - length 8242
+Finished with FTP process.
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.5.5_2018_02_13_0000.dat - length 6359
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.5.5_2018_02_13_0100.dat - length 4518
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.5.5_2018_02_13_0200.dat - length 2206
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.5.5_2018_02_13_0300.dat - length 1274
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.5.5_2018_02_13_0400.dat - length 658
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.5.5_2018_02_13_0500.dat - length 2663
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.5.5_2018_02_13_0600.dat - length 3818
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.5.5_2018_02_13_0700.dat - length 14802
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.5.5_2018_02_13_0800.dat - length 15693
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.5.5_2018_02_13_0900.dat - length 17505
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.5.5_2018_02_13_1000.dat - length 16731
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.5.5_2018_02_13_1100.dat - length 17542
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.5.5_2018_02_13_1200.dat - length 19616
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.5.5_2018_02_13_1300.dat - length 18161
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.5.5_2018_02_13_1400.dat - length 16346
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.5.5_2018_02_13_1500.dat - length 17308
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.5.5_2018_02_13_1600.dat - length 18617
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.5.5_2018_02_13_1700.dat - length 18395
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.5.5_2018_02_13_1800.dat - length 19914
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.5.5_2018_02_13_1900.dat - length 18771
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.5.5_2018_02_13_2000.dat - length 15405
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.5.5_2018_02_13_2100.dat - length 13170
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.5.5_2018_02_13_2200.dat - length 13645
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.5.5_2018_02_13_2300.dat - length 9737
+Finished with FTP process.
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.5.10_2018_02_13_0000.dat - length 12998
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.5.10_2018_02_13_0100.dat - length 11794
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.5.10_2018_02_13_0200.dat - length 9768
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.5.10_2018_02_13_0300.dat - length 8368
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.5.10_2018_02_13_0400.dat - length 8108
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.5.10_2018_02_13_0500.dat - length 11573
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.5.10_2018_02_13_0600.dat - length 12376
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.5.10_2018_02_13_0700.dat - length 21714
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.5.10_2018_02_13_0800.dat - length 24039
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.5.10_2018_02_13_0900.dat - length 25532
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.5.10_2018_02_13_1000.dat - length 25339
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.5.10_2018_02_13_1100.dat - length 27001
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.5.10_2018_02_13_1200.dat - length 29357
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.5.10_2018_02_13_1300.dat - length 28041
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.5.10_2018_02_13_1400.dat - length 25940
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.5.10_2018_02_13_1500.dat - length 27398
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.5.10_2018_02_13_1600.dat - length 27449
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.5.10_2018_02_13_1700.dat - length 27925
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.5.10_2018_02_13_1800.dat - length 28908
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.5.10_2018_02_13_1900.dat - length 28391
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.5.10_2018_02_13_2000.dat - length 25791
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.5.10_2018_02_13_2100.dat - length 25092
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.5.10_2018_02_13_2200.dat - length 25200
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.5.10_2018_02_13_2300.dat - length 21261
+Finished with FTP process.
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.5.15_2018_02_13_0000.dat - length 5877
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.5.15_2018_02_13_0100.dat - length 4871
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.5.15_2018_02_13_0200.dat - length 3925
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.5.15_2018_02_13_0300.dat - length 3114
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.5.15_2018_02_13_0400.dat - length 2801
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.5.15_2018_02_13_0500.dat - length 4793
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.5.15_2018_02_13_0600.dat - length 5731
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.5.15_2018_02_13_0700.dat - length 11532
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.5.15_2018_02_13_0800.dat - length 13278
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.5.15_2018_02_13_0900.dat - length 14071
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.5.15_2018_02_13_1000.dat - length 13106
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.5.15_2018_02_13_1100.dat - length 15464
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.5.15_2018_02_13_1200.dat - length 16204
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.5.15_2018_02_13_1300.dat - length 16846
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.5.15_2018_02_13_1400.dat - length 15911
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.5.15_2018_02_13_1500.dat - length 16773
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.5.15_2018_02_13_1600.dat - length 17088
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.5.15_2018_02_13_1700.dat - length 17507
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.5.15_2018_02_13_1800.dat - length 17741
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.5.15_2018_02_13_1900.dat - length 16831
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.5.15_2018_02_13_2000.dat - length 14198
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.5.15_2018_02_13_2100.dat - length 12851
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.5.15_2018_02_13_2200.dat - length 13947
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.5.15_2018_02_13_2300.dat - length 10616
+Finished with FTP process.
+Started database inserts at 2/14/2018 7:57:03 PM
+Preparing to bulk copy 1055 rows for signal 63011012
+Bulk copy for 63011012 successful
+Done with SIEM_10.160.4.106_2018_02_13_0000.csv at 2/14/2018 7:57:16 PM
+Preparing to bulk copy 779 rows for signal 63011012
+Bulk copy for 63011012 successful
+Done with SIEM_10.160.4.106_2018_02_13_0100.csv at 2/14/2018 7:57:16 PM
+Preparing to bulk copy 574 rows for signal 63011012
+Bulk copy for 63011012 successful
+Done with SIEM_10.160.4.106_2018_02_13_0200.csv at 2/14/2018 7:57:16 PM
+Preparing to bulk copy 743 rows for signal 63011012
+Bulk copy for 63011012 successful
+Done with SIEM_10.160.4.106_2018_02_13_0300.csv at 2/14/2018 7:57:16 PM
+Preparing to bulk copy 1105 rows for signal 63011012
+Bulk copy for 63011012 successful
+Done with SIEM_10.160.4.106_2018_02_13_0400.csv at 2/14/2018 7:57:16 PM
+Preparing to bulk copy 2808 rows for signal 63011012
+Bulk copy for 63011012 successful
+Done with SIEM_10.160.4.106_2018_02_13_0500.csv at 2/14/2018 7:57:16 PM
+Preparing to bulk copy 4515 rows for signal 63011012
+Bulk copy for 63011012 successful
+Done with SIEM_10.160.4.106_2018_02_13_0600.csv at 2/14/2018 7:57:16 PM
+Preparing to bulk copy 6821 rows for signal 63011012
+Bulk copy for 63011012 successful
+Done with SIEM_10.160.4.106_2018_02_13_0700.csv at 2/14/2018 7:57:17 PM
+Preparing to bulk copy 6145 rows for signal 63011012
+Bulk copy for 63011012 successful
+Done with SIEM_10.160.4.106_2018_02_13_0800.csv at 2/14/2018 7:57:17 PM
+Preparing to bulk copy 5583 rows for signal 63011012
+Bulk copy for 63011012 successful
+Done with SIEM_10.160.4.106_2018_02_13_0900.csv at 2/14/2018 7:57:17 PM
+Preparing to bulk copy 5347 rows for signal 63011012
+Bulk copy for 63011012 successful
+Done with SIEM_10.160.4.106_2018_02_13_1000.csv at 2/14/2018 7:57:17 PM
+Preparing to bulk copy 6676 rows for signal 63011012
+Bulk copy for 63011012 successful
+Done with SIEM_10.160.4.106_2018_02_13_1100.csv at 2/14/2018 7:57:17 PM
+Preparing to bulk copy 7489 rows for signal 63011012
+Bulk copy for 63011012 successful
+Done with SIEM_10.160.4.106_2018_02_13_1200.csv at 2/14/2018 7:57:17 PM
+Preparing to bulk copy 8486 rows for signal 63011012
+Bulk copy for 63011012 successful
+Done with SIEM_10.160.4.106_2018_02_13_1300.csv at 2/14/2018 7:57:17 PM
+Preparing to bulk copy 7779 rows for signal 63011012
+Bulk copy for 63011012 successful
+Done with SIEM_10.160.4.106_2018_02_13_1400.csv at 2/14/2018 7:57:17 PM
+Preparing to bulk copy 7734 rows for signal 63011012
+Bulk copy for 63011012 successful
+Done with SIEM_10.160.4.106_2018_02_13_1500.csv at 2/14/2018 7:57:17 PM
+Preparing to bulk copy 7983 rows for signal 63011012
+Bulk copy for 63011012 successful
+Done with SIEM_10.160.4.106_2018_02_13_1600.csv at 2/14/2018 7:57:18 PM
+Preparing to bulk copy 8254 rows for signal 63011012
+Bulk copy for 63011012 successful
+Done with SIEM_10.160.4.106_2018_02_13_1700.csv at 2/14/2018 7:57:18 PM
+Preparing to bulk copy 6735 rows for signal 63011012
+Bulk copy for 63011012 successful
+Done with SIEM_10.160.4.106_2018_02_13_1800.csv at 2/14/2018 7:57:18 PM
+Preparing to bulk copy 5378 rows for signal 63011012
+Bulk copy for 63011012 successful
+Done with SIEM_10.160.4.106_2018_02_13_1900.csv at 2/14/2018 7:57:18 PM
+Preparing to bulk copy 4304 rows for signal 63011012
+Bulk copy for 63011012 successful
+Done with SIEM_10.160.4.106_2018_02_13_2000.csv at 2/14/2018 7:57:18 PM
+Preparing to bulk copy 3865 rows for signal 63011012
+Bulk copy for 63011012 successful
+Done with SIEM_10.160.4.106_2018_02_13_2100.csv at 2/14/2018 7:57:18 PM
+Preparing to bulk copy 4260 rows for signal 63011012
+Bulk copy for 63011012 successful
+Done with SIEM_10.160.4.106_2018_02_13_2200.csv at 2/14/2018 7:57:18 PM
+Preparing to bulk copy 3067 rows for signal 63011012
+Bulk copy for 63011012 successful
+Done with SIEM_10.160.4.106_2018_02_13_2300.csv at 2/14/2018 7:57:18 PM
+Preparing to bulk copy 2377 rows for signal 63011013
+Bulk copy for 63011013 successful
+Done with SIEM_10.160.4.111_2018_02_13_0000.csv at 2/14/2018 7:57:18 PM
+Preparing to bulk copy 1205 rows for signal 63011013
+Bulk copy for 63011013 successful
+Done with SIEM_10.160.4.111_2018_02_13_0100.csv at 2/14/2018 7:57:18 PM
+Preparing to bulk copy 1194 rows for signal 63011013
+Bulk copy for 63011013 successful
+Done with SIEM_10.160.4.111_2018_02_13_0200.csv at 2/14/2018 7:57:18 PM
+Preparing to bulk copy 1916 rows for signal 63011013
+Bulk copy for 63011013 successful
+Done with SIEM_10.160.4.111_2018_02_13_0300.csv at 2/14/2018 7:57:18 PM
+Preparing to bulk copy 3269 rows for signal 63011013
+Bulk copy for 63011013 successful
+Done with SIEM_10.160.4.111_2018_02_13_0400.csv at 2/14/2018 7:57:18 PM
+Preparing to bulk copy 7440 rows for signal 63011013
+Bulk copy for 63011013 successful
+Done with SIEM_10.160.4.111_2018_02_13_0500.csv at 2/14/2018 7:57:19 PM
+Preparing to bulk copy 9156 rows for signal 63011013
+Bulk copy for 63011013 successful
+Done with SIEM_10.160.4.111_2018_02_13_0600.csv at 2/14/2018 7:57:19 PM
+Preparing to bulk copy 11819 rows for signal 63011013
+Bulk copy for 63011013 successful
+Done with SIEM_10.160.4.111_2018_02_13_0700.csv at 2/14/2018 7:57:19 PM
+Preparing to bulk copy 9726 rows for signal 63011013
+Bulk copy for 63011013 successful
+Done with SIEM_10.160.4.111_2018_02_13_0800.csv at 2/14/2018 7:57:19 PM
+Preparing to bulk copy 8908 rows for signal 63011013
+Bulk copy for 63011013 successful
+Done with SIEM_10.160.4.111_2018_02_13_0900.csv at 2/14/2018 7:57:19 PM
+Preparing to bulk copy 8923 rows for signal 63011013
+Bulk copy for 63011013 successful
+Done with SIEM_10.160.4.111_2018_02_13_1000.csv at 2/14/2018 7:57:19 PM
+Preparing to bulk copy 10424 rows for signal 63011013
+Bulk copy for 63011013 successful
+Done with SIEM_10.160.4.111_2018_02_13_1100.csv at 2/14/2018 7:57:19 PM
+Preparing to bulk copy 11727 rows for signal 63011013
+Bulk copy for 63011013 successful
+Done with SIEM_10.160.4.111_2018_02_13_1200.csv at 2/14/2018 7:57:20 PM
+Preparing to bulk copy 12642 rows for signal 63011013
+Bulk copy for 63011013 successful
+Done with SIEM_10.160.4.111_2018_02_13_1300.csv at 2/14/2018 7:57:20 PM
+Preparing to bulk copy 11893 rows for signal 63011013
+Bulk copy for 63011013 successful
+Done with SIEM_10.160.4.111_2018_02_13_1400.csv at 2/14/2018 7:57:20 PM
+Preparing to bulk copy 10429 rows for signal 63011013
+Bulk copy for 63011013 successful
+Done with SIEM_10.160.4.111_2018_02_13_1500.csv at 2/14/2018 7:57:20 PM
+Preparing to bulk copy 12083 rows for signal 63011013
+Bulk copy for 63011013 successful
+Done with SIEM_10.160.4.111_2018_02_13_1600.csv at 2/14/2018 7:57:20 PM
+Preparing to bulk copy 11476 rows for signal 63011013
+Bulk copy for 63011013 successful
+Done with SIEM_10.160.4.111_2018_02_13_1700.csv at 2/14/2018 7:57:20 PM
+Preparing to bulk copy 10351 rows for signal 63011013
+Bulk copy for 63011013 successful
+Done with SIEM_10.160.4.111_2018_02_13_1800.csv at 2/14/2018 7:57:21 PM
+Preparing to bulk copy 8752 rows for signal 63011013
+Bulk copy for 63011013 successful
+Done with SIEM_10.160.4.111_2018_02_13_1900.csv at 2/14/2018 7:57:21 PM
+Preparing to bulk copy 7532 rows for signal 63011013
+Bulk copy for 63011013 successful
+Done with SIEM_10.160.4.111_2018_02_13_2000.csv at 2/14/2018 7:57:21 PM
+Preparing to bulk copy 6863 rows for signal 63011013
+Bulk copy for 63011013 successful
+Done with SIEM_10.160.4.111_2018_02_13_2100.csv at 2/14/2018 7:57:21 PM
+Preparing to bulk copy 8336 rows for signal 63011013
+Bulk copy for 63011013 successful
+Done with SIEM_10.160.4.111_2018_02_13_2200.csv at 2/14/2018 7:57:21 PM
+Preparing to bulk copy 6525 rows for signal 63011013
+Bulk copy for 63011013 successful
+Done with SIEM_10.160.4.111_2018_02_13_2300.csv at 2/14/2018 7:57:21 PM
+Preparing to bulk copy 2699 rows for signal 63215009
+Bulk copy for 63215009 successful
+Done with SIEM_10.160.4.231_2018_02_13_0000.csv at 2/14/2018 7:57:21 PM
+Preparing to bulk copy 1445 rows for signal 63215009
+Bulk copy for 63215009 successful
+Done with SIEM_10.160.4.231_2018_02_13_0100.csv at 2/14/2018 7:57:21 PM
+Preparing to bulk copy 1040 rows for signal 63215009
+Bulk copy for 63215009 successful
+Done with SIEM_10.160.4.231_2018_02_13_0200.csv at 2/14/2018 7:57:21 PM
+Preparing to bulk copy 726 rows for signal 63215009
+Bulk copy for 63215009 successful
+Done with SIEM_10.160.4.231_2018_02_13_0300.csv at 2/14/2018 7:57:21 PM
+Preparing to bulk copy 672 rows for signal 63215009
+Bulk copy for 63215009 successful
+Done with SIEM_10.160.4.231_2018_02_13_0400.csv at 2/14/2018 7:57:21 PM
+Preparing to bulk copy 1524 rows for signal 63215009
+Bulk copy for 63215009 successful
+Done with SIEM_10.160.4.231_2018_02_13_0500.csv at 2/14/2018 7:57:21 PM
+Preparing to bulk copy 3579 rows for signal 63215009
+Bulk copy for 63215009 successful
+Done with SIEM_10.160.4.231_2018_02_13_0600.csv at 2/14/2018 7:57:22 PM
+Preparing to bulk copy 7275 rows for signal 63215009
+Bulk copy for 63215009 successful
+Done with SIEM_10.160.4.231_2018_02_13_0700.csv at 2/14/2018 7:57:22 PM
+Preparing to bulk copy 7653 rows for signal 63215009
+Bulk copy for 63215009 successful
+Done with SIEM_10.160.4.231_2018_02_13_0800.csv at 2/14/2018 7:57:22 PM
+Preparing to bulk copy 8072 rows for signal 63215009
+Bulk copy for 63215009 successful
+Done with SIEM_10.160.4.231_2018_02_13_0900.csv at 2/14/2018 7:57:22 PM
+Preparing to bulk copy 8010 rows for signal 63215009
+Bulk copy for 63215009 successful
+Done with SIEM_10.160.4.231_2018_02_13_1000.csv at 2/14/2018 7:57:22 PM
+Preparing to bulk copy 7590 rows for signal 63215009
+Bulk copy for 63215009 successful
+Done with SIEM_10.160.4.231_2018_02_13_1100.csv at 2/14/2018 7:57:22 PM
+Preparing to bulk copy 8710 rows for signal 63215009
+Bulk copy for 63215009 successful
+Done with SIEM_10.160.4.231_2018_02_13_1200.csv at 2/14/2018 7:57:22 PM
+Preparing to bulk copy 8262 rows for signal 63215009
+Bulk copy for 63215009 successful
+Done with SIEM_10.160.4.231_2018_02_13_1300.csv at 2/14/2018 7:57:22 PM
+Preparing to bulk copy 7734 rows for signal 63215009
+Bulk copy for 63215009 successful
+Done with SIEM_10.160.4.231_2018_02_13_1400.csv at 2/14/2018 7:57:23 PM
+Preparing to bulk copy 8670 rows for signal 63215009
+Bulk copy for 63215009 successful
+Done with SIEM_10.160.4.231_2018_02_13_1500.csv at 2/14/2018 7:57:23 PM
+Preparing to bulk copy 8354 rows for signal 63215009
+Bulk copy for 63215009 successful
+Done with SIEM_10.160.4.231_2018_02_13_1600.csv at 2/14/2018 7:57:23 PM
+Preparing to bulk copy 8507 rows for signal 63215009
+Bulk copy for 63215009 successful
+Done with SIEM_10.160.4.231_2018_02_13_1700.csv at 2/14/2018 7:57:23 PM
+Preparing to bulk copy 7961 rows for signal 63215009
+Bulk copy for 63215009 successful
+Done with SIEM_10.160.4.231_2018_02_13_1800.csv at 2/14/2018 7:57:23 PM
+Preparing to bulk copy 8051 rows for signal 63215009
+Bulk copy for 63215009 successful
+Done with SIEM_10.160.4.231_2018_02_13_1900.csv at 2/14/2018 7:57:23 PM
+Preparing to bulk copy 7403 rows for signal 63215009
+Bulk copy for 63215009 successful
+Done with SIEM_10.160.4.231_2018_02_13_2000.csv at 2/14/2018 7:57:23 PM
+Preparing to bulk copy 7091 rows for signal 63215009
+Bulk copy for 63215009 successful
+Done with SIEM_10.160.4.231_2018_02_13_2100.csv at 2/14/2018 7:57:23 PM
+Preparing to bulk copy 6589 rows for signal 63215009
+Bulk copy for 63215009 successful
+Done with SIEM_10.160.4.231_2018_02_13_2200.csv at 2/14/2018 7:57:24 PM
+Preparing to bulk copy 4796 rows for signal 63215009
+Bulk copy for 63215009 successful
+Done with SIEM_10.160.4.231_2018_02_13_2300.csv at 2/14/2018 7:57:24 PM
+Preparing to bulk copy 4494 rows for signal 63215008
+Bulk copy for 63215008 successful
+Done with SIEM_10.160.4.236_2018_02_13_0000.csv at 2/14/2018 7:57:24 PM
+Preparing to bulk copy 3893 rows for signal 63215008
+Bulk copy for 63215008 successful
+Done with SIEM_10.160.4.236_2018_02_13_0100.csv at 2/14/2018 7:57:24 PM
+Preparing to bulk copy 1979 rows for signal 63215008
+Bulk copy for 63215008 successful
+Done with SIEM_10.160.4.236_2018_02_13_0200.csv at 2/14/2018 7:57:24 PM
+Preparing to bulk copy 1748 rows for signal 63215008
+Bulk copy for 63215008 successful
+Done with SIEM_10.160.4.236_2018_02_13_0300.csv at 2/14/2018 7:57:24 PM
+Preparing to bulk copy 819 rows for signal 63215008
+Bulk copy for 63215008 successful
+Done with SIEM_10.160.4.236_2018_02_13_0400.csv at 2/14/2018 7:57:24 PM
+Preparing to bulk copy 2606 rows for signal 63215008
+Bulk copy for 63215008 successful
+Done with SIEM_10.160.4.236_2018_02_13_0500.csv at 2/14/2018 7:57:24 PM
+Preparing to bulk copy 3766 rows for signal 63215008
+Bulk copy for 63215008 successful
+Done with SIEM_10.160.4.236_2018_02_13_0600.csv at 2/14/2018 7:57:24 PM
+Preparing to bulk copy 6494 rows for signal 63215008
+Bulk copy for 63215008 successful
+Done with SIEM_10.160.4.236_2018_02_13_0700.csv at 2/14/2018 7:57:24 PM
+Preparing to bulk copy 7198 rows for signal 63215008
+Bulk copy for 63215008 successful
+Done with SIEM_10.160.4.236_2018_02_13_0800.csv at 2/14/2018 7:57:24 PM
+Preparing to bulk copy 7861 rows for signal 63215008
+Bulk copy for 63215008 successful
+Done with SIEM_10.160.4.236_2018_02_13_0900.csv at 2/14/2018 7:57:24 PM
+Preparing to bulk copy 7349 rows for signal 63215008
+Bulk copy for 63215008 successful
+Done with SIEM_10.160.4.236_2018_02_13_1000.csv at 2/14/2018 7:57:24 PM
+Preparing to bulk copy 7736 rows for signal 63215008
+Bulk copy for 63215008 successful
+Done with SIEM_10.160.4.236_2018_02_13_1100.csv at 2/14/2018 7:57:25 PM
+Preparing to bulk copy 7735 rows for signal 63215008
+Bulk copy for 63215008 successful
+Done with SIEM_10.160.4.236_2018_02_13_1200.csv at 2/14/2018 7:57:25 PM
+Preparing to bulk copy 7711 rows for signal 63215008
+Bulk copy for 63215008 successful
+Done with SIEM_10.160.4.236_2018_02_13_1300.csv at 2/14/2018 7:57:25 PM
+Preparing to bulk copy 7027 rows for signal 63215008
+Bulk copy for 63215008 successful
+Done with SIEM_10.160.4.236_2018_02_13_1400.csv at 2/14/2018 7:57:25 PM
+Preparing to bulk copy 7690 rows for signal 63215008
+Bulk copy for 63215008 successful
+Done with SIEM_10.160.4.236_2018_02_13_1500.csv at 2/14/2018 7:57:25 PM
+Preparing to bulk copy 7287 rows for signal 63215008
+Bulk copy for 63215008 successful
+Done with SIEM_10.160.4.236_2018_02_13_1600.csv at 2/14/2018 7:57:25 PM
+Preparing to bulk copy 7022 rows for signal 63215008
+Bulk copy for 63215008 successful
+Done with SIEM_10.160.4.236_2018_02_13_1700.csv at 2/14/2018 7:57:25 PM
+Preparing to bulk copy 7194 rows for signal 63215008
+Bulk copy for 63215008 successful
+Done with SIEM_10.160.4.236_2018_02_13_1800.csv at 2/14/2018 7:57:25 PM
+Preparing to bulk copy 7099 rows for signal 63215008
+Bulk copy for 63215008 successful
+Done with SIEM_10.160.4.236_2018_02_13_1900.csv at 2/14/2018 7:57:26 PM
+Preparing to bulk copy 6693 rows for signal 63215008
+Bulk copy for 63215008 successful
+Done with SIEM_10.160.4.236_2018_02_13_2000.csv at 2/14/2018 7:57:26 PM
+Preparing to bulk copy 6418 rows for signal 63215008
+Bulk copy for 63215008 successful
+Done with SIEM_10.160.4.236_2018_02_13_2100.csv at 2/14/2018 7:57:26 PM
+Preparing to bulk copy 5858 rows for signal 63215008
+Bulk copy for 63215008 successful
+Done with SIEM_10.160.4.236_2018_02_13_2200.csv at 2/14/2018 7:57:26 PM
+Preparing to bulk copy 5729 rows for signal 63215008
+Bulk copy for 63215008 successful
+Done with SIEM_10.160.4.236_2018_02_13_2300.csv at 2/14/2018 7:57:26 PM
+Preparing to bulk copy 1861 rows for signal 63215007
+Bulk copy for 63215007 successful
+Done with SIEM_10.160.4.241_2018_02_13_0000.csv at 2/14/2018 7:57:26 PM
+Preparing to bulk copy 1286 rows for signal 63215007
+Bulk copy for 63215007 successful
+Done with SIEM_10.160.4.241_2018_02_13_0100.csv at 2/14/2018 7:57:26 PM
+Preparing to bulk copy 588 rows for signal 63215007
+Bulk copy for 63215007 successful
+Done with SIEM_10.160.4.241_2018_02_13_0200.csv at 2/14/2018 7:57:26 PM
+Preparing to bulk copy 423 rows for signal 63215007
+Bulk copy for 63215007 successful
+Done with SIEM_10.160.4.241_2018_02_13_0300.csv at 2/14/2018 7:57:26 PM
+Preparing to bulk copy 296 rows for signal 63215007
+Bulk copy for 63215007 successful
+Done with SIEM_10.160.4.241_2018_02_13_0400.csv at 2/14/2018 7:57:26 PM
+Preparing to bulk copy 1126 rows for signal 63215007
+Bulk copy for 63215007 successful
+Done with SIEM_10.160.4.241_2018_02_13_0500.csv at 2/14/2018 7:57:26 PM
+Preparing to bulk copy 1780 rows for signal 63215007
+Bulk copy for 63215007 successful
+Done with SIEM_10.160.4.241_2018_02_13_0600.csv at 2/14/2018 7:57:26 PM
+Preparing to bulk copy 4818 rows for signal 63215007
+Bulk copy for 63215007 successful
+Done with SIEM_10.160.4.241_2018_02_13_0700.csv at 2/14/2018 7:57:26 PM
+Preparing to bulk copy 5354 rows for signal 63215007
+Bulk copy for 63215007 successful
+Done with SIEM_10.160.4.241_2018_02_13_0800.csv at 2/14/2018 7:57:26 PM
+Preparing to bulk copy 5655 rows for signal 63215007
+Bulk copy for 63215007 successful
+Done with SIEM_10.160.4.241_2018_02_13_0900.csv at 2/14/2018 7:57:26 PM
+Preparing to bulk copy 5344 rows for signal 63215007
+Bulk copy for 63215007 successful
+Done with SIEM_10.160.4.241_2018_02_13_1000.csv at 2/14/2018 7:57:27 PM
+Preparing to bulk copy 5473 rows for signal 63215007
+Bulk copy for 63215007 successful
+Done with SIEM_10.160.4.241_2018_02_13_1100.csv at 2/14/2018 7:57:27 PM
+Preparing to bulk copy 5549 rows for signal 63215007
+Bulk copy for 63215007 successful
+Done with SIEM_10.160.4.241_2018_02_13_1200.csv at 2/14/2018 7:57:27 PM
+Preparing to bulk copy 5494 rows for signal 63215007
+Bulk copy for 63215007 successful
+Done with SIEM_10.160.4.241_2018_02_13_1300.csv at 2/14/2018 7:57:27 PM
+Preparing to bulk copy 5318 rows for signal 63215007
+Bulk copy for 63215007 successful
+Done with SIEM_10.160.4.241_2018_02_13_1400.csv at 2/14/2018 7:57:27 PM
+Preparing to bulk copy 5162 rows for signal 63215007
+Bulk copy for 63215007 successful
+Done with SIEM_10.160.4.241_2018_02_13_1500.csv at 2/14/2018 7:57:27 PM
+Preparing to bulk copy 5537 rows for signal 63215007
+Bulk copy for 63215007 successful
+Done with SIEM_10.160.4.241_2018_02_13_1600.csv at 2/14/2018 7:57:27 PM
+Preparing to bulk copy 5550 rows for signal 63215007
+Bulk copy for 63215007 successful
+Done with SIEM_10.160.4.241_2018_02_13_1700.csv at 2/14/2018 7:57:27 PM
+Preparing to bulk copy 5309 rows for signal 63215007
+Bulk copy for 63215007 successful
+Done with SIEM_10.160.4.241_2018_02_13_1800.csv at 2/14/2018 7:57:27 PM
+Preparing to bulk copy 4931 rows for signal 63215007
+Bulk copy for 63215007 successful
+Done with SIEM_10.160.4.241_2018_02_13_1900.csv at 2/14/2018 7:57:27 PM
+Preparing to bulk copy 4969 rows for signal 63215007
+Bulk copy for 63215007 successful
+Done with SIEM_10.160.4.241_2018_02_13_2000.csv at 2/14/2018 7:57:28 PM
+Preparing to bulk copy 4678 rows for signal 63215007
+Bulk copy for 63215007 successful
+Done with SIEM_10.160.4.241_2018_02_13_2100.csv at 2/14/2018 7:57:28 PM
+Preparing to bulk copy 4102 rows for signal 63215007
+Bulk copy for 63215007 successful
+Done with SIEM_10.160.4.241_2018_02_13_2200.csv at 2/14/2018 7:57:28 PM
+Preparing to bulk copy 3315 rows for signal 63215007
+Bulk copy for 63215007 successful
+Done with SIEM_10.160.4.241_2018_02_13_2300.csv at 2/14/2018 7:57:28 PM
+Preparing to bulk copy 420 rows for signal 63215006
+Bulk copy for 63215006 successful
+Done with SIEM_10.160.4.246_2018_02_13_0000.csv at 2/14/2018 7:57:28 PM
+Preparing to bulk copy 232 rows for signal 63215006
+Bulk copy for 63215006 successful
+Done with SIEM_10.160.4.246_2018_02_13_0100.csv at 2/14/2018 7:57:28 PM
+Preparing to bulk copy 114 rows for signal 63215006
+Bulk copy for 63215006 successful
+Done with SIEM_10.160.4.246_2018_02_13_0200.csv at 2/14/2018 7:57:28 PM
+Preparing to bulk copy 72 rows for signal 63215006
+Bulk copy for 63215006 successful
+Done with SIEM_10.160.4.246_2018_02_13_0300.csv at 2/14/2018 7:57:28 PM
+Preparing to bulk copy 129 rows for signal 63215006
+Bulk copy for 63215006 successful
+Done with SIEM_10.160.4.246_2018_02_13_0400.csv at 2/14/2018 7:57:28 PM
+Preparing to bulk copy 278 rows for signal 63215006
+Bulk copy for 63215006 successful
+Done with SIEM_10.160.4.246_2018_02_13_0500.csv at 2/14/2018 7:57:28 PM
+Preparing to bulk copy 487 rows for signal 63215006
+Bulk copy for 63215006 successful
+Done with SIEM_10.160.4.246_2018_02_13_0600.csv at 2/14/2018 7:57:28 PM
+Preparing to bulk copy 2444 rows for signal 63215006
+Bulk copy for 63215006 successful
+Done with SIEM_10.160.4.246_2018_02_13_0700.csv at 2/14/2018 7:57:28 PM
+Preparing to bulk copy 3015 rows for signal 63215006
+Bulk copy for 63215006 successful
+Done with SIEM_10.160.4.246_2018_02_13_0800.csv at 2/14/2018 7:57:28 PM
+Preparing to bulk copy 3299 rows for signal 63215006
+Bulk copy for 63215006 successful
+Done with SIEM_10.160.4.246_2018_02_13_0900.csv at 2/14/2018 7:57:28 PM
+Preparing to bulk copy 3184 rows for signal 63215006
+Bulk copy for 63215006 successful
+Done with SIEM_10.160.4.246_2018_02_13_1000.csv at 2/14/2018 7:57:28 PM
+Preparing to bulk copy 3774 rows for signal 63215006
+Bulk copy for 63215006 successful
+Done with SIEM_10.160.4.246_2018_02_13_1100.csv at 2/14/2018 7:57:28 PM
+Preparing to bulk copy 4080 rows for signal 63215006
+Bulk copy for 63215006 successful
+Done with SIEM_10.160.4.246_2018_02_13_1200.csv at 2/14/2018 7:57:28 PM
+Preparing to bulk copy 4023 rows for signal 63215006
+Bulk copy for 63215006 successful
+Done with SIEM_10.160.4.246_2018_02_13_1300.csv at 2/14/2018 7:57:28 PM
+Preparing to bulk copy 3507 rows for signal 63215006
+Bulk copy for 63215006 successful
+Done with SIEM_10.160.4.246_2018_02_13_1400.csv at 2/14/2018 7:57:28 PM
+Preparing to bulk copy 3910 rows for signal 63215006
+Bulk copy for 63215006 successful
+Done with SIEM_10.160.4.246_2018_02_13_1500.csv at 2/14/2018 7:57:29 PM
+Preparing to bulk copy 3896 rows for signal 63215006
+Bulk copy for 63215006 successful
+Done with SIEM_10.160.4.246_2018_02_13_1600.csv at 2/14/2018 7:57:29 PM
+Preparing to bulk copy 4003 rows for signal 63215006
+Bulk copy for 63215006 successful
+Done with SIEM_10.160.4.246_2018_02_13_1700.csv at 2/14/2018 7:57:29 PM
+Preparing to bulk copy 4317 rows for signal 63215006
+Bulk copy for 63215006 successful
+Done with SIEM_10.160.4.246_2018_02_13_1800.csv at 2/14/2018 7:57:29 PM
+Preparing to bulk copy 3831 rows for signal 63215006
+Bulk copy for 63215006 successful
+Done with SIEM_10.160.4.246_2018_02_13_1900.csv at 2/14/2018 7:57:29 PM
+Preparing to bulk copy 2760 rows for signal 63215006
+Bulk copy for 63215006 successful
+Done with SIEM_10.160.4.246_2018_02_13_2000.csv at 2/14/2018 7:57:29 PM
+Preparing to bulk copy 1555 rows for signal 63215006
+Bulk copy for 63215006 successful
+Done with SIEM_10.160.4.246_2018_02_13_2100.csv at 2/14/2018 7:57:29 PM
+Preparing to bulk copy 1921 rows for signal 63215006
+Bulk copy for 63215006 successful
+Done with SIEM_10.160.4.246_2018_02_13_2200.csv at 2/14/2018 7:57:29 PM
+Preparing to bulk copy 1051 rows for signal 63215006
+Bulk copy for 63215006 successful
+Done with SIEM_10.160.4.246_2018_02_13_2300.csv at 2/14/2018 7:57:29 PM
+Preparing to bulk copy 344 rows for signal 63215005
+Bulk copy for 63215005 successful
+Done with SIEM_10.160.4.251_2018_02_13_0000.csv at 2/14/2018 7:57:29 PM
+Preparing to bulk copy 281 rows for signal 63215005
+Bulk copy for 63215005 successful
+Done with SIEM_10.160.4.251_2018_02_13_0100.csv at 2/14/2018 7:57:29 PM
+Preparing to bulk copy 112 rows for signal 63215005
+Bulk copy for 63215005 successful
+Done with SIEM_10.160.4.251_2018_02_13_0200.csv at 2/14/2018 7:57:29 PM
+Preparing to bulk copy 72 rows for signal 63215005
+Bulk copy for 63215005 successful
+Done with SIEM_10.160.4.251_2018_02_13_0300.csv at 2/14/2018 7:57:29 PM
+Preparing to bulk copy 52 rows for signal 63215005
+Bulk copy for 63215005 successful
+Done with SIEM_10.160.4.251_2018_02_13_0400.csv at 2/14/2018 7:57:29 PM
+Preparing to bulk copy 208 rows for signal 63215005
+Bulk copy for 63215005 successful
+Done with SIEM_10.160.4.251_2018_02_13_0500.csv at 2/14/2018 7:57:29 PM
+Preparing to bulk copy 384 rows for signal 63215005
+Bulk copy for 63215005 successful
+Done with SIEM_10.160.4.251_2018_02_13_0600.csv at 2/14/2018 7:57:29 PM
+Preparing to bulk copy 2459 rows for signal 63215005
+Bulk copy for 63215005 successful
+Done with SIEM_10.160.4.251_2018_02_13_0700.csv at 2/14/2018 7:57:29 PM
+Preparing to bulk copy 3241 rows for signal 63215005
+Bulk copy for 63215005 successful
+Done with SIEM_10.160.4.251_2018_02_13_0800.csv at 2/14/2018 7:57:29 PM
+Preparing to bulk copy 3231 rows for signal 63215005
+Bulk copy for 63215005 successful
+Done with SIEM_10.160.4.251_2018_02_13_0900.csv at 2/14/2018 7:57:30 PM
+Preparing to bulk copy 3305 rows for signal 63215005
+Bulk copy for 63215005 successful
+Done with SIEM_10.160.4.251_2018_02_13_1000.csv at 2/14/2018 7:57:30 PM
+Preparing to bulk copy 3808 rows for signal 63215005
+Bulk copy for 63215005 successful
+Done with SIEM_10.160.4.251_2018_02_13_1100.csv at 2/14/2018 7:57:30 PM
+Preparing to bulk copy 3770 rows for signal 63215005
+Bulk copy for 63215005 successful
+Done with SIEM_10.160.4.251_2018_02_13_1200.csv at 2/14/2018 7:57:30 PM
+Preparing to bulk copy 3613 rows for signal 63215005
+Bulk copy for 63215005 successful
+Done with SIEM_10.160.4.251_2018_02_13_1300.csv at 2/14/2018 7:57:30 PM
+Preparing to bulk copy 3539 rows for signal 63215005
+Bulk copy for 63215005 successful
+Done with SIEM_10.160.4.251_2018_02_13_1400.csv at 2/14/2018 7:57:30 PM
+Preparing to bulk copy 3910 rows for signal 63215005
+Bulk copy for 63215005 successful
+Done with SIEM_10.160.4.251_2018_02_13_1500.csv at 2/14/2018 7:57:30 PM
+Preparing to bulk copy 3911 rows for signal 63215005
+Bulk copy for 63215005 successful
+Done with SIEM_10.160.4.251_2018_02_13_1600.csv at 2/14/2018 7:57:30 PM
+Preparing to bulk copy 3976 rows for signal 63215005
+Bulk copy for 63215005 successful
+Done with SIEM_10.160.4.251_2018_02_13_1700.csv at 2/14/2018 7:57:30 PM
+Preparing to bulk copy 4216 rows for signal 63215005
+Bulk copy for 63215005 successful
+Done with SIEM_10.160.4.251_2018_02_13_1800.csv at 2/14/2018 7:57:30 PM
+Preparing to bulk copy 3913 rows for signal 63215005
+Bulk copy for 63215005 successful
+Done with SIEM_10.160.4.251_2018_02_13_1900.csv at 2/14/2018 7:57:30 PM
+Preparing to bulk copy 2941 rows for signal 63215005
+Bulk copy for 63215005 successful
+Done with SIEM_10.160.4.251_2018_02_13_2000.csv at 2/14/2018 7:57:30 PM
+Preparing to bulk copy 1500 rows for signal 63215005
+Bulk copy for 63215005 successful
+Done with SIEM_10.160.4.251_2018_02_13_2100.csv at 2/14/2018 7:57:30 PM
+Preparing to bulk copy 1817 rows for signal 63215005
+Bulk copy for 63215005 successful
+Done with SIEM_10.160.4.251_2018_02_13_2200.csv at 2/14/2018 7:57:30 PM
+Preparing to bulk copy 892 rows for signal 63215005
+Bulk copy for 63215005 successful
+Done with SIEM_10.160.4.251_2018_02_13_2300.csv at 2/14/2018 7:57:30 PM
+Preparing to bulk copy 1676 rows for signal 63215004
+Bulk copy for 63215004 successful
+Done with SIEM_10.160.5.0_2018_02_13_0000.csv at 2/14/2018 7:57:31 PM
+Preparing to bulk copy 1470 rows for signal 63215004
+Bulk copy for 63215004 successful
+Done with SIEM_10.160.5.0_2018_02_13_0100.csv at 2/14/2018 7:57:31 PM
+Preparing to bulk copy 1141 rows for signal 63215004
+Bulk copy for 63215004 successful
+Done with SIEM_10.160.5.0_2018_02_13_0200.csv at 2/14/2018 7:57:31 PM
+Preparing to bulk copy 994 rows for signal 63215004
+Bulk copy for 63215004 successful
+Done with SIEM_10.160.5.0_2018_02_13_0300.csv at 2/14/2018 7:57:31 PM
+Preparing to bulk copy 961 rows for signal 63215004
+Bulk copy for 63215004 successful
+Done with SIEM_10.160.5.0_2018_02_13_0400.csv at 2/14/2018 7:57:31 PM
+Preparing to bulk copy 1214 rows for signal 63215004
+Bulk copy for 63215004 successful
+Done with SIEM_10.160.5.0_2018_02_13_0500.csv at 2/14/2018 7:57:31 PM
+Preparing to bulk copy 1811 rows for signal 63215004
+Bulk copy for 63215004 successful
+Done with SIEM_10.160.5.0_2018_02_13_0600.csv at 2/14/2018 7:57:31 PM
+Preparing to bulk copy 4307 rows for signal 63215004
+Bulk copy for 63215004 successful
+Done with SIEM_10.160.5.0_2018_02_13_0700.csv at 2/14/2018 7:57:31 PM
+Preparing to bulk copy 4926 rows for signal 63215004
+Bulk copy for 63215004 successful
+Done with SIEM_10.160.5.0_2018_02_13_0800.csv at 2/14/2018 7:57:31 PM
+Preparing to bulk copy 5402 rows for signal 63215004
+Bulk copy for 63215004 successful
+Done with SIEM_10.160.5.0_2018_02_13_0900.csv at 2/14/2018 7:57:31 PM
+Preparing to bulk copy 5072 rows for signal 63215004
+Bulk copy for 63215004 successful
+Done with SIEM_10.160.5.0_2018_02_13_1000.csv at 2/14/2018 7:57:31 PM
+Preparing to bulk copy 5089 rows for signal 63215004
+Bulk copy for 63215004 successful
+Done with SIEM_10.160.5.0_2018_02_13_1100.csv at 2/14/2018 7:57:31 PM
+Preparing to bulk copy 5428 rows for signal 63215004
+Bulk copy for 63215004 successful
+Done with SIEM_10.160.5.0_2018_02_13_1200.csv at 2/14/2018 7:57:31 PM
+Preparing to bulk copy 5508 rows for signal 63215004
+Bulk copy for 63215004 successful
+Done with SIEM_10.160.5.0_2018_02_13_1300.csv at 2/14/2018 7:57:31 PM
+Preparing to bulk copy 5215 rows for signal 63215004
+Bulk copy for 63215004 successful
+Done with SIEM_10.160.5.0_2018_02_13_1400.csv at 2/14/2018 7:57:32 PM
+Preparing to bulk copy 5558 rows for signal 63215004
+Bulk copy for 63215004 successful
+Done with SIEM_10.160.5.0_2018_02_13_1500.csv at 2/14/2018 7:57:32 PM
+Preparing to bulk copy 5743 rows for signal 63215004
+Bulk copy for 63215004 successful
+Done with SIEM_10.160.5.0_2018_02_13_1600.csv at 2/14/2018 7:57:32 PM
+Preparing to bulk copy 5769 rows for signal 63215004
+Bulk copy for 63215004 successful
+Done with SIEM_10.160.5.0_2018_02_13_1700.csv at 2/14/2018 7:57:32 PM
+Preparing to bulk copy 6025 rows for signal 63215004
+Bulk copy for 63215004 successful
+Done with SIEM_10.160.5.0_2018_02_13_1800.csv at 2/14/2018 7:57:32 PM
+Preparing to bulk copy 5412 rows for signal 63215004
+Bulk copy for 63215004 successful
+Done with SIEM_10.160.5.0_2018_02_13_1900.csv at 2/14/2018 7:57:32 PM
+Preparing to bulk copy 4586 rows for signal 63215004
+Bulk copy for 63215004 successful
+Done with SIEM_10.160.5.0_2018_02_13_2000.csv at 2/14/2018 7:57:32 PM
+Preparing to bulk copy 3566 rows for signal 63215004
+Bulk copy for 63215004 successful
+Done with SIEM_10.160.5.0_2018_02_13_2100.csv at 2/14/2018 7:57:32 PM
+Preparing to bulk copy 4244 rows for signal 63215004
+Bulk copy for 63215004 successful
+Done with SIEM_10.160.5.0_2018_02_13_2200.csv at 2/14/2018 7:57:32 PM
+Preparing to bulk copy 2465 rows for signal 63215004
+Bulk copy for 63215004 successful
+Done with SIEM_10.160.5.0_2018_02_13_2300.csv at 2/14/2018 7:57:32 PM
+Preparing to bulk copy 5095 rows for signal 63215002
+Bulk copy for 63215002 successful
+Done with SIEM_10.160.5.10_2018_02_13_0000.csv at 2/14/2018 7:57:33 PM
+Preparing to bulk copy 4673 rows for signal 63215002
+Bulk copy for 63215002 successful
+Done with SIEM_10.160.5.10_2018_02_13_0100.csv at 2/14/2018 7:57:33 PM
+Preparing to bulk copy 4062 rows for signal 63215002
+Bulk copy for 63215002 successful
+Done with SIEM_10.160.5.10_2018_02_13_0200.csv at 2/14/2018 7:57:33 PM
+Preparing to bulk copy 3661 rows for signal 63215002
+Bulk copy for 63215002 successful
+Done with SIEM_10.160.5.10_2018_02_13_0300.csv at 2/14/2018 7:57:33 PM
+Preparing to bulk copy 3577 rows for signal 63215002
+Bulk copy for 63215002 successful
+Done with SIEM_10.160.5.10_2018_02_13_0400.csv at 2/14/2018 7:57:33 PM
+Preparing to bulk copy 4602 rows for signal 63215002
+Bulk copy for 63215002 successful
+Done with SIEM_10.160.5.10_2018_02_13_0500.csv at 2/14/2018 7:57:33 PM
+Preparing to bulk copy 4829 rows for signal 63215002
+Bulk copy for 63215002 successful
+Done with SIEM_10.160.5.10_2018_02_13_0600.csv at 2/14/2018 7:57:33 PM
+Preparing to bulk copy 7721 rows for signal 63215002
+Bulk copy for 63215002 successful
+Done with SIEM_10.160.5.10_2018_02_13_0700.csv at 2/14/2018 7:57:33 PM
+Preparing to bulk copy 8442 rows for signal 63215002
+Bulk copy for 63215002 successful
+Done with SIEM_10.160.5.10_2018_02_13_0800.csv at 2/14/2018 7:57:33 PM
+Preparing to bulk copy 8898 rows for signal 63215002
+Bulk copy for 63215002 successful
+Done with SIEM_10.160.5.10_2018_02_13_0900.csv at 2/14/2018 7:57:33 PM
+Preparing to bulk copy 8912 rows for signal 63215002
+Bulk copy for 63215002 successful
+Done with SIEM_10.160.5.10_2018_02_13_1000.csv at 2/14/2018 7:57:34 PM
+Preparing to bulk copy 9369 rows for signal 63215002
+Bulk copy for 63215002 successful
+Done with SIEM_10.160.5.10_2018_02_13_1100.csv at 2/14/2018 7:57:34 PM
+Preparing to bulk copy 10184 rows for signal 63215002
+Bulk copy for 63215002 successful
+Done with SIEM_10.160.5.10_2018_02_13_1200.csv at 2/14/2018 7:57:34 PM
+Preparing to bulk copy 9733 rows for signal 63215002
+Bulk copy for 63215002 successful
+Done with SIEM_10.160.5.10_2018_02_13_1300.csv at 2/14/2018 7:57:34 PM
+Preparing to bulk copy 9089 rows for signal 63215002
+Bulk copy for 63215002 successful
+Done with SIEM_10.160.5.10_2018_02_13_1400.csv at 2/14/2018 7:57:34 PM
+Preparing to bulk copy 9645 rows for signal 63215002
+Bulk copy for 63215002 successful
+Done with SIEM_10.160.5.10_2018_02_13_1500.csv at 2/14/2018 7:57:34 PM
+Preparing to bulk copy 9475 rows for signal 63215002
+Bulk copy for 63215002 successful
+Done with SIEM_10.160.5.10_2018_02_13_1600.csv at 2/14/2018 7:57:34 PM
+Preparing to bulk copy 9529 rows for signal 63215002
+Bulk copy for 63215002 successful
+Done with SIEM_10.160.5.10_2018_02_13_1700.csv at 2/14/2018 7:57:35 PM
+Preparing to bulk copy 9936 rows for signal 63215002
+Bulk copy for 63215002 successful
+Done with SIEM_10.160.5.10_2018_02_13_1800.csv at 2/14/2018 7:57:35 PM
+Preparing to bulk copy 9824 rows for signal 63215002
+Bulk copy for 63215002 successful
+Done with SIEM_10.160.5.10_2018_02_13_1900.csv at 2/14/2018 7:57:35 PM
+Preparing to bulk copy 8967 rows for signal 63215002
+Bulk copy for 63215002 successful
+Done with SIEM_10.160.5.10_2018_02_13_2000.csv at 2/14/2018 7:57:35 PM
+Preparing to bulk copy 8655 rows for signal 63215002
+Bulk copy for 63215002 successful
+Done with SIEM_10.160.5.10_2018_02_13_2100.csv at 2/14/2018 7:57:35 PM
+Preparing to bulk copy 8693 rows for signal 63215002
+Bulk copy for 63215002 successful
+Done with SIEM_10.160.5.10_2018_02_13_2200.csv at 2/14/2018 7:57:35 PM
+Preparing to bulk copy 7552 rows for signal 63215002
+Bulk copy for 63215002 successful
+Done with SIEM_10.160.5.10_2018_02_13_2300.csv at 2/14/2018 7:57:35 PM
+Preparing to bulk copy 1753 rows for signal 63215001
+Bulk copy for 63215001 successful
+Done with SIEM_10.160.5.15_2018_02_13_0000.csv at 2/14/2018 7:57:35 PM
+Preparing to bulk copy 1506 rows for signal 63215001
+Bulk copy for 63215001 successful
+Done with SIEM_10.160.5.15_2018_02_13_0100.csv at 2/14/2018 7:57:35 PM
+Preparing to bulk copy 1236 rows for signal 63215001
+Bulk copy for 63215001 successful
+Done with SIEM_10.160.5.15_2018_02_13_0200.csv at 2/14/2018 7:57:35 PM
+Preparing to bulk copy 1017 rows for signal 63215001
+Bulk copy for 63215001 successful
+Done with SIEM_10.160.5.15_2018_02_13_0300.csv at 2/14/2018 7:57:35 PM
+Preparing to bulk copy 917 rows for signal 63215001
+Bulk copy for 63215001 successful
+Done with SIEM_10.160.5.15_2018_02_13_0400.csv at 2/14/2018 7:57:35 PM
+Preparing to bulk copy 1456 rows for signal 63215001
+Bulk copy for 63215001 successful
+Done with SIEM_10.160.5.15_2018_02_13_0500.csv at 2/14/2018 7:57:35 PM
+Preparing to bulk copy 1704 rows for signal 63215001
+Bulk copy for 63215001 successful
+Done with SIEM_10.160.5.15_2018_02_13_0600.csv at 2/14/2018 7:57:36 PM
+Preparing to bulk copy 3249 rows for signal 63215001
+Bulk copy for 63215001 successful
+Done with SIEM_10.160.5.15_2018_02_13_0700.csv at 2/14/2018 7:57:36 PM
+Preparing to bulk copy 3701 rows for signal 63215001
+Bulk copy for 63215001 successful
+Done with SIEM_10.160.5.15_2018_02_13_0800.csv at 2/14/2018 7:57:36 PM
+Preparing to bulk copy 3976 rows for signal 63215001
+Bulk copy for 63215001 successful
+Done with SIEM_10.160.5.15_2018_02_13_0900.csv at 2/14/2018 7:57:36 PM
+Preparing to bulk copy 3661 rows for signal 63215001
+Bulk copy for 63215001 successful
+Done with SIEM_10.160.5.15_2018_02_13_1000.csv at 2/14/2018 7:57:36 PM
+Preparing to bulk copy 4316 rows for signal 63215001
+Bulk copy for 63215001 successful
+Done with SIEM_10.160.5.15_2018_02_13_1100.csv at 2/14/2018 7:57:36 PM
+Preparing to bulk copy 4569 rows for signal 63215001
+Bulk copy for 63215001 successful
+Done with SIEM_10.160.5.15_2018_02_13_1200.csv at 2/14/2018 7:57:36 PM
+Preparing to bulk copy 4772 rows for signal 63215001
+Bulk copy for 63215001 successful
+Done with SIEM_10.160.5.15_2018_02_13_1300.csv at 2/14/2018 7:57:36 PM
+Preparing to bulk copy 4502 rows for signal 63215001
+Bulk copy for 63215001 successful
+Done with SIEM_10.160.5.15_2018_02_13_1400.csv at 2/14/2018 7:57:36 PM
+Preparing to bulk copy 4726 rows for signal 63215001
+Bulk copy for 63215001 successful
+Done with SIEM_10.160.5.15_2018_02_13_1500.csv at 2/14/2018 7:57:36 PM
+Preparing to bulk copy 4841 rows for signal 63215001
+Bulk copy for 63215001 successful
+Done with SIEM_10.160.5.15_2018_02_13_1600.csv at 2/14/2018 7:57:36 PM
+Preparing to bulk copy 5068 rows for signal 63215001
+Bulk copy for 63215001 successful
+Done with SIEM_10.160.5.15_2018_02_13_1700.csv at 2/14/2018 7:57:36 PM
+Preparing to bulk copy 5100 rows for signal 63215001
+Bulk copy for 63215001 successful
+Done with SIEM_10.160.5.15_2018_02_13_1800.csv at 2/14/2018 7:57:36 PM
+Preparing to bulk copy 4835 rows for signal 63215001
+Bulk copy for 63215001 successful
+Done with SIEM_10.160.5.15_2018_02_13_1900.csv at 2/14/2018 7:57:37 PM
+Preparing to bulk copy 4034 rows for signal 63215001
+Bulk copy for 63215001 successful
+Done with SIEM_10.160.5.15_2018_02_13_2000.csv at 2/14/2018 7:57:37 PM
+Preparing to bulk copy 3714 rows for signal 63215001
+Bulk copy for 63215001 successful
+Done with SIEM_10.160.5.15_2018_02_13_2100.csv at 2/14/2018 7:57:37 PM
+Preparing to bulk copy 4030 rows for signal 63215001
+Bulk copy for 63215001 successful
+Done with SIEM_10.160.5.15_2018_02_13_2200.csv at 2/14/2018 7:57:37 PM
+Preparing to bulk copy 3061 rows for signal 63215001
+Bulk copy for 63215001 successful
+Done with SIEM_10.160.5.15_2018_02_13_2300.csv at 2/14/2018 7:57:37 PM
+Preparing to bulk copy 2521 rows for signal 63215003
+Bulk copy for 63215003 successful
+Done with SIEM_10.160.5.5_2018_02_13_0000.csv at 2/14/2018 7:57:37 PM
+Preparing to bulk copy 1756 rows for signal 63215003
+Bulk copy for 63215003 successful
+Done with SIEM_10.160.5.5_2018_02_13_0100.csv at 2/14/2018 7:57:37 PM
+Preparing to bulk copy 832 rows for signal 63215003
+Bulk copy for 63215003 successful
+Done with SIEM_10.160.5.5_2018_02_13_0200.csv at 2/14/2018 7:57:37 PM
+Preparing to bulk copy 482 rows for signal 63215003
+Bulk copy for 63215003 successful
+Done with SIEM_10.160.5.5_2018_02_13_0300.csv at 2/14/2018 7:57:37 PM
+Preparing to bulk copy 235 rows for signal 63215003
+Bulk copy for 63215003 successful
+Done with SIEM_10.160.5.5_2018_02_13_0400.csv at 2/14/2018 7:57:37 PM
+Preparing to bulk copy 903 rows for signal 63215003
+Bulk copy for 63215003 successful
+Done with SIEM_10.160.5.5_2018_02_13_0500.csv at 2/14/2018 7:57:37 PM
+Preparing to bulk copy 1267 rows for signal 63215003
+Bulk copy for 63215003 successful
+Done with SIEM_10.160.5.5_2018_02_13_0600.csv at 2/14/2018 7:57:37 PM
+Preparing to bulk copy 5219 rows for signal 63215003
+Bulk copy for 63215003 successful
+Done with SIEM_10.160.5.5_2018_02_13_0700.csv at 2/14/2018 7:57:37 PM
+Preparing to bulk copy 5532 rows for signal 63215003
+Bulk copy for 63215003 successful
+Done with SIEM_10.160.5.5_2018_02_13_0800.csv at 2/14/2018 7:57:37 PM
+Preparing to bulk copy 6167 rows for signal 63215003
+Bulk copy for 63215003 successful
+Done with SIEM_10.160.5.5_2018_02_13_0900.csv at 2/14/2018 7:57:37 PM
+Preparing to bulk copy 5953 rows for signal 63215003
+Bulk copy for 63215003 successful
+Done with SIEM_10.160.5.5_2018_02_13_1000.csv at 2/14/2018 7:57:37 PM
+Preparing to bulk copy 6088 rows for signal 63215003
+Bulk copy for 63215003 successful
+Done with SIEM_10.160.5.5_2018_02_13_1100.csv at 2/14/2018 7:57:38 PM
+Preparing to bulk copy 6664 rows for signal 63215003
+Bulk copy for 63215003 successful
+Done with SIEM_10.160.5.5_2018_02_13_1200.csv at 2/14/2018 7:57:38 PM
+Preparing to bulk copy 6215 rows for signal 63215003
+Bulk copy for 63215003 successful
+Done with SIEM_10.160.5.5_2018_02_13_1300.csv at 2/14/2018 7:57:38 PM
+Preparing to bulk copy 5660 rows for signal 63215003
+Bulk copy for 63215003 successful
+Done with SIEM_10.160.5.5_2018_02_13_1400.csv at 2/14/2018 7:57:38 PM
+Preparing to bulk copy 5911 rows for signal 63215003
+Bulk copy for 63215003 successful
+Done with SIEM_10.160.5.5_2018_02_13_1500.csv at 2/14/2018 7:57:38 PM
+Preparing to bulk copy 6269 rows for signal 63215003
+Bulk copy for 63215003 successful
+Done with SIEM_10.160.5.5_2018_02_13_1600.csv at 2/14/2018 7:57:38 PM
+Preparing to bulk copy 6105 rows for signal 63215003
+Bulk copy for 63215003 successful
+Done with SIEM_10.160.5.5_2018_02_13_1700.csv at 2/14/2018 7:57:38 PM
+Preparing to bulk copy 6541 rows for signal 63215003
+Bulk copy for 63215003 successful
+Done with SIEM_10.160.5.5_2018_02_13_1800.csv at 2/14/2018 7:57:38 PM
+Preparing to bulk copy 6303 rows for signal 63215003
+Bulk copy for 63215003 successful
+Done with SIEM_10.160.5.5_2018_02_13_1900.csv at 2/14/2018 7:57:38 PM
+Preparing to bulk copy 5378 rows for signal 63215003
+Bulk copy for 63215003 successful
+Done with SIEM_10.160.5.5_2018_02_13_2000.csv at 2/14/2018 7:57:39 PM
+Preparing to bulk copy 4702 rows for signal 63215003
+Bulk copy for 63215003 successful
+Done with SIEM_10.160.5.5_2018_02_13_2100.csv at 2/14/2018 7:57:39 PM
+Preparing to bulk copy 4838 rows for signal 63215003
+Bulk copy for 63215003 successful
+Done with SIEM_10.160.5.5_2018_02_13_2200.csv at 2/14/2018 7:57:39 PM
+Preparing to bulk copy 3611 rows for signal 63215003
+Bulk copy for 63215003 successful
+Done with SIEM_10.160.5.5_2018_02_13_2300.csv at 2/14/2018 7:57:39 PM
+Finished with database inserts.
+Finished at 2/14/2018 7:57:39 PM

@@ -1,0 +1,532 @@
+Started FTP process at 4/10/2018 2:00:01 AM
+Error connecting to 10.160.4.6 on attempt 1: Connection failed.
+Timeout detected. (control connection)
+Connection failed.
+Error connecting to 10.160.4.6 on attempt 2: Connection failed.
+Timeout detected. (control connection)
+Connection failed.
+Error connecting to 10.160.4.6 on attempt 3: Connection failed.
+Timeout detected. (control connection)
+Connection failed.
+Finished with FTP process.
+Error connecting to 10.160.4.11 on attempt 1: Connection failed.
+Timeout detected. (control connection)
+Connection failed.
+Error connecting to 10.160.4.11 on attempt 2: Connection failed.
+Timeout detected. (control connection)
+Connection failed.
+Error connecting to 10.160.4.11 on attempt 3: Connection failed.
+Timeout detected. (control connection)
+Connection failed.
+Finished with FTP process.
+Error connecting to 10.160.4.16 on attempt 1: Connection failed.
+Timeout detected. (control connection)
+Connection failed.
+Error connecting to 10.160.4.16 on attempt 2: Connection failed.
+Timeout detected. (control connection)
+Connection failed.
+Error connecting to 10.160.4.16 on attempt 3: Connection failed.
+Timeout detected. (control connection)
+Connection failed.
+Finished with FTP process.
+Error connecting to 10.160.4.21 on attempt 1: Connection failed.
+Timeout detected. (control connection)
+Connection failed.
+Error connecting to 10.160.4.21 on attempt 2: Connection failed.
+Timeout detected. (control connection)
+Connection failed.
+Error connecting to 10.160.4.21 on attempt 3: Connection failed.
+Timeout detected. (control connection)
+Connection failed.
+Finished with FTP process.
+Error connecting to 10.160.4.26 on attempt 1: Connection failed.
+Timeout detected. (control connection)
+Connection failed.
+Error connecting to 10.160.4.26 on attempt 2: Connection failed.
+Timeout detected. (control connection)
+Connection failed.
+Error connecting to 10.160.4.26 on attempt 3: Connection failed.
+Timeout detected. (control connection)
+Connection failed.
+Finished with FTP process.
+Error connecting to 10.160.4.31 on attempt 1: Connection failed.
+Timeout detected. (control connection)
+Connection failed.
+Error connecting to 10.160.4.31 on attempt 2: Connection failed.
+Timeout detected. (control connection)
+Connection failed.
+Error connecting to 10.160.4.31 on attempt 3: Connection failed.
+Timeout detected. (control connection)
+Connection failed.
+Finished with FTP process.
+Error connecting to 10.160.4.36 on attempt 1: Network error: Connection to "10.160.4.36" timed out.
+Error connecting to 10.160.4.36 on attempt 2: Network error: Connection to "10.160.4.36" timed out.
+Error connecting to 10.160.4.36 on attempt 3: Network error: Connection to "10.160.4.36" timed out.
+Finished with FTP process.
+Error connecting to 10.160.4.41 on attempt 1: Network error: Connection to "10.160.4.41" timed out.
+Error connecting to 10.160.4.41 on attempt 2: Network error: Connection to "10.160.4.41" timed out.
+Error connecting to 10.160.4.41 on attempt 3: Network error: Connection to "10.160.4.41" timed out.
+Finished with FTP process.
+Error connecting to 10.160.4.46 on attempt 1: Connection failed.
+Timeout detected. (control connection)
+Connection failed.
+Error connecting to 10.160.4.46 on attempt 2: Connection failed.
+Timeout detected. (control connection)
+Connection failed.
+Error connecting to 10.160.4.46 on attempt 3: Connection failed.
+Timeout detected. (control connection)
+Connection failed.
+Finished with FTP process.
+Error connecting to 10.160.4.51 on attempt 1: Connection failed.
+Timeout detected. (control connection)
+Connection failed.
+Error connecting to 10.160.4.51 on attempt 2: Connection failed.
+Timeout detected. (control connection)
+Connection failed.
+Error connecting to 10.160.4.51 on attempt 3: Connection failed.
+Timeout detected. (control connection)
+Connection failed.
+Finished with FTP process.
+Error connecting to 10.160.4.56 on attempt 1: Connection failed.
+Timeout detected. (control connection)
+Connection failed.
+Error connecting to 10.160.4.56 on attempt 2: Connection failed.
+Timeout detected. (control connection)
+Connection failed.
+Error connecting to 10.160.4.56 on attempt 3: Connection failed.
+Timeout detected. (control connection)
+Connection failed.
+Finished with FTP process.
+Error connecting to 10.160.4.61 on attempt 1: Connection failed.
+Timeout detected. (control connection)
+Connection failed.
+Error connecting to 10.160.4.61 on attempt 2: Connection failed.
+Timeout detected. (control connection)
+Connection failed.
+Error connecting to 10.160.4.61 on attempt 3: Connection failed.
+Timeout detected. (control connection)
+Connection failed.
+Finished with FTP process.
+Error connecting to 10.160.4.66 on attempt 1: Connection failed.
+Timeout detected. (control connection)
+Connection failed.
+Error connecting to 10.160.4.66 on attempt 2: Connection failed.
+Timeout detected. (control connection)
+Connection failed.
+Error connecting to 10.160.4.66 on attempt 3: Connection failed.
+Timeout detected. (control connection)
+Connection failed.
+Finished with FTP process.
+Error connecting to 10.160.4.71 on attempt 1: Connection failed.
+Timeout detected. (control connection)
+Connection failed.
+Error connecting to 10.160.4.71 on attempt 2: Connection failed.
+Timeout detected. (control connection)
+Connection failed.
+Error connecting to 10.160.4.71 on attempt 3: Connection failed.
+Timeout detected. (control connection)
+Connection failed.
+Finished with FTP process.
+Error connecting to 10.160.4.76 on attempt 1: Connection failed.
+Timeout detected. (control connection)
+Connection failed.
+Error connecting to 10.160.4.76 on attempt 2: Connection failed.
+Timeout detected. (control connection)
+Connection failed.
+Error connecting to 10.160.4.76 on attempt 3: Connection failed.
+Timeout detected. (control connection)
+Connection failed.
+Finished with FTP process.
+Error connecting to 10.160.4.81 on attempt 1: Connection failed.
+Timeout detected. (control connection)
+Connection failed.
+Error connecting to 10.160.4.81 on attempt 2: Connection failed.
+Timeout detected. (control connection)
+Connection failed.
+Error connecting to 10.160.4.81 on attempt 3: Connection failed.
+Timeout detected. (control connection)
+Connection failed.
+Finished with FTP process.
+Error connecting to 10.160.4.86 on attempt 1: Connection failed.
+Timeout detected. (control connection)
+Connection failed.
+Error connecting to 10.160.4.86 on attempt 2: Connection failed.
+Timeout detected. (control connection)
+Connection failed.
+Error connecting to 10.160.4.86 on attempt 3: Connection failed.
+Timeout detected. (control connection)
+Connection failed.
+Finished with FTP process.
+Error connecting to 10.160.4.91 on attempt 1: Connection failed.
+Timeout detected. (control connection)
+Connection failed.
+Error connecting to 10.160.4.91 on attempt 2: Connection failed.
+Timeout detected. (control connection)
+Connection failed.
+Error connecting to 10.160.4.91 on attempt 3: Connection failed.
+Timeout detected. (control connection)
+Connection failed.
+Finished with FTP process.
+Error connecting to 10.160.4.96 on attempt 1: Connection failed.
+Timeout detected. (control connection)
+Connection failed.
+Error connecting to 10.160.4.96 on attempt 2: Connection failed.
+Timeout detected. (control connection)
+Connection failed.
+Error connecting to 10.160.4.96 on attempt 3: Connection failed.
+Timeout detected. (control connection)
+Connection failed.
+Finished with FTP process.
+Error connecting to 10.160.4.101 on attempt 1: Connection failed.
+Timeout detected. (control connection)
+Connection failed.
+Error connecting to 10.160.4.101 on attempt 2: Connection failed.
+Timeout detected. (control connection)
+Connection failed.
+Error connecting to 10.160.4.101 on attempt 3: Connection failed.
+Timeout detected. (control connection)
+Connection failed.
+Finished with FTP process.
+Error connecting to 10.160.4.106 on attempt 1: Connection failed.
+Timeout detected. (control connection)
+Connection failed.
+Error connecting to 10.160.4.106 on attempt 2: Connection failed.
+Timeout detected. (control connection)
+Connection failed.
+Error connecting to 10.160.4.106 on attempt 3: Connection failed.
+Timeout detected. (control connection)
+Connection failed.
+Finished with FTP process.
+Error connecting to 10.160.4.111 on attempt 1: Connection failed.
+Timeout detected. (control connection)
+Connection failed.
+Error connecting to 10.160.4.111 on attempt 2: Connection failed.
+Timeout detected. (control connection)
+Connection failed.
+Error connecting to 10.160.4.111 on attempt 3: Connection failed.
+Timeout detected. (control connection)
+Connection failed.
+Finished with FTP process.
+Error connecting to 10.160.4.116 on attempt 1: Connection failed.
+Timeout detected. (control connection)
+Connection failed.
+Error connecting to 10.160.4.116 on attempt 2: Connection failed.
+Timeout detected. (control connection)
+Connection failed.
+Error connecting to 10.160.4.116 on attempt 3: Connection failed.
+Timeout detected. (control connection)
+Connection failed.
+Finished with FTP process.
+Error connecting to 10.160.4.121 on attempt 1: Connection failed.
+Timeout detected. (control connection)
+Connection failed.
+Error connecting to 10.160.4.121 on attempt 2: Connection failed.
+Timeout detected. (control connection)
+Connection failed.
+Error connecting to 10.160.4.121 on attempt 3: Connection failed.
+Timeout detected. (control connection)
+Connection failed.
+Finished with FTP process.
+Error connecting to 10.160.4.126 on attempt 1: Connection failed.
+Timeout detected. (control connection)
+Connection failed.
+Error connecting to 10.160.4.126 on attempt 2: Connection failed.
+Timeout detected. (control connection)
+Connection failed.
+Error connecting to 10.160.4.126 on attempt 3: Connection failed.
+Timeout detected. (control connection)
+Connection failed.
+Finished with FTP process.
+Error connecting to 10.160.4.131 on attempt 1: Connection failed.
+Timeout detected. (control connection)
+Connection failed.
+Error connecting to 10.160.4.131 on attempt 2: Connection failed.
+Timeout detected. (control connection)
+Connection failed.
+Error connecting to 10.160.4.131 on attempt 3: Connection failed.
+Timeout detected. (control connection)
+Connection failed.
+Finished with FTP process.
+Error connecting to 10.160.4.136 on attempt 1: Connection failed.
+Timeout detected. (control connection)
+Connection failed.
+Error connecting to 10.160.4.136 on attempt 2: Connection failed.
+Timeout detected. (control connection)
+Connection failed.
+Error connecting to 10.160.4.136 on attempt 3: Connection failed.
+Timeout detected. (control connection)
+Connection failed.
+Finished with FTP process.
+Error connecting to 10.160.4.141 on attempt 1: Connection failed.
+Timeout detected. (control connection)
+Connection failed.
+Error connecting to 10.160.4.141 on attempt 2: Connection failed.
+Timeout detected. (control connection)
+Connection failed.
+Error connecting to 10.160.4.141 on attempt 3: Connection failed.
+Timeout detected. (control connection)
+Connection failed.
+Finished with FTP process.
+Error connecting to 10.160.4.146 on attempt 1: Connection failed.
+Timeout detected. (control connection)
+Connection failed.
+Error connecting to 10.160.4.146 on attempt 2: Connection failed.
+Timeout detected. (control connection)
+Connection failed.
+Error connecting to 10.160.4.146 on attempt 3: Connection failed.
+Timeout detected. (control connection)
+Connection failed.
+Finished with FTP process.
+Error connecting to 10.160.4.151 on attempt 1: Connection failed.
+Timeout detected. (control connection)
+Connection failed.
+Error connecting to 10.160.4.151 on attempt 2: Connection failed.
+Timeout detected. (control connection)
+Connection failed.
+Error connecting to 10.160.4.151 on attempt 3: Connection failed.
+Timeout detected. (control connection)
+Connection failed.
+Finished with FTP process.
+Error connecting to 10.160.4.156 on attempt 1: Connection failed.
+Timeout detected. (control connection)
+Connection failed.
+Error connecting to 10.160.4.156 on attempt 2: Connection failed.
+Timeout detected. (control connection)
+Connection failed.
+Error connecting to 10.160.4.156 on attempt 3: Connection failed.
+Timeout detected. (control connection)
+Connection failed.
+Finished with FTP process.
+Error connecting to 10.160.4.161 on attempt 1: Connection failed.
+Timeout detected. (control connection)
+Connection failed.
+Error connecting to 10.160.4.161 on attempt 2: Connection failed.
+Timeout detected. (control connection)
+Connection failed.
+Error connecting to 10.160.4.161 on attempt 3: Connection failed.
+Timeout detected. (control connection)
+Connection failed.
+Finished with FTP process.
+Error connecting to 10.160.4.166 on attempt 1: Connection failed.
+Timeout detected. (control connection)
+Connection failed.
+Error connecting to 10.160.4.166 on attempt 2: Connection failed.
+Timeout detected. (control connection)
+Connection failed.
+Error connecting to 10.160.4.166 on attempt 3: Connection failed.
+Timeout detected. (control connection)
+Connection failed.
+Finished with FTP process.
+Error connecting to 10.160.4.171 on attempt 1: Connection failed.
+Timeout detected. (control connection)
+Connection failed.
+Error connecting to 10.160.4.171 on attempt 2: Connection failed.
+Timeout detected. (control connection)
+Connection failed.
+Error connecting to 10.160.4.171 on attempt 3: Connection failed.
+Timeout detected. (control connection)
+Connection failed.
+Finished with FTP process.
+Error connecting to 10.160.4.176 on attempt 1: Connection failed.
+Timeout detected. (control connection)
+Connection failed.
+Error connecting to 10.160.4.176 on attempt 2: Connection failed.
+Timeout detected. (control connection)
+Connection failed.
+Error connecting to 10.160.4.176 on attempt 3: Connection failed.
+Timeout detected. (control connection)
+Connection failed.
+Finished with FTP process.
+Error connecting to 10.160.4.181 on attempt 1: Connection failed.
+Timeout detected. (control connection)
+Connection failed.
+Error connecting to 10.160.4.181 on attempt 2: Connection failed.
+Timeout detected. (control connection)
+Connection failed.
+Error connecting to 10.160.4.181 on attempt 3: Connection failed.
+Timeout detected. (control connection)
+Connection failed.
+Finished with FTP process.
+Error connecting to 10.160.4.186 on attempt 1: Connection failed.
+Timeout detected. (control connection)
+Connection failed.
+Error connecting to 10.160.4.186 on attempt 2: Connection failed.
+Timeout detected. (control connection)
+Connection failed.
+Error connecting to 10.160.4.186 on attempt 3: Connection failed.
+Timeout detected. (control connection)
+Connection failed.
+Finished with FTP process.
+Error connecting to 10.160.4.191 on attempt 1: Connection failed.
+Timeout detected. (control connection)
+Connection failed.
+Error connecting to 10.160.4.191 on attempt 2: Connection failed.
+Timeout detected. (control connection)
+Connection failed.
+Error connecting to 10.160.4.191 on attempt 3: Connection failed.
+Timeout detected. (control connection)
+Connection failed.
+Finished with FTP process.
+Error connecting to 10.160.4.196 on attempt 1: Connection failed.
+Timeout detected. (control connection)
+Connection failed.
+Error connecting to 10.160.4.196 on attempt 2: Connection failed.
+Timeout detected. (control connection)
+Connection failed.
+Error connecting to 10.160.4.196 on attempt 3: Connection failed.
+Timeout detected. (control connection)
+Connection failed.
+Finished with FTP process.
+Error connecting to 10.160.4.201 on attempt 1: Connection failed.
+Timeout detected. (control connection)
+Connection failed.
+Error connecting to 10.160.4.201 on attempt 2: Connection failed.
+Timeout detected. (control connection)
+Connection failed.
+Error connecting to 10.160.4.201 on attempt 3: Connection failed.
+Timeout detected. (control connection)
+Connection failed.
+Finished with FTP process.
+Error connecting to 10.160.4.206 on attempt 1: Connection failed.
+Timeout detected. (control connection)
+Connection failed.
+Error connecting to 10.160.4.206 on attempt 2: Connection failed.
+Timeout detected. (control connection)
+Connection failed.
+Error connecting to 10.160.4.206 on attempt 3: Connection failed.
+Timeout detected. (control connection)
+Connection failed.
+Finished with FTP process.
+Error connecting to 10.160.4.211 on attempt 1: Connection failed.
+Timeout detected. (control connection)
+Connection failed.
+Error connecting to 10.160.4.211 on attempt 2: Connection failed.
+Timeout detected. (control connection)
+Connection failed.
+Error connecting to 10.160.4.211 on attempt 3: Connection failed.
+Timeout detected. (control connection)
+Connection failed.
+Finished with FTP process.
+Error connecting to 10.160.4.216 on attempt 1: Connection failed.
+Timeout detected. (control connection)
+Connection failed.
+Error connecting to 10.160.4.216 on attempt 2: Connection failed.
+Timeout detected. (control connection)
+Connection failed.
+Error connecting to 10.160.4.216 on attempt 3: Connection failed.
+Timeout detected. (control connection)
+Connection failed.
+Finished with FTP process.
+Error connecting to 10.160.4.221 on attempt 1: Connection failed.
+Timeout detected. (control connection)
+Connection failed.
+Error connecting to 10.160.4.221 on attempt 2: Connection failed.
+Timeout detected. (control connection)
+Connection failed.
+Error connecting to 10.160.4.221 on attempt 3: Connection failed.
+Timeout detected. (control connection)
+Connection failed.
+Finished with FTP process.
+Error connecting to 10.160.4.226 on attempt 1: Connection failed.
+Timeout detected. (control connection)
+Connection failed.
+Error connecting to 10.160.4.226 on attempt 2: Connection failed.
+Timeout detected. (control connection)
+Connection failed.
+Error connecting to 10.160.4.226 on attempt 3: Connection failed.
+Timeout detected. (control connection)
+Connection failed.
+Finished with FTP process.
+Error connecting to 10.160.4.231 on attempt 1: Connection failed.
+Timeout detected. (control connection)
+Connection failed.
+Error connecting to 10.160.4.231 on attempt 2: Connection failed.
+Timeout detected. (control connection)
+Connection failed.
+Error connecting to 10.160.4.231 on attempt 3: Connection failed.
+Timeout detected. (control connection)
+Connection failed.
+Finished with FTP process.
+Error connecting to 10.160.4.236 on attempt 1: Connection failed.
+Timeout detected. (control connection)
+Connection failed.
+Error connecting to 10.160.4.236 on attempt 2: Connection failed.
+Timeout detected. (control connection)
+Connection failed.
+Error connecting to 10.160.4.236 on attempt 3: Connection failed.
+Timeout detected. (control connection)
+Connection failed.
+Finished with FTP process.
+Error connecting to 10.160.4.241 on attempt 1: Connection failed.
+Timeout detected. (control connection)
+Connection failed.
+Error connecting to 10.160.4.241 on attempt 2: Connection failed.
+Timeout detected. (control connection)
+Connection failed.
+Error connecting to 10.160.4.241 on attempt 3: Connection failed.
+Timeout detected. (control connection)
+Connection failed.
+Finished with FTP process.
+Error connecting to 10.160.4.246 on attempt 1: Connection failed.
+Timeout detected. (control connection)
+Connection failed.
+Error connecting to 10.160.4.246 on attempt 2: Connection failed.
+Timeout detected. (control connection)
+Connection failed.
+Error connecting to 10.160.4.246 on attempt 3: Connection failed.
+Timeout detected. (control connection)
+Connection failed.
+Finished with FTP process.
+Error connecting to 10.160.4.251 on attempt 1: Connection failed.
+Timeout detected. (control connection)
+Connection failed.
+Error connecting to 10.160.4.251 on attempt 2: Connection failed.
+Timeout detected. (control connection)
+Connection failed.
+Error connecting to 10.160.4.251 on attempt 3: Connection failed.
+Timeout detected. (control connection)
+Connection failed.
+Finished with FTP process.
+Error connecting to 10.160.5.0 on attempt 1: Connection failed.
+Timeout detected. (control connection)
+Connection failed.
+Error connecting to 10.160.5.0 on attempt 2: Connection failed.
+Timeout detected. (control connection)
+Connection failed.
+Error connecting to 10.160.5.0 on attempt 3: Connection failed.
+Timeout detected. (control connection)
+Connection failed.
+Finished with FTP process.
+Error connecting to 10.160.5.5 on attempt 1: Connection failed.
+Timeout detected. (control connection)
+Connection failed.
+Error connecting to 10.160.5.5 on attempt 2: Connection failed.
+Timeout detected. (control connection)
+Connection failed.
+Error connecting to 10.160.5.5 on attempt 3: Connection failed.
+Timeout detected. (control connection)
+Connection failed.
+Finished with FTP process.
+Error connecting to 10.160.5.10 on attempt 1: Connection failed.
+Timeout detected. (control connection)
+Connection failed.
+Error connecting to 10.160.5.10 on attempt 2: Connection failed.
+Timeout detected. (control connection)
+Connection failed.
+Error connecting to 10.160.5.10 on attempt 3: Connection failed.
+Timeout detected. (control connection)
+Connection failed.
+Finished with FTP process.
+Error connecting to 10.160.5.15 on attempt 1: Connection failed.
+Timeout detected. (control connection)
+Connection failed.
+Error connecting to 10.160.5.15 on attempt 2: Connection failed.
+Timeout detected. (control connection)
+Connection failed.
+Error connecting to 10.160.5.15 on attempt 3: Connection failed.
+Timeout detected. (control connection)
+Connection failed.
+Finished with FTP process.
+Started database inserts at 4/10/2018 2:42:26 AM
+Finished with database inserts.
+Finished at 4/10/2018 2:42:26 AM

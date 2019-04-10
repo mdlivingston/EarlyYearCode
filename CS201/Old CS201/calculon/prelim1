@@ -1,0 +1,60 @@
+echo "#### EXERCISING THE MAKEFILE ####"
+echo "#### displaying modules..."
+ls *.c
+echo "#### cleaning up with make clean..."
+make clean
+echo "#### displaying object files and executable, should be none..."
+ls *.o calculon
+echo "#### clean build with \"make calculon\"..."
+make calculon
+echo "#### rebuilding with \"make calculon\", this command should do nothing..."
+make calculon
+echo "#### touching scanner.h..."
+touch scanner.h
+echo "#### \"make calculon\" should recompile two files..."
+make calculon
+echo "#### running your test with \"make test\"..."
+make test
+echo
+echo "#### EXERCISING THE EXECUTABLE ####"
+echo
+echo "#### testing: calculon -v"
+echo
+echo calculon -v
+calculon -v
+echo
+echo
+echo "3 + 4 ;" > test0
+echo "#### testing: calculon -d"
+echo
+echo cat test0
+cat test0
+echo
+echo "cat test0 | calculon -d"
+cat test0 | calculon -d 
+echo
+echo "#### testing: calculon"
+echo
+echo cat test0
+cat test0
+echo
+echo "cat test0 | calculon"
+cat test0 | calculon 
+echo
+echo "#### testing: calculon -d test0"
+echo
+echo cat test0
+cat test0
+echo
+echo "calculon -d test0"
+calculon -d test0
+echo
+echo "#### testing: calculon test0"
+echo
+echo cat test0
+cat test0
+echo
+echo "calculon test0"
+calculon test0
+echo
+echo "#### PRELIMINARY TESTING COMPLETED ####"

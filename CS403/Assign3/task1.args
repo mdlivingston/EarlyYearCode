@@ -1,0 +1,2 @@
+(define (f x) (staticScope 1 this))
+(f 0)

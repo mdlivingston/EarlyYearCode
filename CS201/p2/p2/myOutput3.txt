@@ -1,0 +1,10 @@
+0: "my"("my")-
+1: " very best"("my")-l "told"("my")-r
+2: "friend"(" very best")-r "that i could "("told")-l
+3: ="me"("friend")-r "pass"("that i could ")-l ="this"("that i could ")-r
+4: ="test"("pass")-r
+0: "pass"("pass")-
+1: "told"("pass")-r
+2: "that i could "("told")-l
+3: ="test"("that i could ")-l ="this"("that i could ")-r
+0:

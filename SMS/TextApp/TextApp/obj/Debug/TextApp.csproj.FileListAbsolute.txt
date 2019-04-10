@@ -1,0 +1,14 @@
+C:\Users\mlivingston\Desktop\TextApp\TextApp\obj\Debug\TextApp.csprojResolveAssemblyReference.cache
+C:\Users\mlivingston\Desktop\TextApp\TextApp\obj\Debug\TextApp.csproj.CoreCompileInputs.cache
+C:\Users\mlivingston\Desktop\TextApp\TextApp\bin\Debug\TextApp.exe.config
+C:\Users\mlivingston\Desktop\TextApp\TextApp\bin\Debug\TextApp.exe
+C:\Users\mlivingston\Desktop\TextApp\TextApp\bin\Debug\TextApp.pdb
+C:\Users\mlivingston\Desktop\TextApp\TextApp\obj\Debug\TextApp.exe
+C:\Users\mlivingston\Desktop\TextApp\TextApp\obj\Debug\TextApp.pdb
+D:\Max's Code Storage\SMS\TextApp\TextApp\bin\Debug\TextApp.exe.config
+D:\Max's Code Storage\SMS\TextApp\TextApp\bin\Debug\TextApp.exe
+D:\Max's Code Storage\SMS\TextApp\TextApp\bin\Debug\TextApp.pdb
+D:\Max's Code Storage\SMS\TextApp\TextApp\obj\Debug\TextApp.csprojAssemblyReference.cache
+D:\Max's Code Storage\SMS\TextApp\TextApp\obj\Debug\TextApp.csproj.CoreCompileInputs.cache
+D:\Max's Code Storage\SMS\TextApp\TextApp\obj\Debug\TextApp.exe
+D:\Max's Code Storage\SMS\TextApp\TextApp\obj\Debug\TextApp.pdb

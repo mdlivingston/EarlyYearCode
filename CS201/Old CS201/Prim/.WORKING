@@ -1,0 +1,15 @@
+/Users/Maximus/documents/primp3/prim/prim
+Mon Dec  5 06:24:36 CST 2016
+CDLL.c				pg2
+CDLL.h				prelim3
+WORKING				prim.c
+binheap.c			queue.c
+binheap.h			queue.h
+graph.c				scanner.c
+graph.h				scanner.h
+makefile			test.txt
+mdlivingston@crimson.ua.edu	value.c
+node.c				value.h
+node.h				vertex.c
+pg0				vertex.h
+pg1

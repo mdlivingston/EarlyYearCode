@@ -1,0 +1,2 @@
+s r         i "BOB SAGET     " 
+s r d " this is a test " s

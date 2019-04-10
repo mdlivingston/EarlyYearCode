@@ -1,0 +1,24 @@
+D:\hg\SignalMetricsFTP\SignalMetricsFTP\bin\Debug\SignalMetricsFTP.exe.config
+D:\hg\SignalMetricsFTP\SignalMetricsFTP\bin\Debug\SignalMetricsFTP.exe
+D:\hg\SignalMetricsFTP\SignalMetricsFTP\bin\Debug\SignalMetricsFTP.pdb
+D:\hg\SignalMetricsFTP\SignalMetricsFTP\bin\Debug\AlexPilotti.FTPS.Client.dll
+D:\hg\SignalMetricsFTP\SignalMetricsFTP\bin\Debug\SharpSnmpLib.dll
+D:\hg\SignalMetricsFTP\SignalMetricsFTP\bin\Debug\WinSCPnet.dll
+D:\hg\SignalMetricsFTP\SignalMetricsFTP\obj\Debug\SignalMetricsFTP.exe
+D:\hg\SignalMetricsFTP\SignalMetricsFTP\obj\Debug\SignalMetricsFTP.pdb
+D:\hg\SignalMetricsFTP\SignalMetricsFTP\obj\Debug\SignalMetricsFTP.csprojResolveAssemblyReference.cache
+D:\hg\SignalMetricsFTP\SignalMetricsFTP\obj\Debug\SignalMetricsFTP.csproj.CoreCompileInputs.cache
+D:\hg\SignalMetricsFTP\SignalMetricsFTP\bin\Debug\WinSCP.exe
+D:\hg\SignalMetricsFTP\SignalMetricsFTP\obj\Debug\SignalMetricsFTP.csproj.CopyComplete
+D:\Max's Code Storage\File Transfer Protocol\SignalMetricsFTP\SignalMetricsFTP\bin\Debug\WinSCP.exe
+D:\Max's Code Storage\File Transfer Protocol\SignalMetricsFTP\SignalMetricsFTP\bin\Debug\SignalMetricsFTP.exe.config
+D:\Max's Code Storage\File Transfer Protocol\SignalMetricsFTP\SignalMetricsFTP\bin\Debug\SignalMetricsFTP.exe
+D:\Max's Code Storage\File Transfer Protocol\SignalMetricsFTP\SignalMetricsFTP\bin\Debug\SignalMetricsFTP.pdb
+D:\Max's Code Storage\File Transfer Protocol\SignalMetricsFTP\SignalMetricsFTP\bin\Debug\AlexPilotti.FTPS.Client.dll
+D:\Max's Code Storage\File Transfer Protocol\SignalMetricsFTP\SignalMetricsFTP\bin\Debug\SharpSnmpLib.dll
+D:\Max's Code Storage\File Transfer Protocol\SignalMetricsFTP\SignalMetricsFTP\bin\Debug\WinSCPnet.dll
+D:\Max's Code Storage\File Transfer Protocol\SignalMetricsFTP\SignalMetricsFTP\obj\Debug\SignalMetricsFTP.csprojAssemblyReference.cache
+D:\Max's Code Storage\File Transfer Protocol\SignalMetricsFTP\SignalMetricsFTP\obj\Debug\SignalMetricsFTP.csproj.CoreCompileInputs.cache
+D:\Max's Code Storage\File Transfer Protocol\SignalMetricsFTP\SignalMetricsFTP\obj\Debug\SignalMetricsFTP.csproj.CopyComplete
+D:\Max's Code Storage\File Transfer Protocol\SignalMetricsFTP\SignalMetricsFTP\obj\Debug\SignalMetricsFTP.exe
+D:\Max's Code Storage\File Transfer Protocol\SignalMetricsFTP\SignalMetricsFTP\obj\Debug\SignalMetricsFTP.pdb

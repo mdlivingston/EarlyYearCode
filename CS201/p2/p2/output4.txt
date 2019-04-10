@@ -1,0 +1,20 @@
+0: "how"-B("how"-B)-
+1: " this is a test "-B("how"-B)-l "well"-R("how"-B)-r
+2: ="abcdefgh"-R(" this is a test "-B)-r "reader"-B("well"-R)-l "your"-B("well"-R)-r
+3: ="of"-R("reader"-B)-l ="string"-R("reader"-B)-r ="works"-R("your"-B)-l
+Words/Phrases: 9
+Nodes: 9
+Minimum depth: 2
+Maximum depth: 4
+0: "how"-B("how"-B)-
+1: "abcdefgh"-B("how"-B)-l "well"-R("how"-B)-r
+2: =" this is a test "-R("abcdefgh"-B)-l ="bob saget "-R("abcdefgh"-B)-r "reader"-B("well"-R)-l "your"-B("well"-R)-r
+3: ="of"-R("reader"-B)-l ="string"-R("reader"-B)-r ="works"-R("your"-B)-l
+Words/Phrases: 10
+Nodes: 10
+Minimum depth: 3
+Maximum depth: 4
+0: "how"-B("how"-B)-
+1: "abcdefgh"-R("how"-B)-l "well"-R("how"-B)-r
+2: =" this is a test "-B("abcdefgh"-R)-l "bob saget "-B("abcdefgh"-R)-r "reader"-B("well"-R)-l "your"-B("well"-R)-r
+3: ="fred"-R("bob saget "-B)-r ="of"-R("reader"-B)-l ="string"-R("reader"-B)-r ="works"-R("your"-B)-l

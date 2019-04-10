@@ -1,0 +1,39 @@
+0: "is"-2-B("is"-2-B)-
+1: "harambe"-R("is"-2-B)-l "story"-R("is"-2-B)-r
+2: "enclosure"-B("harambe"-R)-l "i"-B("harambe"-R)-r "my"-3-B("story"-R)-l "this"-B("story"-R)-r
+3: "and"-3-R("enclosure"-B)-l "friend"-R("enclosure"-B)-r "here"-2-B("i"-B)-l "im"-B("i"-B)-r "keeper"-R("my"-3-B)-l "one"-R("my"-3-B)-r "the"-B("this"-B)-l "work"-R("this"-B)-r
+4: "a"-2-B("and"-3-R)-l "cecil"-B("and"-3-R)-r "everything"-B("friend"-R)-l ="gonna"-B("friend"-R)-r ="has"-R("here"-2-B)-l ="in"-R("im"-B)-r ="ive"-B("keeper"-R)-l "learned"-B("keeper"-R)-r ="never"-B("one"-R)-l "price"-B("one"-R)-r ="that"-R("the"-B)-l ="thing"-R("the"-B)-r "with"-B("work"-R)-l "you"-B("work"-R)-r
+5: ="after"-R("a"-2-B)-r ="come"-R("cecil"-B)-r ="fence"-R("everything"-B)-r ="know"-R("learned"-B)-l ="lion"-R("learned"-B)-r ="over"-R("price"-B)-l ="who"-R("with"-B)-l ="years"-R("you"-B)-l ="zoo"-2-R("you"-B)-r
+Frequency of "zoo": 2
+0: "is"-2-B("is"-2-B)-
+1: "harambe"-2-R("is"-2-B)-l "story"-R("is"-2-B)-r
+2: "enclosure"-B("harambe"-2-R)-l "i"-B("harambe"-2-R)-r "my"-3-B("story"-R)-l "this"-B("story"-R)-r
+3: "and"-3-R("enclosure"-B)-l "friend"-R("enclosure"-B)-r "here"-2-B("i"-B)-l "im"-B("i"-B)-r "keeper"-R("my"-3-B)-l "one"-R("my"-3-B)-r "the"-B("this"-B)-l "work"-R("this"-B)-r
+4: "a"-2-B("and"-3-R)-l "cecil"-B("and"-3-R)-r "everything"-B("friend"-R)-l "gonna"-B("friend"-R)-r ="has"-R("here"-2-B)-l ="in"-R("im"-B)-r ="ive"-B("keeper"-R)-l "learned"-B("keeper"-R)-r ="never"-B("one"-R)-l "price"-B("one"-R)-r ="that"-R("the"-B)-l ="thing"-R("the"-B)-r "with"-B("work"-R)-l "you"-B("work"-R)-r
+5: ="after"-R("a"-2-B)-r ="come"-R("cecil"-B)-r ="fence"-R("everything"-B)-r ="gunshot"-R("gonna"-B)-r ="know"-R("learned"-B)-l ="lion"-R("learned"-B)-r ="over"-R("price"-B)-l ="who"-R("with"-B)-l ="years"-R("you"-B)-l ="zoo"-2-R("you"-B)-r
+Words/Phrases: 48
+Nodes: 39
+Minimum depth: 4
+Maximum depth: 6
+0: "is"-2-B("is"-2-B)-
+1: "harambe"-3-R("is"-2-B)-l "story"-R("is"-2-B)-r
+2: "enclosure"-B("harambe"-3-R)-l "i"-B("harambe"-3-R)-r "my"-3-B("story"-R)-l "this"-B("story"-R)-r
+3: "and"-3-R("enclosure"-B)-l "friend"-R("enclosure"-B)-r "here"-2-B("i"-B)-l "im"-B("i"-B)-r "keeper"-R("my"-3-B)-l "one"-R("my"-3-B)-r "the"-B("this"-B)-l "work"-R("this"-B)-r
+4: "a"-2-B("and"-3-R)-l "cecil"-B("and"-3-R)-r "everything"-B("friend"-R)-l "gonna"-B("friend"-R)-r ="has"-R("here"-2-B)-l ="in"-R("im"-B)-r ="ive"-B("keeper"-R)-l "learned"-B("keeper"-R)-r ="never"-B("one"-R)-l "price"-B("one"-R)-r ="that"-R("the"-B)-l ="thing"-R("the"-B)-r "with"-B("work"-R)-l "you"-B("work"-R)-r
+5: ="after"-R("a"-2-B)-r ="come"-R("cecil"-B)-r ="fence"-R("everything"-B)-r ="gunshot"-R("gonna"-B)-r ="know"-R("learned"-B)-l ="lion"-R("learned"-B)-r ="over"-R("price"-B)-l ="who"-R("with"-B)-l ="years"-R("you"-B)-l ="zoo"-2-R("you"-B)-r
+Words/Phrases: 49
+Nodes: 39
+Minimum depth: 4
+Maximum depth: 6
+Frequency of "f": 1
+Frequency of "fence": 1
+0: "is"-2-B("is"-2-B)-
+1: "harambe"-3-R("is"-2-B)-l "story"-R("is"-2-B)-r
+2: "enclosure"-B("harambe"-3-R)-l "i"-B("harambe"-3-R)-r "my"-3-B("story"-R)-l "this"-B("story"-R)-r
+3: "and"-3-R("enclosure"-B)-l "friend"-R("enclosure"-B)-r "here"-2-B("i"-B)-l "im"-B("i"-B)-r "keeper"-R("my"-3-B)-l "one"-R("my"-3-B)-r "the"-B("this"-B)-l "work"-R("this"-B)-r
+4: "a"-2-B("and"-3-R)-l "come"-B("and"-3-R)-r "f"-B("friend"-R)-l "gonna"-B("friend"-R)-r ="has"-R("here"-2-B)-l ="in"-R("im"-B)-r ="ive"-B("keeper"-R)-l "learned"-B("keeper"-R)-r ="never"-B("one"-R)-l "price"-B("one"-R)-r ="that"-R("the"-B)-l ="thing"-R("the"-B)-r "with"-B("work"-R)-l "you"-B("work"-R)-r
+5: ="after"-R("a"-2-B)-r ="cecil"-R("come"-B)-l ="copypasta"-3-R("come"-B)-r ="everything"-R("f"-B)-l ="fence"-R("f"-B)-r ="gunshot"-R("gonna"-B)-r ="know"-R("learned"-B)-l ="lion"-R("learned"-B)-r ="over"-R("price"-B)-l ="who"-R("with"-B)-l ="years"-R("you"-B)-l ="zoo"-2-R("you"-B)-r
+Words/Phrases: 53
+Nodes: 41
+Minimum depth: 4
+Maximum depth: 6

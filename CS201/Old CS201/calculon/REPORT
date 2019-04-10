@@ -1,0 +1,72 @@
+#### EXERCISING THE MAKEFILE ####
+#### displaying modules...
+binarysearchtree.c
+calculon.c
+node.c
+queue.c
+scanner.c
+stack.c
+value.c
+#### cleaning up with make clean...
+rm -f scanner.o value.o calculon.o queue.o node.o stack.o binarysearchtree.o calculon
+#### displaying object files and executable, should be none...
+#### clean build with "make calculon"...
+gcc -Wall -g -std=c99 -c scanner.c
+gcc -Wall -g -std=c99 -c value.c
+gcc -Wall -g -std=c99 -c calculon.c
+gcc -Wall -g -std=c99 -c queue.c
+gcc -Wall -g -std=c99 -c node.c
+gcc -Wall -g -std=c99 -c stack.c
+gcc -Wall -g -std=c99 -c binarysearchtree.c
+gcc -Wall -g -std=c99 scanner.o value.o calculon.o queue.o node.o stack.o binarysearchtree.o -o calculon -lm
+#### rebuilding with "make calculon", this command should do nothing...
+make: `calculon' is up to date.
+#### touching scanner.h...
+#### "make calculon" should recompile two files...
+make: `calculon' is up to date.
+#### running your test with "make test"...
+./calculon test.txt
+13
+47
+
+#### EXERCISING THE EXECUTABLE ####
+
+#### testing: calculon -v
+
+calculon -v
+Max Livingston
+
+
+#### testing: calculon -d
+
+cat test0
+3 + 4 ;
+
+cat test0 | calculon -d
+3 4 + 
+
+#### testing: calculon
+
+cat test0
+3 + 4 ;
+
+cat test0 | calculon
+7
+
+#### testing: calculon -d test0
+
+cat test0
+3 + 4 ;
+
+calculon -d test0
+3 4 + 
+
+#### testing: calculon test0
+
+cat test0
+3 + 4 ;
+
+calculon test0
+7
+
+#### PRELIMINARY TESTING COMPLETED ####

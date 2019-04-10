@@ -1,0 +1,21 @@
+C:\Users\mlivingston\Desktop\EmailSteve\EmailSteve\bin\Debug\EmailSteve.exe.config
+C:\Users\mlivingston\Desktop\EmailSteve\EmailSteve\bin\Debug\EmailSteve.exe
+C:\Users\mlivingston\Desktop\EmailSteve\EmailSteve\bin\Debug\EmailSteve.pdb
+C:\Users\mlivingston\Desktop\EmailSteve\EmailSteve\obj\Debug\EmailSteve.csprojResolveAssemblyReference.cache
+C:\Users\mlivingston\Desktop\EmailSteve\EmailSteve\obj\Debug\EmailSteve.csproj.CoreCompileInputs.cache
+C:\Users\mlivingston\Desktop\EmailSteve\EmailSteve\obj\Debug\EmailSteve.exe
+C:\Users\mlivingston\Desktop\EmailSteve\EmailSteve\obj\Debug\EmailSteve.pdb
+C:\Users\mlivingston\Desktop\CAPS Misc\EmailSteve\EmailSteve\bin\Debug\EmailSteve.exe.config
+C:\Users\mlivingston\Desktop\CAPS Misc\EmailSteve\EmailSteve\bin\Debug\EmailSteve.exe
+C:\Users\mlivingston\Desktop\CAPS Misc\EmailSteve\EmailSteve\bin\Debug\EmailSteve.pdb
+C:\Users\mlivingston\Desktop\CAPS Misc\EmailSteve\EmailSteve\obj\Debug\EmailSteve.csprojResolveAssemblyReference.cache
+C:\Users\mlivingston\Desktop\CAPS Misc\EmailSteve\EmailSteve\obj\Debug\EmailSteve.csproj.CoreCompileInputs.cache
+C:\Users\mlivingston\Desktop\CAPS Misc\EmailSteve\EmailSteve\obj\Debug\EmailSteve.exe
+C:\Users\mlivingston\Desktop\CAPS Misc\EmailSteve\EmailSteve\obj\Debug\EmailSteve.pdb
+D:\CAPS Misc\EmailSteve\EmailSteve\bin\Debug\EmailSteve.exe.config
+D:\CAPS Misc\EmailSteve\EmailSteve\bin\Debug\EmailSteve.exe
+D:\CAPS Misc\EmailSteve\EmailSteve\bin\Debug\EmailSteve.pdb
+D:\CAPS Misc\EmailSteve\EmailSteve\obj\Debug\EmailSteve.csprojAssemblyReference.cache
+D:\CAPS Misc\EmailSteve\EmailSteve\obj\Debug\EmailSteve.csproj.CoreCompileInputs.cache
+D:\CAPS Misc\EmailSteve\EmailSteve\obj\Debug\EmailSteve.exe
+D:\CAPS Misc\EmailSteve\EmailSteve\obj\Debug\EmailSteve.pdb

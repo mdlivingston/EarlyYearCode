@@ -1,0 +1,9 @@
+0: "a"-4("a"-4)-
+1: " df a jd "("a"-4)-l "c"("a"-4)-r
+2: =" "(" df a jd ")-l ="b"-2("c")-l "s"("c")-r
+3: "fd"("s")-l "st"("s")-r
+4: ="ds"("fd")-l ="v"("st")-r
+Words/Phrases: 14
+Nodes: 10
+Minimum depth: 2
+Maximum depth: 5

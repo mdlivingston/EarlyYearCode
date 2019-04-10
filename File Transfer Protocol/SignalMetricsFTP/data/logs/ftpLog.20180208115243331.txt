@@ -1,0 +1,1186 @@
+Started FTP process at 2/8/2018 11:52:43 AM
+Connected to 10.160.4.6 on attempt 1
+Remote directory set to /mnt/sd
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.6_2018_02_07_0000.dat - length 11812
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.6_2018_02_07_0100.dat - length 10479
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.6_2018_02_07_0200.dat - length 10806
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.6_2018_02_07_0300.dat - length 13789
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.6_2018_02_07_0400.dat - length 16275
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.6_2018_02_07_0500.dat - length 28349
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.6_2018_02_07_0600.dat - length 38151
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.6_2018_02_07_0700.dat - length 47160
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.6_2018_02_07_0800.dat - length 40836
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.6_2018_02_07_0900.dat - length 37375
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.6_2018_02_07_1000.dat - length 35123
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.6_2018_02_07_1100.dat - length 37047
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.6_2018_02_07_1200.dat - length 39058
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.6_2018_02_07_1300.dat - length 40414
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.6_2018_02_07_1400.dat - length 41479
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.6_2018_02_07_1500.dat - length 45254
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.6_2018_02_07_1600.dat - length 42926
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.6_2018_02_07_1700.dat - length 40172
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.6_2018_02_07_1800.dat - length 35398
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.6_2018_02_07_1900.dat - length 31418
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.6_2018_02_07_2000.dat - length 26296
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.6_2018_02_07_2100.dat - length 24030
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.6_2018_02_07_2200.dat - length 19141
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.6_2018_02_07_2300.dat - length 14044
+Finished with FTP process.
+Connected to 10.160.4.11 on attempt 1
+Remote directory set to /mnt/sd
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.11_2018_02_07_0000.dat - length 11872
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.11_2018_02_07_0100.dat - length 9385
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.11_2018_02_07_0200.dat - length 9084
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.11_2018_02_07_0300.dat - length 10360
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.11_2018_02_07_0400.dat - length 15337
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.11_2018_02_07_0500.dat - length 27651
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.11_2018_02_07_0600.dat - length 34792
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.11_2018_02_07_0700.dat - length 43753
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.11_2018_02_07_0800.dat - length 38607
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.11_2018_02_07_0900.dat - length 35813
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.11_2018_02_07_1000.dat - length 32574
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.11_2018_02_07_1100.dat - length 36536
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.11_2018_02_07_1200.dat - length 40325
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.11_2018_02_07_1300.dat - length 38203
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.11_2018_02_07_1400.dat - length 38887
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.11_2018_02_07_1500.dat - length 43285
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.11_2018_02_07_1600.dat - length 43603
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.11_2018_02_07_1700.dat - length 42121
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.11_2018_02_07_1800.dat - length 36821
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.11_2018_02_07_1900.dat - length 32211
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.11_2018_02_07_2000.dat - length 27026
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.11_2018_02_07_2100.dat - length 22528
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.11_2018_02_07_2200.dat - length 20116
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.11_2018_02_07_2300.dat - length 15343
+Finished with FTP process.
+Connected to 10.160.4.16 on attempt 1
+Remote directory set to /mnt/sd
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.16_2018_02_07_0000.dat - length 8000
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.16_2018_02_07_0100.dat - length 5631
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.16_2018_02_07_0200.dat - length 5997
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.16_2018_02_07_0300.dat - length 8397
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.16_2018_02_07_0400.dat - length 11852
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.16_2018_02_07_0500.dat - length 26777
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.16_2018_02_07_0600.dat - length 35461
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.16_2018_02_07_0700.dat - length 41836
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.16_2018_02_07_0800.dat - length 40873
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.16_2018_02_07_0900.dat - length 38297
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.16_2018_02_07_1000.dat - length 35739
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.16_2018_02_07_1100.dat - length 38224
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.16_2018_02_07_1200.dat - length 43114
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.16_2018_02_07_1300.dat - length 41506
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.16_2018_02_07_1400.dat - length 44449
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.16_2018_02_07_1500.dat - length 48485
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.16_2018_02_07_1600.dat - length 48722
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.16_2018_02_07_1700.dat - length 45939
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.16_2018_02_07_1800.dat - length 41363
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.16_2018_02_07_1900.dat - length 36525
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.16_2018_02_07_2000.dat - length 30673
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.16_2018_02_07_2100.dat - length 23472
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.16_2018_02_07_2200.dat - length 19799
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.16_2018_02_07_2300.dat - length 13479
+Finished with FTP process.
+Connected to 10.160.4.21 on attempt 1
+Remote directory set to /mnt/sd
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.21_2018_02_07_0000.dat - length 6206
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.21_2018_02_07_0100.dat - length 4006
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.21_2018_02_07_0200.dat - length 3745
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.21_2018_02_07_0300.dat - length 6055
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.21_2018_02_07_0400.dat - length 10496
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.21_2018_02_07_0500.dat - length 24595
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.21_2018_02_07_0600.dat - length 36793
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.21_2018_02_07_0700.dat - length 40434
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.21_2018_02_07_0800.dat - length 39829
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.21_2018_02_07_0900.dat - length 37228
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.21_2018_02_07_1000.dat - length 33277
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.21_2018_02_07_1100.dat - length 37969
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.21_2018_02_07_1200.dat - length 41679
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.21_2018_02_07_1300.dat - length 39899
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.21_2018_02_07_1400.dat - length 42659
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.21_2018_02_07_1500.dat - length 47657
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.21_2018_02_07_1600.dat - length 50060
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.21_2018_02_07_1700.dat - length 49137
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.21_2018_02_07_1800.dat - length 39816
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.21_2018_02_07_1900.dat - length 33753
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.21_2018_02_07_2000.dat - length 27677
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.21_2018_02_07_2100.dat - length 21140
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.21_2018_02_07_2200.dat - length 17304
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.21_2018_02_07_2300.dat - length 11343
+Finished with FTP process.
+Connected to 10.160.4.26 on attempt 1
+Remote directory set to /mnt/sd
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.26_2018_02_07_0000.dat - length 10295
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.26_2018_02_07_0100.dat - length 5829
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.26_2018_02_07_0200.dat - length 5088
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.26_2018_02_07_0300.dat - length 6994
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.26_2018_02_07_0400.dat - length 12038
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.26_2018_02_07_0500.dat - length 22624
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.26_2018_02_07_0600.dat - length 33967
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.26_2018_02_07_0700.dat - length 43462
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.26_2018_02_07_0800.dat - length 39222
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.26_2018_02_07_0900.dat - length 36421
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.26_2018_02_07_1000.dat - length 33611
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.26_2018_02_07_1100.dat - length 37223
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.26_2018_02_07_1200.dat - length 41158
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.26_2018_02_07_1300.dat - length 38566
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.26_2018_02_07_1400.dat - length 41763
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.26_2018_02_07_1500.dat - length 47180
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.26_2018_02_07_1600.dat - length 48145
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.26_2018_02_07_1700.dat - length 45169
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.26_2018_02_07_1800.dat - length 38319
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.26_2018_02_07_1900.dat - length 35080
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.26_2018_02_07_2000.dat - length 29405
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.26_2018_02_07_2100.dat - length 23870
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.26_2018_02_07_2200.dat - length 19677
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.26_2018_02_07_2300.dat - length 15565
+Finished with FTP process.
+Connected to 10.160.4.31 on attempt 1
+Remote directory set to /mnt/sd
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.31_2018_02_07_0000.dat - length 3916
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.31_2018_02_07_0100.dat - length 2525
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.31_2018_02_07_0200.dat - length 2010
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.31_2018_02_07_0300.dat - length 3675
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.31_2018_02_07_0400.dat - length 6506
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.31_2018_02_07_0500.dat - length 14282
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.31_2018_02_07_0600.dat - length 22996
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.31_2018_02_07_0700.dat - length 34024
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.31_2018_02_07_0800.dat - length 25600
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.31_2018_02_07_0900.dat - length 22215
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.31_2018_02_07_1000.dat - length 20126
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.31_2018_02_07_1100.dat - length 24405
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.31_2018_02_07_1200.dat - length 25545
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.31_2018_02_07_1300.dat - length 24561
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.31_2018_02_07_1400.dat - length 26718
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.31_2018_02_07_1500.dat - length 32326
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.31_2018_02_07_1600.dat - length 31891
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.31_2018_02_07_1700.dat - length 32383
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.31_2018_02_07_1800.dat - length 24768
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.31_2018_02_07_1900.dat - length 20334
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.31_2018_02_07_2000.dat - length 16864
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.31_2018_02_07_2100.dat - length 13871
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.31_2018_02_07_2200.dat - length 10794
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.31_2018_02_07_2300.dat - length 6176
+Finished with FTP process.
+Connected to 10.160.4.36 on attempt 1
+Error on 10.160.4.36: /mnt/sd: No such file or directory
+Connected to 10.160.4.36 on attempt 2
+Error on 10.160.4.36: /mnt/sd: No such file or directory
+Connected to 10.160.4.36 on attempt 3
+Error on 10.160.4.36: /mnt/sd: No such file or directory
+Finished with FTP process.
+Connected to 10.160.4.41 on attempt 1
+Error connecting to 10.160.4.41 on attempt 1: Socket read operation has timed out after 30000 milliseconds.
+Error on 10.160.4.41: /mnt/sd: No such file or directory
+Connected to 10.160.4.41 on attempt 2
+Error connecting to 10.160.4.41 on attempt 2: Socket read operation has timed out after 30000 milliseconds.
+Error on 10.160.4.41: /mnt/sd: No such file or directory
+Connected to 10.160.4.41 on attempt 3
+Error connecting to 10.160.4.41 on attempt 3: Socket read operation has timed out after 30000 milliseconds.
+Error on 10.160.4.41: /mnt/sd: No such file or directory
+Finished with FTP process.
+Connected to 10.160.4.46 on attempt 1
+Remote directory set to /mnt/sd
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.46_2018_02_07_0000.dat - length 11031
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.46_2018_02_07_0100.dat - length 10011
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.46_2018_02_07_0200.dat - length 9896
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.46_2018_02_07_0300.dat - length 11712
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.46_2018_02_07_0400.dat - length 15539
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.46_2018_02_07_0500.dat - length 20112
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.46_2018_02_07_0600.dat - length 26950
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.46_2018_02_07_0700.dat - length 34925
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.46_2018_02_07_0800.dat - length 27302
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.46_2018_02_07_0900.dat - length 24666
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.46_2018_02_07_1000.dat - length 23551
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.46_2018_02_07_1100.dat - length 22242
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.46_2018_02_07_1200.dat - length 23023
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.46_2018_02_07_1300.dat - length 20880
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.46_2018_02_07_1400.dat - length 25411
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.46_2018_02_07_1500.dat - length 28778
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.46_2018_02_07_1600.dat - length 29758
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.46_2018_02_07_1700.dat - length 31630
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.46_2018_02_07_1800.dat - length 23981
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.46_2018_02_07_1900.dat - length 20866
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.46_2018_02_07_2000.dat - length 17744
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.46_2018_02_07_2100.dat - length 14944
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.46_2018_02_07_2200.dat - length 12276
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.46_2018_02_07_2300.dat - length 8865
+Finished with FTP process.
+Connected to 10.160.4.51 on attempt 1
+Remote directory set to /mnt/sd
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.51_2018_02_07_0000.dat - length 4957
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.51_2018_02_07_0100.dat - length 3378
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.51_2018_02_07_0200.dat - length 2496
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.51_2018_02_07_0300.dat - length 3242
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.51_2018_02_07_0400.dat - length 4709
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.51_2018_02_07_0500.dat - length 9303
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.51_2018_02_07_0600.dat - length 16860
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.51_2018_02_07_0700.dat - length 22848
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.51_2018_02_07_0800.dat - length 21640
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.51_2018_02_07_0900.dat - length 20322
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.51_2018_02_07_1000.dat - length 21333
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.51_2018_02_07_1100.dat - length 24588
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.51_2018_02_07_1200.dat - length 26245
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.51_2018_02_07_1300.dat - length 25153
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.51_2018_02_07_1400.dat - length 24692
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.51_2018_02_07_1500.dat - length 25489
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.51_2018_02_07_1600.dat - length 25736
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.51_2018_02_07_1700.dat - length 26181
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.51_2018_02_07_1800.dat - length 24162
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.51_2018_02_07_1900.dat - length 21813
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.51_2018_02_07_2000.dat - length 18882
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.51_2018_02_07_2100.dat - length 14453
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.51_2018_02_07_2200.dat - length 10996
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.51_2018_02_07_2300.dat - length 8030
+Finished with FTP process.
+Connected to 10.160.4.56 on attempt 1
+Remote directory set to /mnt/sd
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.56_2018_02_07_0000.dat - length 12949
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.56_2018_02_07_0100.dat - length 8858
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.56_2018_02_07_0200.dat - length 6795
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.56_2018_02_07_0300.dat - length 6929
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.56_2018_02_07_0400.dat - length 10910
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.56_2018_02_07_0500.dat - length 18965
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.56_2018_02_07_0600.dat - length 24291
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.56_2018_02_07_0700.dat - length 33180
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.56_2018_02_07_0800.dat - length 31317
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.56_2018_02_07_0900.dat - length 29332
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.56_2018_02_07_1000.dat - length 30546
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.56_2018_02_07_1100.dat - length 34137
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.56_2018_02_07_1200.dat - length 35059
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.56_2018_02_07_1300.dat - length 34611
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.56_2018_02_07_1400.dat - length 35100
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.56_2018_02_07_1500.dat - length 37774
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.56_2018_02_07_1600.dat - length 38719
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.56_2018_02_07_1700.dat - length 38143
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.56_2018_02_07_1800.dat - length 33981
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.56_2018_02_07_1900.dat - length 28378
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.56_2018_02_07_2000.dat - length 24531
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.56_2018_02_07_2100.dat - length 20897
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.56_2018_02_07_2200.dat - length 21642
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.56_2018_02_07_2300.dat - length 18979
+Finished with FTP process.
+Connected to 10.160.4.61 on attempt 1
+Remote directory set to /mnt/sd
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.61_2018_02_07_0000.dat - length 5474
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.61_2018_02_07_0100.dat - length 3766
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.61_2018_02_07_0200.dat - length 2461
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.61_2018_02_07_0300.dat - length 3001
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.61_2018_02_07_0400.dat - length 3554
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.61_2018_02_07_0500.dat - length 7708
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.61_2018_02_07_0600.dat - length 14546
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.61_2018_02_07_0700.dat - length 23808
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.61_2018_02_07_0800.dat - length 22699
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.61_2018_02_07_0900.dat - length 24998
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.61_2018_02_07_1000.dat - length 26335
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.61_2018_02_07_1100.dat - length 30275
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.61_2018_02_07_1200.dat - length 33225
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.61_2018_02_07_1300.dat - length 31346
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.61_2018_02_07_1400.dat - length 32019
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.61_2018_02_07_1500.dat - length 37292
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.61_2018_02_07_1600.dat - length 36402
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.61_2018_02_07_1700.dat - length 32444
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.61_2018_02_07_1800.dat - length 29705
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.61_2018_02_07_1900.dat - length 24809
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.61_2018_02_07_2000.dat - length 19501
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.61_2018_02_07_2100.dat - length 15696
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.61_2018_02_07_2200.dat - length 12549
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.61_2018_02_07_2300.dat - length 9602
+Finished with FTP process.
+Connected to 10.160.4.66 on attempt 1
+Remote directory set to /mnt/sd
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.66_2018_02_07_0000.dat - length 3617
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.66_2018_02_07_0100.dat - length 2296
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.66_2018_02_07_0200.dat - length 1345
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.66_2018_02_07_0300.dat - length 1727
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.66_2018_02_07_0400.dat - length 2383
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.66_2018_02_07_0500.dat - length 4569
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.66_2018_02_07_0600.dat - length 10585
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.66_2018_02_07_0700.dat - length 17207
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.66_2018_02_07_0800.dat - length 14748
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.66_2018_02_07_0900.dat - length 14928
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.66_2018_02_07_1000.dat - length 15872
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.66_2018_02_07_1100.dat - length 17484
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.66_2018_02_07_1200.dat - length 19784
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.66_2018_02_07_1300.dat - length 19300
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.66_2018_02_07_1400.dat - length 20153
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.66_2018_02_07_1500.dat - length 21939
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.66_2018_02_07_1600.dat - length 22471
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.66_2018_02_07_1700.dat - length 21482
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.66_2018_02_07_1800.dat - length 19441
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.66_2018_02_07_1900.dat - length 16957
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.66_2018_02_07_2000.dat - length 12727
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.66_2018_02_07_2100.dat - length 11449
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.66_2018_02_07_2200.dat - length 8046
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.66_2018_02_07_2300.dat - length 7353
+Finished with FTP process.
+Connected to 10.160.4.71 on attempt 1
+Remote directory set to /mnt/sd
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.71_2018_02_07_0000.dat - length 14853
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.71_2018_02_07_0100.dat - length 10438
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.71_2018_02_07_0200.dat - length 8528
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.71_2018_02_07_0300.dat - length 9141
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.71_2018_02_07_0400.dat - length 12261
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.71_2018_02_07_0500.dat - length 19215
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.71_2018_02_07_0600.dat - length 31857
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.71_2018_02_07_0700.dat - length 47300
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.71_2018_02_07_0800.dat - length 43871
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.71_2018_02_07_0900.dat - length 44637
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.71_2018_02_07_1000.dat - length 46935
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.71_2018_02_07_1100.dat - length 51610
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.71_2018_02_07_1200.dat - length 57766
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.71_2018_02_07_1300.dat - length 57201
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.71_2018_02_07_1400.dat - length 57961
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.71_2018_02_07_1500.dat - length 64066
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.71_2018_02_07_1600.dat - length 62312
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.71_2018_02_07_1700.dat - length 58407
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.71_2018_02_07_1800.dat - length 52686
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.71_2018_02_07_1900.dat - length 45462
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.71_2018_02_07_2000.dat - length 36991
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.71_2018_02_07_2100.dat - length 30360
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.71_2018_02_07_2200.dat - length 24203
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.71_2018_02_07_2300.dat - length 21410
+Finished with FTP process.
+Connected to 10.160.4.76 on attempt 1
+Remote directory set to /mnt/sd
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.76_2018_02_07_0000.dat - length 11114
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.76_2018_02_07_0100.dat - length 7831
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.76_2018_02_07_0200.dat - length 6836
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.76_2018_02_07_0300.dat - length 9322
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.76_2018_02_07_0400.dat - length 10455
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.76_2018_02_07_0500.dat - length 15026
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.76_2018_02_07_0600.dat - length 28094
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.76_2018_02_07_0700.dat - length 42470
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.76_2018_02_07_0800.dat - length 41580
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.76_2018_02_07_0900.dat - length 42083
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.76_2018_02_07_1000.dat - length 44345
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.76_2018_02_07_1100.dat - length 49217
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.76_2018_02_07_1200.dat - length 51616
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.76_2018_02_07_1300.dat - length 50082
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.76_2018_02_07_1400.dat - length 52016
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.76_2018_02_07_1500.dat - length 56376
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.76_2018_02_07_1600.dat - length 51339
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.76_2018_02_07_1700.dat - length 49838
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.76_2018_02_07_1800.dat - length 49202
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.76_2018_02_07_1900.dat - length 42012
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.76_2018_02_07_2000.dat - length 33199
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.76_2018_02_07_2100.dat - length 28135
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.76_2018_02_07_2200.dat - length 22811
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.76_2018_02_07_2300.dat - length 13962
+Finished with FTP process.
+Connected to 10.160.4.81 on attempt 1
+Remote directory set to /mnt/sd
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.81_2018_02_07_0000.dat - length 89912
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.81_2018_02_07_0100.dat - length 80127
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.81_2018_02_07_0200.dat - length 80383
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.81_2018_02_07_0300.dat - length 85378
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.81_2018_02_07_0400.dat - length 91223
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.81_2018_02_07_0500.dat - length 110223
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.81_2018_02_07_0600.dat - length 127685
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.81_2018_02_07_0700.dat - length 134901
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.81_2018_02_07_0800.dat - length 134513
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.81_2018_02_07_0900.dat - length 134500
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.81_2018_02_07_1000.dat - length 133742
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.81_2018_02_07_1100.dat - length 129607
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.81_2018_02_07_1200.dat - length 126963
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.81_2018_02_07_1300.dat - length 129253
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.81_2018_02_07_1400.dat - length 127602
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.81_2018_02_07_1500.dat - length 133237
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.81_2018_02_07_1600.dat - length 126937
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.81_2018_02_07_1700.dat - length 127269
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.81_2018_02_07_1800.dat - length 135990
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.81_2018_02_07_1900.dat - length 136387
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.81_2018_02_07_2000.dat - length 127155
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.81_2018_02_07_2100.dat - length 114887
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.81_2018_02_07_2200.dat - length 108274
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.81_2018_02_07_2300.dat - length 101708
+Finished with FTP process.
+Connected to 10.160.4.86 on attempt 1
+Remote directory set to /mnt/sd
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.86_2018_02_07_0000.dat - length 6761
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.86_2018_02_07_0100.dat - length 5176
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.86_2018_02_07_0200.dat - length 4761
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.86_2018_02_07_0300.dat - length 6146
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.86_2018_02_07_0400.dat - length 6833
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.86_2018_02_07_0500.dat - length 10819
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.86_2018_02_07_0600.dat - length 22458
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.86_2018_02_07_0700.dat - length 37288
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.86_2018_02_07_0800.dat - length 35311
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.86_2018_02_07_0900.dat - length 35020
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.86_2018_02_07_1000.dat - length 36679
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.86_2018_02_07_1100.dat - length 43293
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.86_2018_02_07_1200.dat - length 47881
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.86_2018_02_07_1300.dat - length 46032
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.86_2018_02_07_1400.dat - length 48291
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.86_2018_02_07_1500.dat - length 51856
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.86_2018_02_07_1600.dat - length 49709
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.86_2018_02_07_1700.dat - length 44962
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.86_2018_02_07_1800.dat - length 42805
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.86_2018_02_07_1900.dat - length 37004
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.86_2018_02_07_2000.dat - length 26812
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.86_2018_02_07_2100.dat - length 23097
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.86_2018_02_07_2200.dat - length 17431
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.86_2018_02_07_2300.dat - length 10903
+Finished with FTP process.
+Connected to 10.160.4.91 on attempt 1
+Remote directory set to /mnt/sd
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.91_2018_02_07_0000.dat - length 7072
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.91_2018_02_07_0100.dat - length 4648
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.91_2018_02_07_0200.dat - length 3559
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.91_2018_02_07_0300.dat - length 4570
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.91_2018_02_07_0400.dat - length 4902
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.91_2018_02_07_0500.dat - length 9320
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.91_2018_02_07_0600.dat - length 23056
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.91_2018_02_07_0700.dat - length 35992
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.91_2018_02_07_0800.dat - length 33845
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.91_2018_02_07_0900.dat - length 34391
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.91_2018_02_07_1000.dat - length 34104
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.91_2018_02_07_1100.dat - length 41606
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.91_2018_02_07_1200.dat - length 43596
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.91_2018_02_07_1300.dat - length 40460
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.91_2018_02_07_1400.dat - length 46013
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.91_2018_02_07_1500.dat - length 53805
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.91_2018_02_07_1600.dat - length 45846
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.91_2018_02_07_1700.dat - length 41290
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.91_2018_02_07_1800.dat - length 42163
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.91_2018_02_07_1900.dat - length 34872
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.91_2018_02_07_2000.dat - length 21053
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.91_2018_02_07_2100.dat - length 18013
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.91_2018_02_07_2200.dat - length 16984
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.91_2018_02_07_2300.dat - length 11239
+Finished with FTP process.
+Connected to 10.160.4.96 on attempt 1
+Remote directory set to /mnt/sd
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.96_2018_02_07_0000.dat - length 7634
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.96_2018_02_07_0100.dat - length 5424
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.96_2018_02_07_0200.dat - length 3407
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.96_2018_02_07_0300.dat - length 4832
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.96_2018_02_07_0400.dat - length 6066
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.96_2018_02_07_0500.dat - length 13568
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.96_2018_02_07_0600.dat - length 17801
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.96_2018_02_07_0700.dat - length 27185
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.96_2018_02_07_0800.dat - length 23303
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.96_2018_02_07_0900.dat - length 20512
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.96_2018_02_07_1000.dat - length 21220
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.96_2018_02_07_1100.dat - length 23968
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.96_2018_02_07_1200.dat - length 26102
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.96_2018_02_07_1300.dat - length 25765
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.96_2018_02_07_1400.dat - length 28032
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.96_2018_02_07_1500.dat - length 30476
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.96_2018_02_07_1600.dat - length 30130
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.96_2018_02_07_1700.dat - length 28627
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.96_2018_02_07_1800.dat - length 26821
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.96_2018_02_07_1900.dat - length 22631
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.96_2018_02_07_2000.dat - length 16453
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.96_2018_02_07_2100.dat - length 14612
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.96_2018_02_07_2200.dat - length 15567
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.96_2018_02_07_2300.dat - length 13824
+Finished with FTP process.
+Connected to 10.160.4.101 on attempt 1
+Remote directory set to /mnt/sd
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.101_2018_02_07_0000.dat - length 7378
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.101_2018_02_07_0100.dat - length 5117
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.101_2018_02_07_0200.dat - length 4050
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.101_2018_02_07_0300.dat - length 4518
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.101_2018_02_07_0400.dat - length 6423
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.101_2018_02_07_0500.dat - length 14601
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.101_2018_02_07_0600.dat - length 18375
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.101_2018_02_07_0700.dat - length 28786
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.101_2018_02_07_0800.dat - length 24861
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.101_2018_02_07_0900.dat - length 22241
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.101_2018_02_07_1000.dat - length 23285
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.101_2018_02_07_1100.dat - length 25874
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.101_2018_02_07_1200.dat - length 29066
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.101_2018_02_07_1300.dat - length 28411
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.101_2018_02_07_1400.dat - length 30155
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.101_2018_02_07_1500.dat - length 32212
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.101_2018_02_07_1600.dat - length 31319
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.101_2018_02_07_1700.dat - length 30747
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.101_2018_02_07_1800.dat - length 27203
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.101_2018_02_07_1900.dat - length 22795
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.101_2018_02_07_2000.dat - length 16414
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.101_2018_02_07_2100.dat - length 14993
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.101_2018_02_07_2200.dat - length 15977
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.101_2018_02_07_2300.dat - length 13094
+Finished with FTP process.
+Connected to 10.160.4.116 on attempt 1
+Remote directory set to /mnt/sd
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.116_2018_02_07_0000.dat - length 6462
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.116_2018_02_07_0100.dat - length 3724
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.116_2018_02_07_0200.dat - length 3775
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.116_2018_02_07_0300.dat - length 4109
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.116_2018_02_07_0400.dat - length 7196
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.116_2018_02_07_0500.dat - length 14602
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.116_2018_02_07_0600.dat - length 20519
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.116_2018_02_07_0700.dat - length 18879
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.116_2018_02_07_0800.dat - length 16361
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.116_2018_02_07_0900.dat - length 16697
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.116_2018_02_07_1000.dat - length 16460
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.116_2018_02_07_1100.dat - length 19900
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.116_2018_02_07_1200.dat - length 21312
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.116_2018_02_07_1300.dat - length 20138
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.116_2018_02_07_1400.dat - length 20650
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.116_2018_02_07_1500.dat - length 23853
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.116_2018_02_07_1600.dat - length 22657
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.116_2018_02_07_1700.dat - length 19932
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.116_2018_02_07_1800.dat - length 16913
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.116_2018_02_07_1900.dat - length 14626
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.116_2018_02_07_2000.dat - length 12391
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.116_2018_02_07_2100.dat - length 10742
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.116_2018_02_07_2200.dat - length 10513
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.116_2018_02_07_2300.dat - length 9197
+Finished with FTP process.
+Connected to 10.160.4.121 on attempt 1
+Remote directory set to /mnt/sd
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.121_2018_02_07_0000.dat - length 6952
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.121_2018_02_07_0100.dat - length 4048
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.121_2018_02_07_0200.dat - length 3719
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.121_2018_02_07_0300.dat - length 4740
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.121_2018_02_07_0400.dat - length 6901
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.121_2018_02_07_0500.dat - length 13364
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.121_2018_02_07_0600.dat - length 18603
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.121_2018_02_07_0700.dat - length 19048
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.121_2018_02_07_0800.dat - length 17422
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.121_2018_02_07_0900.dat - length 17610
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.121_2018_02_07_1000.dat - length 17518
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.121_2018_02_07_1100.dat - length 20607
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.121_2018_02_07_1200.dat - length 21838
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.121_2018_02_07_1300.dat - length 20745
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.121_2018_02_07_1400.dat - length 21723
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.121_2018_02_07_1500.dat - length 25150
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.121_2018_02_07_1600.dat - length 23875
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.121_2018_02_07_1700.dat - length 20513
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.121_2018_02_07_1800.dat - length 17494
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.121_2018_02_07_1900.dat - length 14812
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.121_2018_02_07_2000.dat - length 12513
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.121_2018_02_07_2100.dat - length 11476
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.121_2018_02_07_2200.dat - length 12147
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.121_2018_02_07_2300.dat - length 9337
+Finished with FTP process.
+Connected to 10.160.4.126 on attempt 1
+Remote directory set to /mnt/sd
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.126_2018_02_07_0000.dat - length 9969
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.126_2018_02_07_0100.dat - length 7896
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.126_2018_02_07_0200.dat - length 7742
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.126_2018_02_07_0300.dat - length 8300
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.126_2018_02_07_0400.dat - length 8206
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.126_2018_02_07_0500.dat - length 13203
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.126_2018_02_07_0600.dat - length 19080
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.126_2018_02_07_0700.dat - length 21148
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.126_2018_02_07_0800.dat - length 19103
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.126_2018_02_07_0900.dat - length 18454
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.126_2018_02_07_1000.dat - length 18143
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.126_2018_02_07_1100.dat - length 19601
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.126_2018_02_07_1200.dat - length 20070
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.126_2018_02_07_1300.dat - length 19513
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.126_2018_02_07_1400.dat - length 20841
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.126_2018_02_07_1500.dat - length 22817
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.126_2018_02_07_1600.dat - length 22547
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.126_2018_02_07_1700.dat - length 21137
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.126_2018_02_07_1800.dat - length 18252
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.126_2018_02_07_1900.dat - length 16946
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.126_2018_02_07_2000.dat - length 13913
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.126_2018_02_07_2100.dat - length 12237
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.126_2018_02_07_2200.dat - length 11820
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.126_2018_02_07_2300.dat - length 11307
+Finished with FTP process.
+Connected to 10.160.4.131 on attempt 1
+Remote directory set to /mnt/sd
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.131_2018_02_07_0000.dat - length 9395
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.131_2018_02_07_0100.dat - length 6425
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.131_2018_02_07_0200.dat - length 5234
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.131_2018_02_07_0300.dat - length 6629
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.131_2018_02_07_0400.dat - length 7776
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.131_2018_02_07_0500.dat - length 14955
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.131_2018_02_07_0600.dat - length 20763
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.131_2018_02_07_0700.dat - length 24299
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.131_2018_02_07_0800.dat - length 22887
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.131_2018_02_07_0900.dat - length 22658
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.131_2018_02_07_1000.dat - length 22977
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.131_2018_02_07_1100.dat - length 23963
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.131_2018_02_07_1200.dat - length 25262
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.131_2018_02_07_1300.dat - length 24521
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.131_2018_02_07_1400.dat - length 25772
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.131_2018_02_07_1500.dat - length 27325
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.131_2018_02_07_1600.dat - length 26754
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.131_2018_02_07_1700.dat - length 25999
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.131_2018_02_07_1800.dat - length 22661
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.131_2018_02_07_1900.dat - length 21346
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.131_2018_02_07_2000.dat - length 20141
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.131_2018_02_07_2100.dat - length 19069
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.131_2018_02_07_2200.dat - length 16890
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.131_2018_02_07_2300.dat - length 14806
+Finished with FTP process.
+Connected to 10.160.4.136 on attempt 1
+Remote directory set to /mnt/sd
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.136_2018_02_07_0000.dat - length 8287
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.136_2018_02_07_0100.dat - length 7095
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.136_2018_02_07_0200.dat - length 7190
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.136_2018_02_07_0300.dat - length 7287
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.136_2018_02_07_0400.dat - length 7693
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.136_2018_02_07_0500.dat - length 9815
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.136_2018_02_07_0600.dat - length 12547
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.136_2018_02_07_0700.dat - length 16977
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.136_2018_02_07_0800.dat - length 15979
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.136_2018_02_07_0900.dat - length 14975
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.136_2018_02_07_1000.dat - length 14647
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.136_2018_02_07_1100.dat - length 16451
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.136_2018_02_07_1200.dat - length 17400
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.136_2018_02_07_1300.dat - length 16018
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.136_2018_02_07_1400.dat - length 17973
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.136_2018_02_07_1500.dat - length 19158
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.136_2018_02_07_1600.dat - length 18126
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.136_2018_02_07_1700.dat - length 17782
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.136_2018_02_07_1800.dat - length 14907
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.136_2018_02_07_1900.dat - length 13369
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.136_2018_02_07_2000.dat - length 11739
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.136_2018_02_07_2100.dat - length 10174
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.136_2018_02_07_2200.dat - length 9192
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.136_2018_02_07_2300.dat - length 8585
+Finished with FTP process.
+Connected to 10.160.4.141 on attempt 1
+Remote directory set to /mnt/sd
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.141_2018_02_07_0000.dat - length 4294
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.141_2018_02_07_0100.dat - length 2768
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.141_2018_02_07_0200.dat - length 2018
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.141_2018_02_07_0300.dat - length 3090
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.141_2018_02_07_0400.dat - length 2575
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.141_2018_02_07_0500.dat - length 6851
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.141_2018_02_07_0600.dat - length 11081
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.141_2018_02_07_0700.dat - length 15385
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.141_2018_02_07_0800.dat - length 14510
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.141_2018_02_07_0900.dat - length 14381
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.141_2018_02_07_1000.dat - length 14142
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.141_2018_02_07_1100.dat - length 15760
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.141_2018_02_07_1200.dat - length 17439
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.141_2018_02_07_1300.dat - length 16413
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.141_2018_02_07_1400.dat - length 18326
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.141_2018_02_07_1500.dat - length 19622
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.141_2018_02_07_1600.dat - length 19276
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.141_2018_02_07_1700.dat - length 18856
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.141_2018_02_07_1800.dat - length 14760
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.141_2018_02_07_1900.dat - length 13158
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.141_2018_02_07_2000.dat - length 11247
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.141_2018_02_07_2100.dat - length 9994
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.141_2018_02_07_2200.dat - length 7758
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.141_2018_02_07_2300.dat - length 5380
+Finished with FTP process.
+Connected to 10.160.4.146 on attempt 1
+Remote directory set to /mnt/sd
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.146_2018_02_07_0000.dat - length 12611
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.146_2018_02_07_0100.dat - length 12135
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.146_2018_02_07_0200.dat - length 11164
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.146_2018_02_07_0300.dat - length 10502
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.146_2018_02_07_0400.dat - length 10437
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.146_2018_02_07_0500.dat - length 11751
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.146_2018_02_07_0600.dat - length 13518
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.146_2018_02_07_0700.dat - length 21557
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.146_2018_02_07_0800.dat - length 20377
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.146_2018_02_07_0900.dat - length 20980
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.146_2018_02_07_1000.dat - length 19850
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.146_2018_02_07_1100.dat - length 22444
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.146_2018_02_07_1200.dat - length 22562
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.146_2018_02_07_1300.dat - length 20154
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.146_2018_02_07_1400.dat - length 21512
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.146_2018_02_07_1500.dat - length 23184
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.146_2018_02_07_1600.dat - length 23104
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.146_2018_02_07_1700.dat - length 22176
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.146_2018_02_07_1800.dat - length 17818
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.146_2018_02_07_1900.dat - length 15746
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.146_2018_02_07_2000.dat - length 14791
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.146_2018_02_07_2100.dat - length 13022
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.146_2018_02_07_2200.dat - length 11713
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.146_2018_02_07_2300.dat - length 10526
+Finished with FTP process.
+Connected to 10.160.4.151 on attempt 1
+Remote directory set to /mnt/sd
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.151_2018_02_07_0000.dat - length 11400
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.151_2018_02_07_0100.dat - length 10113
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.151_2018_02_07_0200.dat - length 10671
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.151_2018_02_07_0300.dat - length 10679
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.151_2018_02_07_0400.dat - length 10870
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.151_2018_02_07_0500.dat - length 13552
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.151_2018_02_07_0600.dat - length 17288
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.151_2018_02_07_0700.dat - length 24800
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.151_2018_02_07_0800.dat - length 24446
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.151_2018_02_07_0900.dat - length 23951
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.151_2018_02_07_1000.dat - length 24437
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.151_2018_02_07_1100.dat - length 27180
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.151_2018_02_07_1200.dat - length 28395
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.151_2018_02_07_1300.dat - length 25899
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.151_2018_02_07_1400.dat - length 27563
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.151_2018_02_07_1500.dat - length 30198
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.151_2018_02_07_1600.dat - length 28876
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.151_2018_02_07_1700.dat - length 27259
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.151_2018_02_07_1800.dat - length 23381
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.151_2018_02_07_1900.dat - length 21527
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.151_2018_02_07_2000.dat - length 18636
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.151_2018_02_07_2100.dat - length 17527
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.151_2018_02_07_2200.dat - length 13555
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.151_2018_02_07_2300.dat - length 10788
+Finished with FTP process.
+Connected to 10.160.4.156 on attempt 1
+Remote directory set to /mnt/sd
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.156_2018_02_07_0000.dat - length 4036
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.156_2018_02_07_0100.dat - length 2674
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.156_2018_02_07_0200.dat - length 3188
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.156_2018_02_07_0300.dat - length 5017
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.156_2018_02_07_0400.dat - length 3030
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.156_2018_02_07_0500.dat - length 6221
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.156_2018_02_07_0600.dat - length 11149
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.156_2018_02_07_0700.dat - length 21760
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.156_2018_02_07_0800.dat - length 22076
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.156_2018_02_07_0900.dat - length 19365
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.156_2018_02_07_1000.dat - length 19230
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.156_2018_02_07_1100.dat - length 21314
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.156_2018_02_07_1200.dat - length 24368
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.156_2018_02_07_1300.dat - length 23685
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.156_2018_02_07_1400.dat - length 23734
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.156_2018_02_07_1500.dat - length 26440
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.156_2018_02_07_1600.dat - length 25190
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.156_2018_02_07_1700.dat - length 23756
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.156_2018_02_07_1800.dat - length 18692
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.156_2018_02_07_1900.dat - length 16721
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.156_2018_02_07_2000.dat - length 12730
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.156_2018_02_07_2100.dat - length 9116
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.156_2018_02_07_2200.dat - length 7191
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.156_2018_02_07_2300.dat - length 4353
+Finished with FTP process.
+Connected to 10.160.4.161 on attempt 1
+Remote directory set to /mnt/sd
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.161_2018_02_07_0000.dat - length 10513
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.161_2018_02_07_0100.dat - length 8149
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.161_2018_02_07_0200.dat - length 5148
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.161_2018_02_07_0300.dat - length 3536
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.161_2018_02_07_0400.dat - length 4091
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.161_2018_02_07_0500.dat - length 7770
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.161_2018_02_07_0600.dat - length 18225
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.161_2018_02_07_0700.dat - length 29908
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.161_2018_02_07_0800.dat - length 31368
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.161_2018_02_07_0900.dat - length 28312
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.161_2018_02_07_1000.dat - length 30314
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.161_2018_02_07_1100.dat - length 34978
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.161_2018_02_07_1200.dat - length 34263
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.161_2018_02_07_1300.dat - length 33523
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.161_2018_02_07_1400.dat - length 37364
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.161_2018_02_07_1500.dat - length 35444
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.161_2018_02_07_1600.dat - length 36001
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.161_2018_02_07_1700.dat - length 34505
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.161_2018_02_07_1800.dat - length 30997
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.161_2018_02_07_1900.dat - length 28646
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.161_2018_02_07_2000.dat - length 22108
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.161_2018_02_07_2100.dat - length 17293
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.161_2018_02_07_2200.dat - length 15087
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.161_2018_02_07_2300.dat - length 10977
+Finished with FTP process.
+Connected to 10.160.4.166 on attempt 1
+Remote directory set to /mnt/sd
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.166_2018_02_07_0000.dat - length 4833
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.166_2018_02_07_0100.dat - length 2942
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.166_2018_02_07_0200.dat - length 1919
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.166_2018_02_07_0300.dat - length 1230
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.166_2018_02_07_0400.dat - length 1354
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.166_2018_02_07_0500.dat - length 3936
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.166_2018_02_07_0600.dat - length 10621
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.166_2018_02_07_0700.dat - length 17673
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.166_2018_02_07_0800.dat - length 16675
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.166_2018_02_07_0900.dat - length 13863
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.166_2018_02_07_1000.dat - length 15246
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.166_2018_02_07_1100.dat - length 18666
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.166_2018_02_07_1200.dat - length 20174
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.166_2018_02_07_1300.dat - length 18968
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.166_2018_02_07_1400.dat - length 18961
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.166_2018_02_07_1500.dat - length 22047
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.166_2018_02_07_1600.dat - length 21009
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.166_2018_02_07_1700.dat - length 21223
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.166_2018_02_07_1800.dat - length 16652
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.166_2018_02_07_1900.dat - length 15868
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.166_2018_02_07_2000.dat - length 11440
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.166_2018_02_07_2100.dat - length 9230
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.166_2018_02_07_2200.dat - length 6356
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.166_2018_02_07_2300.dat - length 4554
+Finished with FTP process.
+Connected to 10.160.4.171 on attempt 1
+Remote directory set to /mnt/sd
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.171_2018_02_07_0000.dat - length 3193
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.171_2018_02_07_0100.dat - length 2555
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.171_2018_02_07_0200.dat - length 1574
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.171_2018_02_07_0300.dat - length 1687
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.171_2018_02_07_0400.dat - length 1700
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.171_2018_02_07_0500.dat - length 3189
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.171_2018_02_07_0600.dat - length 8465
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.171_2018_02_07_0700.dat - length 15631
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.171_2018_02_07_0800.dat - length 16720
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.171_2018_02_07_0900.dat - length 15051
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.171_2018_02_07_1000.dat - length 16084
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.171_2018_02_07_1100.dat - length 20217
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.171_2018_02_07_1200.dat - length 21635
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.171_2018_02_07_1300.dat - length 21293
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.171_2018_02_07_1400.dat - length 21684
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.171_2018_02_07_1500.dat - length 23324
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.171_2018_02_07_1600.dat - length 22528
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.171_2018_02_07_1700.dat - length 22079
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.171_2018_02_07_1800.dat - length 18622
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.171_2018_02_07_1900.dat - length 16358
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.171_2018_02_07_2000.dat - length 12880
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.171_2018_02_07_2100.dat - length 9438
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.171_2018_02_07_2200.dat - length 6874
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.171_2018_02_07_2300.dat - length 4391
+Finished with FTP process.
+Connected to 10.160.4.176 on attempt 1
+Remote directory set to /mnt/sd
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.176_2018_02_07_0000.dat - length 17033
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.176_2018_02_07_0100.dat - length 14370
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.176_2018_02_07_0200.dat - length 12083
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.176_2018_02_07_0300.dat - length 10596
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.176_2018_02_07_0400.dat - length 8934
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.176_2018_02_07_0500.dat - length 33523
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.176_2018_02_07_0600.dat - length 49573
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.176_2018_02_07_0700.dat - length 35945
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.176_2018_02_07_0800.dat - length 34591
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.176_2018_02_07_0900.dat - length 34320
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.176_2018_02_07_1000.dat - length 34055
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.176_2018_02_07_1100.dat - length 39402
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.176_2018_02_07_1200.dat - length 37600
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.176_2018_02_07_1300.dat - length 36814
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.176_2018_02_07_1400.dat - length 36528
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.176_2018_02_07_1500.dat - length 36567
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.176_2018_02_07_1600.dat - length 38290
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.176_2018_02_07_1700.dat - length 38431
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.176_2018_02_07_1800.dat - length 37667
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.176_2018_02_07_1900.dat - length 36420
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.176_2018_02_07_2000.dat - length 30750
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.176_2018_02_07_2100.dat - length 27255
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.176_2018_02_07_2200.dat - length 23428
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.176_2018_02_07_2300.dat - length 17928
+Finished with FTP process.
+Connected to 10.160.4.181 on attempt 1
+Remote directory set to /mnt/sd
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.181_2018_02_07_0000.dat - length 3200
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.181_2018_02_07_0100.dat - length 2332
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.181_2018_02_07_0200.dat - length 1424
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.181_2018_02_07_0300.dat - length 787
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.181_2018_02_07_0400.dat - length 1149
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.181_2018_02_07_0500.dat - length 3118
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.181_2018_02_07_0600.dat - length 7282
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.181_2018_02_07_0700.dat - length 17526
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.181_2018_02_07_0800.dat - length 18537
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.181_2018_02_07_0900.dat - length 17656
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.181_2018_02_07_1000.dat - length 19718
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.181_2018_02_07_1100.dat - length 23595
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.181_2018_02_07_1200.dat - length 26744
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.181_2018_02_07_1300.dat - length 25213
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.181_2018_02_07_1400.dat - length 25170
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.181_2018_02_07_1500.dat - length 27059
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.181_2018_02_07_1600.dat - length 26902
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.181_2018_02_07_1700.dat - length 25610
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.181_2018_02_07_1800.dat - length 23078
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.181_2018_02_07_1900.dat - length 20381
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.181_2018_02_07_2000.dat - length 16811
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.181_2018_02_07_2100.dat - length 10825
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.181_2018_02_07_2200.dat - length 8604
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.181_2018_02_07_2300.dat - length 4880
+Finished with FTP process.
+Connected to 10.160.4.186 on attempt 1
+Remote directory set to /mnt/sd
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.186_2018_02_07_0000.dat - length 8981
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.186_2018_02_07_0100.dat - length 6510
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.186_2018_02_07_0200.dat - length 5017
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.186_2018_02_07_0300.dat - length 3248
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.186_2018_02_07_0400.dat - length 4264
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.186_2018_02_07_0500.dat - length 5574
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.186_2018_02_07_0600.dat - length 10387
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.186_2018_02_07_0700.dat - length 17306
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.186_2018_02_07_0800.dat - length 17845
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.186_2018_02_07_0900.dat - length 16968
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.186_2018_02_07_1000.dat - length 19732
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.186_2018_02_07_1100.dat - length 23416
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.186_2018_02_07_1200.dat - length 26300
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.186_2018_02_07_1300.dat - length 24844
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.186_2018_02_07_1400.dat - length 23799
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.186_2018_02_07_1500.dat - length 24938
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.186_2018_02_07_1600.dat - length 25662
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.186_2018_02_07_1700.dat - length 27258
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.186_2018_02_07_1800.dat - length 24886
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.186_2018_02_07_1900.dat - length 23007
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.186_2018_02_07_2000.dat - length 20791
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.186_2018_02_07_2100.dat - length 18794
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.186_2018_02_07_2200.dat - length 15991
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.186_2018_02_07_2300.dat - length 11477
+Finished with FTP process.
+Connected to 10.160.4.191 on attempt 1
+Remote directory set to /mnt/sd
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.191_2018_02_07_0000.dat - length 18043
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.191_2018_02_07_0100.dat - length 15782
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.191_2018_02_07_0200.dat - length 11676
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.191_2018_02_07_0300.dat - length 9611
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.191_2018_02_07_0400.dat - length 10315
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.191_2018_02_07_0500.dat - length 14254
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.191_2018_02_07_0600.dat - length 24810
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.191_2018_02_07_0700.dat - length 32594
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.191_2018_02_07_0800.dat - length 31877
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.191_2018_02_07_0900.dat - length 30907
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.191_2018_02_07_1000.dat - length 34106
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.191_2018_02_07_1100.dat - length 37484
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.191_2018_02_07_1200.dat - length 41767
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.191_2018_02_07_1300.dat - length 40745
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.191_2018_02_07_1400.dat - length 42243
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.191_2018_02_07_1500.dat - length 43306
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.191_2018_02_07_1600.dat - length 43007
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.191_2018_02_07_1700.dat - length 42543
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.191_2018_02_07_1800.dat - length 39081
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.191_2018_02_07_1900.dat - length 36432
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.191_2018_02_07_2000.dat - length 31656
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.191_2018_02_07_2100.dat - length 25378
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.191_2018_02_07_2200.dat - length 19321
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.191_2018_02_07_2300.dat - length 14995
+Finished with FTP process.
+Connected to 10.160.4.196 on attempt 1
+Remote directory set to /mnt/sd
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.196_2018_02_07_0000.dat - length 69673
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.196_2018_02_07_0100.dat - length 67391
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.196_2018_02_07_0200.dat - length 69758
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.196_2018_02_07_0300.dat - length 69250
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.196_2018_02_07_0400.dat - length 69942
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.196_2018_02_07_0500.dat - length 70281
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.196_2018_02_07_0600.dat - length 71836
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.196_2018_02_07_0700.dat - length 59515
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.196_2018_02_07_0800.dat - length 69273
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.196_2018_02_07_0900.dat - length 86759
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.196_2018_02_07_1000.dat - length 84391
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.196_2018_02_07_1100.dat - length 91320
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.196_2018_02_07_1200.dat - length 84195
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.196_2018_02_07_1300.dat - length 74038
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.196_2018_02_07_1400.dat - length 75303
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.196_2018_02_07_1500.dat - length 82685
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.196_2018_02_07_1600.dat - length 90159
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.196_2018_02_07_1700.dat - length 87529
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.196_2018_02_07_1800.dat - length 84888
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.196_2018_02_07_1900.dat - length 99712
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.196_2018_02_07_2000.dat - length 100602
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.196_2018_02_07_2100.dat - length 97479
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.196_2018_02_07_2200.dat - length 96206
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.196_2018_02_07_2300.dat - length 86103
+Finished with FTP process.
+Connected to 10.160.4.201 on attempt 1
+Remote directory set to /mnt/sd
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.201_2018_02_07_0000.dat - length 5274
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.201_2018_02_07_0100.dat - length 3014
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.201_2018_02_07_0200.dat - length 1961
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.201_2018_02_07_0300.dat - length 3861
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.201_2018_02_07_0400.dat - length 9351
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.201_2018_02_07_0500.dat - length 10611
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.201_2018_02_07_0600.dat - length 15601
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.201_2018_02_07_0700.dat - length 30831
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.201_2018_02_07_0800.dat - length 28977
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.201_2018_02_07_0900.dat - length 27886
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.201_2018_02_07_1000.dat - length 29989
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.201_2018_02_07_1100.dat - length 34179
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.201_2018_02_07_1200.dat - length 36831
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.201_2018_02_07_1300.dat - length 35175
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.201_2018_02_07_1400.dat - length 36857
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.201_2018_02_07_1500.dat - length 40346
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.201_2018_02_07_1600.dat - length 39984
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.201_2018_02_07_1700.dat - length 37629
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.201_2018_02_07_1800.dat - length 35861
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.201_2018_02_07_1900.dat - length 31456
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.201_2018_02_07_2000.dat - length 26253
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.201_2018_02_07_2100.dat - length 20607
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.201_2018_02_07_2200.dat - length 12406
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.201_2018_02_07_2300.dat - length 8553
+Finished with FTP process.
+Connected to 10.160.4.206 on attempt 1
+Remote directory set to /mnt/sd
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.206_2018_02_07_0000.dat - length 3468
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.206_2018_02_07_0100.dat - length 2101
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.206_2018_02_07_0200.dat - length 1700
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.206_2018_02_07_0300.dat - length 2810
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.206_2018_02_07_0400.dat - length 3284
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.206_2018_02_07_0500.dat - length 5319
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.206_2018_02_07_0600.dat - length 13799
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.206_2018_02_07_0700.dat - length 35728
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.206_2018_02_07_0800.dat - length 32859
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.206_2018_02_07_0900.dat - length 27681
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.206_2018_02_07_1000.dat - length 31735
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.206_2018_02_07_1100.dat - length 38879
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.206_2018_02_07_1200.dat - length 43572
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.206_2018_02_07_1300.dat - length 40941
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.206_2018_02_07_1400.dat - length 44218
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.206_2018_02_07_1500.dat - length 47787
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.206_2018_02_07_1600.dat - length 47309
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.206_2018_02_07_1700.dat - length 46089
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.206_2018_02_07_1800.dat - length 41312
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.206_2018_02_07_1900.dat - length 35540
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.206_2018_02_07_2000.dat - length 29736
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.206_2018_02_07_2100.dat - length 20931
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.206_2018_02_07_2200.dat - length 10599
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.206_2018_02_07_2300.dat - length 5792
+Finished with FTP process.
+Connected to 10.160.4.211 on attempt 1
+Remote directory set to /mnt/sd
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.211_2018_02_07_0000.dat - length 8087
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.211_2018_02_07_0100.dat - length 4520
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.211_2018_02_07_0200.dat - length 4264
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.211_2018_02_07_0300.dat - length 6234
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.211_2018_02_07_0400.dat - length 6685
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.211_2018_02_07_0500.dat - length 10575
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.211_2018_02_07_0600.dat - length 24071
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.211_2018_02_07_0700.dat - length 56561
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.211_2018_02_07_0800.dat - length 50907
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.211_2018_02_07_0900.dat - length 45065
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.211_2018_02_07_1000.dat - length 46175
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.211_2018_02_07_1100.dat - length 54325
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.211_2018_02_07_1200.dat - length 56775
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.211_2018_02_07_1300.dat - length 53078
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.211_2018_02_07_1400.dat - length 56808
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.211_2018_02_07_1500.dat - length 64750
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.211_2018_02_07_1600.dat - length 60918
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.211_2018_02_07_1700.dat - length 58326
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.211_2018_02_07_1800.dat - length 51773
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.211_2018_02_07_1900.dat - length 43043
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.211_2018_02_07_2000.dat - length 36800
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.211_2018_02_07_2100.dat - length 30106
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.211_2018_02_07_2200.dat - length 20406
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.211_2018_02_07_2300.dat - length 12941
+Finished with FTP process.
+Connected to 10.160.4.216 on attempt 1
+Remote directory set to /mnt/sd
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.216_2018_02_07_0000.dat - length 8348
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.216_2018_02_07_0100.dat - length 7425
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.216_2018_02_07_0200.dat - length 7853
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.216_2018_02_07_0300.dat - length 8973
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.216_2018_02_07_0400.dat - length 7736
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.216_2018_02_07_0500.dat - length 10635
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.216_2018_02_07_0600.dat - length 15207
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.216_2018_02_07_0700.dat - length 22949
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.216_2018_02_07_0800.dat - length 19707
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.216_2018_02_07_0900.dat - length 17789
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.216_2018_02_07_1000.dat - length 17465
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.216_2018_02_07_1100.dat - length 18717
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.216_2018_02_07_1200.dat - length 19169
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.216_2018_02_07_1300.dat - length 18311
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.216_2018_02_07_1400.dat - length 20259
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.216_2018_02_07_1500.dat - length 23165
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.216_2018_02_07_1600.dat - length 22836
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.216_2018_02_07_1700.dat - length 21881
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.216_2018_02_07_1800.dat - length 19070
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.216_2018_02_07_1900.dat - length 16239
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.216_2018_02_07_2000.dat - length 14627
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.216_2018_02_07_2100.dat - length 13300
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.216_2018_02_07_2200.dat - length 11015
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.216_2018_02_07_2300.dat - length 9247
+Finished with FTP process.
+Error connecting to 10.160.4.221 on attempt 1: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond 10.160.4.221:21
+Error connecting to 10.160.4.221 on attempt 2: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond 10.160.4.221:21
+Error connecting to 10.160.4.221 on attempt 3: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond 10.160.4.221:21
+Finished with FTP process.
+Connected to 10.160.4.226 on attempt 1
+Remote directory set to /mnt/sd
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.226_2018_02_07_0000.dat - length 2660
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.226_2018_02_07_0100.dat - length 2051
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.226_2018_02_07_0200.dat - length 1871
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.226_2018_02_07_0300.dat - length 4259
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.226_2018_02_07_0400.dat - length 3821
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.226_2018_02_07_0500.dat - length 8521
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.226_2018_02_07_0600.dat - length 14322
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.226_2018_02_07_0700.dat - length 16464
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.226_2018_02_07_0800.dat - length 12549
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.226_2018_02_07_0900.dat - length 12664
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.226_2018_02_07_1000.dat - length 12137
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.226_2018_02_07_1100.dat - length 14399
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.226_2018_02_07_1200.dat - length 14440
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.226_2018_02_07_1300.dat - length 14265
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.226_2018_02_07_1400.dat - length 14314
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.226_2018_02_07_1500.dat - length 17270
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.226_2018_02_07_1600.dat - length 16243
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.226_2018_02_07_1700.dat - length 15881
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.226_2018_02_07_1800.dat - length 12263
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.226_2018_02_07_1900.dat - length 10710
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.226_2018_02_07_2000.dat - length 9338
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.226_2018_02_07_2100.dat - length 7177
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.226_2018_02_07_2200.dat - length 7040
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.226_2018_02_07_2300.dat - length 5967
+Finished with FTP process.
+Connected to 10.160.4.231 on attempt 1
+Remote directory set to /mnt/sd
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.231_2018_02_07_0000.dat - length 7865
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.231_2018_02_07_0100.dat - length 5186
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.231_2018_02_07_0200.dat - length 3274
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.231_2018_02_07_0300.dat - length 2319
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.231_2018_02_07_0400.dat - length 2055
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.231_2018_02_07_0500.dat - length 6927
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.231_2018_02_07_0600.dat - length 9048
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.231_2018_02_07_0700.dat - length 20226
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.231_2018_02_07_0800.dat - length 22305
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.231_2018_02_07_0900.dat - length 22525
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.231_2018_02_07_1000.dat - length 22014
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.231_2018_02_07_1100.dat - length 24419
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.231_2018_02_07_1200.dat - length 24447
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.231_2018_02_07_1300.dat - length 24147
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.231_2018_02_07_1400.dat - length 24329
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.231_2018_02_07_1500.dat - length 24922
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.231_2018_02_07_1600.dat - length 24401
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.231_2018_02_07_1700.dat - length 24348
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.231_2018_02_07_1800.dat - length 23699
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.231_2018_02_07_1900.dat - length 21126
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.231_2018_02_07_2000.dat - length 20053
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.231_2018_02_07_2100.dat - length 18495
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.231_2018_02_07_2200.dat - length 14426
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.231_2018_02_07_2300.dat - length 10507
+Finished with FTP process.
+Connected to 10.160.4.236 on attempt 1
+Remote directory set to /mnt/sd
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.236_2018_02_07_0000.dat - length 12444
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.236_2018_02_07_0100.dat - length 10059
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.236_2018_02_07_0200.dat - length 6793
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.236_2018_02_07_0300.dat - length 4127
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.236_2018_02_07_0400.dat - length 3299
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.236_2018_02_07_0500.dat - length 7542
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.236_2018_02_07_0600.dat - length 10695
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.236_2018_02_07_0700.dat - length 18975
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.236_2018_02_07_0800.dat - length 18863
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.236_2018_02_07_0900.dat - length 18740
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.236_2018_02_07_1000.dat - length 19978
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.236_2018_02_07_1100.dat - length 21151
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.236_2018_02_07_1200.dat - length 21784
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.236_2018_02_07_1300.dat - length 21444
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.236_2018_02_07_1400.dat - length 20243
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.236_2018_02_07_1500.dat - length 20431
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.236_2018_02_07_1600.dat - length 19962
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.236_2018_02_07_1700.dat - length 19858
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.236_2018_02_07_1800.dat - length 19586
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.236_2018_02_07_1900.dat - length 20521
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.236_2018_02_07_2000.dat - length 19138
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.236_2018_02_07_2100.dat - length 18182
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.236_2018_02_07_2200.dat - length 15914
+Transferred D:\hg\SignalMetricsFTP\data\SIEM_10.160.4.236_2018_02_07_2300.dat - length 13235
+Finished with FTP process.
+Error connecting to 10.160.4.241 on attempt 1: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond 10.160.4.241:21
+Error connecting to 10.160.4.241 on attempt 2: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond 10.160.4.241:21
+Error connecting to 10.160.4.241 on attempt 3: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond 10.160.4.241:21
+Finished with FTP process.
+Error connecting to 10.160.4.246 on attempt 1: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond 10.160.4.246:21
+Error connecting to 10.160.4.246 on attempt 2: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond 10.160.4.246:21
+Error connecting to 10.160.4.246 on attempt 3: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond 10.160.4.246:21
+Finished with FTP process.
+Error connecting to 10.160.4.251 on attempt 1: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond 10.160.4.251:21
+Error connecting to 10.160.4.251 on attempt 2: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond 10.160.4.251:21
+Error connecting to 10.160.4.251 on attempt 3: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond 10.160.4.251:21
+Finished with FTP process.
+Error connecting to 10.160.5.0 on attempt 1: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond 10.160.5.0:21
+Error connecting to 10.160.5.0 on attempt 2: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond 10.160.5.0:21
+Error connecting to 10.160.5.0 on attempt 3: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond 10.160.5.0:21
+Finished with FTP process.
+Error connecting to 10.160.5.5 on attempt 1: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond 10.160.5.5:21
+Error connecting to 10.160.5.5 on attempt 2: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond 10.160.5.5:21
+Error connecting to 10.160.5.5 on attempt 3: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond 10.160.5.5:21
+Finished with FTP process.
+Error connecting to 10.160.5.10 on attempt 1: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond 10.160.5.10:21
+Error connecting to 10.160.5.10 on attempt 2: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond 10.160.5.10:21
+Error connecting to 10.160.5.10 on attempt 3: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond 10.160.5.10:21
+Finished with FTP process.
+Error connecting to 10.160.5.15 on attempt 1: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond 10.160.5.15:21
+Error connecting to 10.160.5.15 on attempt 2: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond 10.160.5.15:21
+Error connecting to 10.160.5.15 on attempt 3: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond 10.160.5.15:21
+Finished with FTP process.
+Skipping database inserts.
+Finished at 2/8/2018 12:09:55 PM

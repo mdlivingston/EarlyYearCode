@@ -1,0 +1,67 @@
+Started FTP process at 2/26/2018 8:15:09 AM
+Finished with FTP process.
+Finished with FTP process.
+Finished with FTP process.
+Finished with FTP process.
+Finished with FTP process.
+Finished with FTP process.
+Finished with FTP process.
+Finished with FTP process.
+Finished with FTP process.
+Finished with FTP process.
+Finished with FTP process.
+Finished with FTP process.
+Finished with FTP process.
+Finished with FTP process.
+Finished with FTP process.
+Finished with FTP process.
+Finished with FTP process.
+Finished with FTP process.
+Finished with FTP process.
+Finished with FTP process.
+Finished with FTP process.
+Finished with FTP process.
+Finished with FTP process.
+Finished with FTP process.
+Finished with FTP process.
+Finished with FTP process.
+Finished with FTP process.
+Finished with FTP process.
+Finished with FTP process.
+Finished with FTP process.
+Finished with FTP process.
+Finished with FTP process.
+Finished with FTP process.
+Finished with FTP process.
+Finished with FTP process.
+Finished with FTP process.
+Finished with FTP process.
+Finished with FTP process.
+Finished with FTP process.
+Finished with FTP process.
+Finished with FTP process.
+Finished with FTP process.
+Finished with FTP process.
+Error connecting to 10.160.4.221 on attempt 1: Connection failed.
+Timeout detected. (control connection)
+Connection failed.
+Error connecting to 10.160.4.221 on attempt 2: Connection failed.
+Timeout detected. (control connection)
+Connection failed.
+Error connecting to 10.160.4.221 on attempt 3: Connection failed.
+Timeout detected. (control connection)
+Connection failed.
+Finished with FTP process.
+Finished with FTP process.
+Finished with FTP process.
+Finished with FTP process.
+Finished with FTP process.
+Finished with FTP process.
+Finished with FTP process.
+Finished with FTP process.
+Finished with FTP process.
+Finished with FTP process.
+Finished with FTP process.
+Started database inserts at 2/26/2018 8:17:50 AM
+Finished with database inserts.
+Finished at 2/26/2018 8:17:50 AM

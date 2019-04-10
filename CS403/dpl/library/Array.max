@@ -1,0 +1,32 @@
+class Array {
+
+    array a()
+
+    function append(item) {
+        a = appendArray(a item)
+    }
+
+    function prepend(item) {
+        a = prependArray(a item)
+    }
+
+    function get(index) {
+        getArray(a index)
+    }
+
+    function set(index item) {
+        a = setArray(a index item)
+    }
+
+    function remove(index) {
+        a = removeArray(a index)
+    }
+
+    function size() {
+        sizeArray(a)
+    }
+
+    function display() {
+        displayArray(a)
+    }
+}

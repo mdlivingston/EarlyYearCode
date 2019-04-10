@@ -1,0 +1,66 @@
+Started FTP process at 2/9/2018 11:52:31 AM
+Error connecting to 10.160.4.6 on attempt 2: Session is already opened
+Error connecting to 10.160.4.6 on attempt 3: Session is already opened
+Finished with FTP process.
+Error connecting to 10.160.4.11 on attempt 2: Session is already opened
+Error connecting to 10.160.4.11 on attempt 3: Session is already opened
+Finished with FTP process.
+Error connecting to 10.160.4.16 on attempt 2: Session is already opened
+Error connecting to 10.160.4.16 on attempt 3: Session is already opened
+Finished with FTP process.
+Error connecting to 10.160.4.21 on attempt 2: Session is already opened
+Error connecting to 10.160.4.21 on attempt 3: Session is already opened
+Finished with FTP process.
+Error connecting to 10.160.4.26 on attempt 2: Session is already opened
+Error connecting to 10.160.4.26 on attempt 3: Session is already opened
+Finished with FTP process.
+Error connecting to 10.160.4.31 on attempt 2: Session is already opened
+Error connecting to 10.160.4.31 on attempt 3: Session is already opened
+Finished with FTP process.
+Error connecting to 10.160.4.36 on attempt 1: Host key does not match configured key "ecdsa-sha2-nistp521 521 c2:1c:9e:dd:65:3a:05:ef:51:c3:07:00:90:fe:12:50"!
+Host key fingerprint is ecdsa-sha2-nistp521 521 f8:e6:23:91:37:81:46:94:87:36:b1:71:4d:65:92:30.
+Authentication failed.
+Error connecting to 10.160.4.36 on attempt 2: Host key does not match configured key "ecdsa-sha2-nistp521 521 c2:1c:9e:dd:65:3a:05:ef:51:c3:07:00:90:fe:12:50"!
+Host key fingerprint is ecdsa-sha2-nistp521 521 f8:e6:23:91:37:81:46:94:87:36:b1:71:4d:65:92:30.
+Authentication failed.
+Error connecting to 10.160.4.36 on attempt 3: Host key does not match configured key "ecdsa-sha2-nistp521 521 c2:1c:9e:dd:65:3a:05:ef:51:c3:07:00:90:fe:12:50"!
+Host key fingerprint is ecdsa-sha2-nistp521 521 f8:e6:23:91:37:81:46:94:87:36:b1:71:4d:65:92:30.
+Authentication failed.
+Finished with FTP process.
+Error connecting to 10.160.4.41 on attempt 2: Session is already opened
+Error connecting to 10.160.4.41 on attempt 3: Session is already opened
+Finished with FTP process.
+Error connecting to 10.160.4.46 on attempt 2: Session is already opened
+Error connecting to 10.160.4.46 on attempt 3: Session is already opened
+Finished with FTP process.
+Error connecting to 10.160.4.51 on attempt 2: Session is already opened
+Error connecting to 10.160.4.51 on attempt 3: Session is already opened
+Finished with FTP process.
+Error connecting to 10.160.4.56 on attempt 2: Session is already opened
+Error connecting to 10.160.4.56 on attempt 3: Session is already opened
+Finished with FTP process.
+Error connecting to 10.160.4.61 on attempt 2: Session is already opened
+Error connecting to 10.160.4.61 on attempt 3: Session is already opened
+Finished with FTP process.
+Error connecting to 10.160.4.66 on attempt 2: Session is already opened
+Error connecting to 10.160.4.66 on attempt 3: Session is already opened
+Finished with FTP process.
+Error connecting to 10.160.4.71 on attempt 2: Session is already opened
+Error connecting to 10.160.4.71 on attempt 3: Session is already opened
+Finished with FTP process.
+Error connecting to 10.160.4.76 on attempt 2: Session is already opened
+Error connecting to 10.160.4.76 on attempt 3: Session is already opened
+Finished with FTP process.
+Error connecting to 10.160.4.81 on attempt 2: Session is already opened
+Error connecting to 10.160.4.81 on attempt 3: Session is already opened
+Finished with FTP process.
+Error connecting to 10.160.4.86 on attempt 2: Session is already opened
+Error connecting to 10.160.4.86 on attempt 3: Session is already opened
+Finished with FTP process.
+Error connecting to 10.160.4.91 on attempt 2: Session is already opened
+Error connecting to 10.160.4.91 on attempt 3: Session is already opened
+Finished with FTP process.
+Error connecting to 10.160.4.96 on attempt 2: Session is already opened
+Error connecting to 10.160.4.96 on attempt 3: Session is already opened
+Finished with FTP process.
+Error connecting to 10.160.4.101 on attempt 

@@ -1,0 +1,14 @@
+include "library/AVL.max"
+
+function testAVL() {
+	object tree(avlTree())
+	variable i(0)
+	while(less(i 25)) {
+		tree.insert(i add(i 2))
+		i = inc(i)
+	}
+		
+	tree.show()
+}
+
+testAVL()

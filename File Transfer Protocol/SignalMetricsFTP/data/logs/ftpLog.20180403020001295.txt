@@ -1,0 +1,5 @@
+Started FTP process at 4/3/2018 2:00:01 AM
+Skipping the FTP process.
+Started database inserts at 4/3/2018 2:00:01 AM
+Finished with database inserts.
+Finished at 4/3/2018 2:00:01 AM

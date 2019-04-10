@@ -1,0 +1,252 @@
+Started FTP process at 2/8/2018 2:08:46 PM
+Skipping the FTP process.
+Started database inserts at 2/8/2018 2:08:49 PM
+Error: Invalid column name 'IPAddress'.
+Error: Invalid column name 'IPAddress'.
+Error: Invalid column name 'IPAddress'.
+Error: Invalid column name 'IPAddress'.
+Error: Invalid column name 'IPAddress'.
+Error: Invalid column name 'IPAddress'.
+Error: Invalid column name 'IPAddress'.
+Error: Invalid column name 'IPAddress'.
+Error: Invalid column name 'IPAddress'.
+Error: Invalid column name 'IPAddress'.
+Error: Invalid column name 'IPAddress'.
+Error: Invalid column name 'IPAddress'.
+Error: Invalid column name 'IPAddress'.
+Error: Invalid column name 'IPAddress'.
+Error: Invalid column name 'IPAddress'.
+Error: Invalid column name 'IPAddress'.
+Error: Invalid column name 'IPAddress'.
+Error: Invalid column name 'IPAddress'.
+Error: Invalid column name 'IPAddress'.
+Error: Invalid column name 'IPAddress'.
+Error: Invalid column name 'IPAddress'.
+Error: Invalid column name 'IPAddress'.
+Error: Invalid column name 'IPAddress'.
+Error: Invalid column name 'IPAddress'.
+Error: Invalid column name 'IPAddress'.
+Error: Invalid column name 'IPAddress'.
+Error: Invalid column name 'IPAddress'.
+Error: Invalid column name 'IPAddress'.
+Error: Invalid column name 'IPAddress'.
+Error: Invalid column name 'IPAddress'.
+Error: Invalid column name 'IPAddress'.
+Error: Invalid column name 'IPAddress'.
+Error: Invalid column name 'IPAddress'.
+Error: Invalid column name 'IPAddress'.
+Error: Invalid column name 'IPAddress'.
+Error: Invalid column name 'IPAddress'.
+Error: Invalid column name 'IPAddress'.
+Error: Invalid column name 'IPAddress'.
+Error: Invalid column name 'IPAddress'.
+Error: Invalid column name 'IPAddress'.
+Error: Invalid column name 'IPAddress'.
+Error: Invalid column name 'IPAddress'.
+Error: Invalid column name 'IPAddress'.
+Error: Invalid column name 'IPAddress'.
+Error: Invalid column name 'IPAddress'.
+Error: Invalid column name 'IPAddress'.
+Error: Invalid column name 'IPAddress'.
+Error: Invalid column name 'IPAddress'.
+Error: Invalid column name 'IPAddress'.
+Error: Invalid column name 'IPAddress'.
+Error: Invalid column name 'IPAddress'.
+Error: Invalid column name 'IPAddress'.
+Error: Invalid column name 'IPAddress'.
+Error: Invalid column name 'IPAddress'.
+Error: Invalid column name 'IPAddress'.
+Error: Invalid column name 'IPAddress'.
+Error: Invalid column name 'IPAddress'.
+Error: Invalid column name 'IPAddress'.
+Error: Invalid column name 'IPAddress'.
+Error: Invalid column name 'IPAddress'.
+Error: Invalid column name 'IPAddress'.
+Error: Invalid column name 'IPAddress'.
+Error: Invalid column name 'IPAddress'.
+Error: Invalid column name 'IPAddress'.
+Error: Invalid column name 'IPAddress'.
+Error: Invalid column name 'IPAddress'.
+Error: Invalid column name 'IPAddress'.
+Error: Invalid column name 'IPAddress'.
+Error: Invalid column name 'IPAddress'.
+Error: Invalid column name 'IPAddress'.
+Error: Invalid column name 'IPAddress'.
+Error: Invalid column name 'IPAddress'.
+Error: Invalid column name 'IPAddress'.
+Error: Invalid column name 'IPAddress'.
+Error: Invalid column name 'IPAddress'.
+Error: Invalid column name 'IPAddress'.
+Error: Invalid column name 'IPAddress'.
+Error: Invalid column name 'IPAddress'.
+Error: Invalid column name 'IPAddress'.
+Error: Invalid column name 'IPAddress'.
+Error: Invalid column name 'IPAddress'.
+Error: Invalid column name 'IPAddress'.
+Error: Invalid column name 'IPAddress'.
+Error: Invalid column name 'IPAddress'.
+Error: Invalid column name 'IPAddress'.
+Error: Invalid column name 'IPAddress'.
+Error: Invalid column name 'IPAddress'.
+Error: Invalid column name 'IPAddress'.
+Error: Invalid column name 'IPAddress'.
+Error: Invalid column name 'IPAddress'.
+Error: Invalid column name 'IPAddress'.
+Error: Invalid column name 'IPAddress'.
+Error: Invalid column name 'IPAddress'.
+Error: Invalid column name 'IPAddress'.
+Error: Invalid column name 'IPAddress'.
+Error: Invalid column name 'IPAddress'.
+Error: Invalid column name 'IPAddress'.
+Error: Invalid column name 'IPAddress'.
+Error: Invalid column name 'IPAddress'.
+Error: Invalid column name 'IPAddress'.
+Error: Invalid column name 'IPAddress'.
+Error: Invalid column name 'IPAddress'.
+Error: Invalid column name 'IPAddress'.
+Error: Invalid column name 'IPAddress'.
+Error: Invalid column name 'IPAddress'.
+Error: Invalid column name 'IPAddress'.
+Error: Invalid column name 'IPAddress'.
+Error: Invalid column name 'IPAddress'.
+Error: Invalid column name 'IPAddress'.
+Error: Invalid column name 'IPAddress'.
+Error: Invalid column name 'IPAddress'.
+Error: Invalid column name 'IPAddress'.
+Error: Invalid column name 'IPAddress'.
+Error: Invalid column name 'IPAddress'.
+Error: Invalid column name 'IPAddress'.
+Error: Invalid column name 'IPAddress'.
+Error: Invalid column name 'IPAddress'.
+Error: Invalid column name 'IPAddress'.
+Error: Invalid column name 'IPAddress'.
+Error: Invalid column name 'IPAddress'.
+Error: Invalid column name 'IPAddress'.
+Error: Invalid column name 'IPAddress'.
+Error: Invalid column name 'IPAddress'.
+Error: Invalid column name 'IPAddress'.
+Error: Invalid column name 'IPAddress'.
+Error: Invalid column name 'IPAddress'.
+Error: Invalid column name 'IPAddress'.
+Error: Invalid column name 'IPAddress'.
+Error: Invalid column name 'IPAddress'.
+Error: Invalid column name 'IPAddress'.
+Error connecting to database: Timeout expired.  The timeout period elapsed prior to obtaining a connection from the pool.  This may have occurred because all pooled connections were in use and max pool size was reached.
+Leaving SIEM_10.160.4.131_2018_02_07_1000.csv in folder unprocessed.
+Error connecting to database: Timeout expired.  The timeout period elapsed prior to obtaining a connection from the pool.  This may have occurred because all pooled connections were in use and max pool size was reached.
+Leaving SIEM_10.160.4.131_2018_02_07_1100.csv in folder unprocessed.
+Error connecting to database: Timeout expired.  The timeout period elapsed prior to obtaining a connection from the pool.  This may have occurred because all pooled connections were in use and max pool size was reached.
+Leaving SIEM_10.160.4.131_2018_02_07_1200.csv in folder unprocessed.
+Error connecting to database: Timeout expired.  The timeout period elapsed prior to obtaining a connection from the pool.  This may have occurred because all pooled connections were in use and max pool size was reached.
+Leaving SIEM_10.160.4.131_2018_02_07_1300.csv in folder unprocessed.
+Error connecting to database: Timeout expired.  The timeout period elapsed prior to obtaining a connection from the pool.  This may have occurred because all pooled connections were in use and max pool size was reached.
+Leaving SIEM_10.160.4.131_2018_02_07_1400.csv in folder unprocessed.
+Error connecting to database: Timeout expired.  The timeout period elapsed prior to obtaining a connection from the pool.  This may have occurred because all pooled connections were in use and max pool size was reached.
+Leaving SIEM_10.160.4.131_2018_02_07_1500.csv in folder unprocessed.
+Error connecting to database: Timeout expired.  The timeout period elapsed prior to obtaining a connection from the pool.  This may have occurred because all pooled connections were in use and max pool size was reached.
+Leaving SIEM_10.160.4.131_2018_02_07_1600.csv in folder unprocessed.
+Error connecting to database: Timeout expired.  The timeout period elapsed prior to obtaining a connection from the pool.  This may have occurred because all pooled connections were in use and max pool size was reached.
+Leaving SIEM_10.160.4.131_2018_02_07_1700.csv in folder unprocessed.
+Error connecting to database: Timeout expired.  The timeout period elapsed prior to obtaining a connection from the pool.  This may have occurred because all pooled connections were in use and max pool size was reached.
+Leaving SIEM_10.160.4.131_2018_02_07_1800.csv in folder unprocessed.
+Error connecting to database: Timeout expired.  The timeout period elapsed prior to obtaining a connection from the pool.  This may have occurred because all pooled connections were in use and max pool size was reached.
+Leaving SIEM_10.160.4.131_2018_02_07_1900.csv in folder unprocessed.
+Error connecting to database: Timeout expired.  The timeout period elapsed prior to obtaining a connection from the pool.  This may have occurred because all pooled connections were in use and max pool size was reached.
+Leaving SIEM_10.160.4.131_2018_02_07_2000.csv in folder unprocessed.
+Error connecting to database: Timeout expired.  The timeout period elapsed prior to obtaining a connection from the pool.  This may have occurred because all pooled connections were in use and max pool size was reached.
+Leaving SIEM_10.160.4.131_2018_02_07_2100.csv in folder unprocessed.
+Error connecting to database: Timeout expired.  The timeout period elapsed prior to obtaining a connection from the pool.  This may have occurred because all pooled connections were in use and max pool size was reached.
+Leaving SIEM_10.160.4.131_2018_02_07_2200.csv in folder unprocessed.
+Error connecting to database: Timeout expired.  The timeout period elapsed prior to obtaining a connection from the pool.  This may have occurred because all pooled connections were in use and max pool size was reached.
+Leaving SIEM_10.160.4.131_2018_02_07_2300.csv in folder unprocessed.
+Error connecting to database: Timeout expired.  The timeout period elapsed prior to obtaining a connection from the pool.  This may have occurred because all pooled connections were in use and max pool size was reached.
+Leaving SIEM_10.160.4.136_2018_02_07_0000.csv in folder unprocessed.
+Error connecting to database: Timeout expired.  The timeout period elapsed prior to obtaining a connection from the pool.  This may have occurred because all pooled connections were in use and max pool size was reached.
+Leaving SIEM_10.160.4.136_2018_02_07_0100.csv in folder unprocessed.
+Error connecting to database: Timeout expired.  The timeout period elapsed prior to obtaining a connection from the pool.  This may have occurred because all pooled connections were in use and max pool size was reached.
+Leaving SIEM_10.160.4.136_2018_02_07_0200.csv in folder unprocessed.
+Error connecting to database: Timeout expired.  The timeout period elapsed prior to obtaining a connection from the pool.  This may have occurred because all pooled connections were in use and max pool size was reached.
+Leaving SIEM_10.160.4.136_2018_02_07_0300.csv in folder unprocessed.
+Error connecting to database: Timeout expired.  The timeout period elapsed prior to obtaining a connection from the pool.  This may have occurred because all pooled connections were in use and max pool size was reached.
+Leaving SIEM_10.160.4.136_2018_02_07_0400.csv in folder unprocessed.
+Error connecting to database: Timeout expired.  The timeout period elapsed prior to obtaining a connection from the pool.  This may have occurred because all pooled connections were in use and max pool size was reached.
+Leaving SIEM_10.160.4.136_2018_02_07_0500.csv in folder unprocessed.
+Error connecting to database: Timeout expired.  The timeout period elapsed prior to obtaining a connection from the pool.  This may have occurred because all pooled connections were in use and max pool size was reached.
+Leaving SIEM_10.160.4.136_2018_02_07_0600.csv in folder unprocessed.
+Error connecting to database: Timeout expired.  The timeout period elapsed prior to obtaining a connection from the pool.  This may have occurred because all pooled connections were in use and max pool size was reached.
+Leaving SIEM_10.160.4.136_2018_02_07_0700.csv in folder unprocessed.
+Error connecting to database: Timeout expired.  The timeout period elapsed prior to obtaining a connection from the pool.  This may have occurred because all pooled connections were in use and max pool size was reached.
+Leaving SIEM_10.160.4.136_2018_02_07_0800.csv in folder unprocessed.
+Error connecting to database: Timeout expired.  The timeout period elapsed prior to obtaining a connection from the pool.  This may have occurred because all pooled connections were in use and max pool size was reached.
+Leaving SIEM_10.160.4.136_2018_02_07_0900.csv in folder unprocessed.
+Error connecting to database: Timeout expired.  The timeout period elapsed prior to obtaining a connection from the pool.  This may have occurred because all pooled connections were in use and max pool size was reached.
+Leaving SIEM_10.160.4.136_2018_02_07_1000.csv in folder unprocessed.
+Error connecting to database: Timeout expired.  The timeout period elapsed prior to obtaining a connection from the pool.  This may have occurred because all pooled connections were in use and max pool size was reached.
+Leaving SIEM_10.160.4.136_2018_02_07_1100.csv in folder unprocessed.
+Error connecting to database: Timeout expired.  The timeout period elapsed prior to obtaining a connection from the pool.  This may have occurred because all pooled connections were in use and max pool size was reached.
+Leaving SIEM_10.160.4.136_2018_02_07_1200.csv in folder unprocessed.
+Error connecting to database: Timeout expired.  The timeout period elapsed prior to obtaining a connection from the pool.  This may have occurred because all pooled connections were in use and max pool size was reached.
+Leaving SIEM_10.160.4.136_2018_02_07_1300.csv in folder unprocessed.
+Error connecting to database: Timeout expired.  The timeout period elapsed prior to obtaining a connection from the pool.  This may have occurred because all pooled connections were in use and max pool size was reached.
+Leaving SIEM_10.160.4.136_2018_02_07_1400.csv in folder unprocessed.
+Error: Invalid column name 'IPAddress'.
+Error: Invalid column name 'IPAddress'.
+Error: Invalid column name 'IPAddress'.
+Error: Invalid column name 'IPAddress'.
+Error: Invalid column name 'IPAddress'.
+Error: Invalid column name 'IPAddress'.
+Error: Invalid column name 'IPAddress'.
+Error: Invalid column name 'IPAddress'.
+Error: Invalid column name 'IPAddress'.
+Error: Invalid column name 'IPAddress'.
+Error: Invalid column name 'IPAddress'.
+Error: Invalid column name 'IPAddress'.
+Error: Invalid column name 'IPAddress'.
+Error: Invalid column name 'IPAddress'.
+Error: Invalid column name 'IPAddress'.
+Error: Invalid column name 'IPAddress'.
+Error: Invalid column name 'IPAddress'.
+Error: Invalid column name 'IPAddress'.
+Error: Invalid column name 'IPAddress'.
+Error: Invalid column name 'IPAddress'.
+Error: Invalid column name 'IPAddress'.
+Error: Invalid column name 'IPAddress'.
+Error: Invalid column name 'IPAddress'.
+Error: Invalid column name 'IPAddress'.
+Error: Invalid column name 'IPAddress'.
+Error: Invalid column name 'IPAddress'.
+Error: Invalid column name 'IPAddress'.
+Error: Invalid column name 'IPAddress'.
+Error: Invalid column name 'IPAddress'.
+Error: Invalid column name 'IPAddress'.
+Error: Invalid column name 'IPAddress'.
+Error: Invalid column name 'IPAddress'.
+Error: Invalid column name 'IPAddress'.
+Error: Invalid column name 'IPAddress'.
+Error: Invalid column name 'IPAddress'.
+Error: Invalid column name 'IPAddress'.
+Error: Invalid column name 'IPAddress'.
+Error: Invalid column name 'IPAddress'.
+Error: Invalid column name 'IPAddress'.
+Error: Invalid column name 'IPAddress'.
+Error: Invalid column name 'IPAddress'.
+Error: Invalid column name 'IPAddress'.
+Error: Invalid column name 'IPAddress'.
+Error: Invalid column name 'IPAddress'.
+Error: Invalid column name 'IPAddress'.
+Error: Invalid column name 'IPAddress'.
+Error: Invalid column name 'IPAddress'.
+Error: Invalid column name 'IPAddress'.
+Error: Invalid column name 'IPAddress'.
+Error: Invalid column name 'IPAddress'.
+Error: Invalid column name 'IPAddress'.
+Error: Invalid column name 'IPAddress'.
+Error: Invalid column name 'IPAddress'.
+Error: Invalid column name 'IPAddress'.
+Error: Invalid column name 'IPAddress'.
+Error: Invalid column name 'IPAddress'.
+Error: Invalid column name 'IPAddress'.
+Error: Invalid column name 'IPAddress'.
+Error: Invalid column name 'IPAddress'.
+Error: Invalid column name 'IPAddress'.
+Error: Invalid column name 'IPAddre

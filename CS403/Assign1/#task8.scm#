@@ -1,0 +1,84 @@
+(define (main)
+        (setPort (open (getElement ScamArgs 1) 'read))
+        (define args (readExpr))
+        (println "half of " (car args) " is " (halve (car args)))
+        (println "half of " (cadr args) " is " (halve (cadr args)))
+        (println (car args) " squared is " (square (car args)))
+        (println (cadr args) " squared is " (square (cadr args)))
+        (println (apply babyl args))
+	;(inspect (halve 1073741824))
+	;(inspect (halve 0))
+ )
+
+(define (square n)
+  (define (add temp num)
+    (if (== temp n)
+	num
+	(add (+ temp 1) (+ num n))
+	)
+    )
+  (add 1 n)
+  )
+
+(define (halve n)
+  
+  (define (double n) (+ n n))
+  
+  (define (halveiterative n2 num prev)
+    (if (>= (+ num num) n2)
+	num
+	(halveiterative n2 (double num) prev)
+	)
+    )
+  
+  (define (halftohalf sum n1 final)
+    (define nunu (halveiterative n1 1 0))
+    (define half (double nunu))
+    (define added (+ sum half))
+    (cond
+      ((and (== nunu 1) (> added n)) final)
+      ((and (== nunu 1) (< added n)) (+ final 1))
+      ((> added n)
+	  (halftohalf sum nunu final))
+       (else
+1	(halftohalf (+ sum half) nunu (+ nunu final))
+	)
+       )
+    )
+  
+  (define (halveiterativewrapper n3 sum)
+    (define firstHalf (halveiterative n3 sum 0))
+    (define secondHalf (halveiterative firstHalf sum 0))
+    (halftohalf firstHalf firstHalf secondHalf)
+    )
+  
+  (if (== n 0)
+      0
+      (if (== n 1)
+	  0
+	  (halveiterativewrapper n 1)
+	  )
+      )
+ )
+
+(define (babyl x y)
+  
+  (define (even? n) (= (halve n) (halve (+ n 1))))
+  
+  (define (double n) (+ n n))
+  
+  (define (iter total a b)    ; define the iterator function
+    (if (>= b 1)              ; if b isn't 1
+      (iter                   ; iterate to the next step and:
+        (+ total              ;   add a to our total if b isn't even
+          (if (even? b) 0 a)  ;   otherwise, just add 0
+          )                   ;
+        (double a)            ;   double a
+        (halve b)             ;   halve b
+        )
+      total ; if b < 1, return the total we've accrued. this is the answer
+      )
+    )
+    ; call the base iterator with no total, x and y as starting a and b
+    (iter 0 x y)
+  )

@@ -1,0 +1,53 @@
+Started FTP process at 2/8/2018 2:21:51 PM
+Skipping the FTP process.
+Started database inserts at 2/8/2018 2:21:51 PM
+Error: Invalid column name 'IPAddress'.
+Error: Invalid column name 'IPAddress'.
+Error: Invalid column name 'IPAddress'.
+Error: Invalid column name 'IPAddress'.
+Error: Invalid column name 'IPAddress'.
+Error: Invalid column name 'IPAddress'.
+Error: Invalid column name 'IPAddress'.
+Error: Invalid column name 'IPAddress'.
+Error: Invalid column name 'IPAddress'.
+Error: Invalid column name 'IPAddress'.
+Error: Invalid column name 'IPAddress'.
+Error: Invalid column name 'IPAddress'.
+Error: Invalid column name 'IPAddress'.
+Error: Invalid column name 'IPAddress'.
+Error: Invalid column name 'IPAddress'.
+Error: Invalid column name 'IPAddress'.
+Error: Invalid column name 'IPAddress'.
+Error: Invalid column name 'IPAddress'.
+Error: Invalid column name 'IPAddress'.
+Error: Invalid column name 'IPAddress'.
+Error: Invalid column name 'IPAddress'.
+Error: Invalid column name 'IPAddress'.
+Error: Invalid column name 'IPAddress'.
+Error: Invalid column name 'IPAddress'.
+Error: Invalid column name 'IPAddress'.
+Error: Invalid column name 'IPAddress'.
+Error: Invalid column name 'IPAddress'.
+Error: Invalid column name 'IPAddress'.
+Error: Invalid column name 'IPAddress'.
+Error: Invalid column name 'IPAddress'.
+Error: Invalid column name 'IPAddress'.
+Error: Invalid column name 'IPAddress'.
+Error: Invalid column name 'IPAddress'.
+Error: Invalid column name 'IPAddress'.
+Error: Invalid column name 'IPAddress'.
+Error: Invalid column name 'IPAddress'.
+Error: Invalid column name 'IPAddress'.
+Error: Invalid column name 'IPAddress'.
+Error: Invalid column name 'IPAddress'.
+Error: Invalid column name 'IPAddress'.
+Error: Invalid column name 'IPAddress'.
+Error: Invalid column name 'IPAddress'.
+Error: Invalid column name 'IPAddress'.
+Error: Invalid column name 'IPAddress'.
+Error: Invalid column name 'IPAddress'.
+Error: Invalid column name 'IPAddress'.
+Error: Invalid column name 'IPAddress'.
+Error: Invalid column name 'IPAddress'.
+Finished with database inserts.
+Finished at 2/8/2018 2:21:52 PM
